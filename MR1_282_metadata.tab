@@ -1,0 +1,138 @@
+Chip	Group	info
+1	anaerobic	FE(III)
+2	anaerobic	Fumarate
+3	anaerobic	DMSO
+6	anaerobic	Cobalt
+7	anaerobic	MnOX
+9	anaerobic	Nitrate
+30	carbon source	NAG - stationary (high Calcium)
+31	carbon source	D,L lactate - stationary (high Calcium)
+32	carbon source	pyruvate - stationary (high Calcium)
+34	carbon source	NAG  - exponential
+35	carbon source	NAG saturated
+36	carbon source	L-lactate saturated
+37	carbon source	pyruvate - exponential
+38	carbon source	pyruvate - saturated
+39	carbon source	D,L lactate - exp1
+40	carbon source	D,L lactate - stat1
+41	carbon source	D,L lactate - exp2
+42	carbon source	D,L lactate - stat2
+43	carbon source	adenosine - saturated
+44	carbon source	dna +C-N+P (lacate is carbon source)
+46	carbon source	D,L lacate + CAS + vitamins
+47	carbon source	D,L lactate + CAS - vitamins
+48	carbon source	tween-20 exponential
+49	carbon source	Inosine saturated
+50	carbon source	D-Lactate saturated
+52	anaerobic	DMSO e acceptor
+53	anaerobic	DMSO e acceptor + .01% CAS amino acids
+54	anaerobic	fumarate e acceptor
+55	anaerobic	fumarate e acceptor + .01% CAS amino acids
+56	anaerobic	MnOX e acceptor
+57	anaerobic	MnOX e acceptor + .01% CAS amino acids
+58	anaerobic	Nitrate e acceptor
+59	anaerobic	Nitrate e acceptor + .01% CAS amino acids
+60	carbon source	CAS amino acids
+61	carbon source	Inosine
+62	carbon source	Cytidine
+63	carbon source	Uridine
+64	carbon source	Guanosine
+65	carbon source	Gelatin
+66	carbon source	Tween-20
+67	carbon source	D,L lactate + .2% CAS + VIT
+68	carbon source	D,L lactate + .2% CAS - VIT
+69	carbon source	D,L lactate - .2% CAS - VIT
+72	carbon source	D-Lactate
+73	carbon source	potassium acetate
+74	carbon source	L-glutamic acid
+75	carbon source	L-glutamine
+85	nitrogen source	L-phenylalanine (N source)
+87	nitrogen source	ammonium chloride (N source)
+88	nitrogen source	putrescine (N source)
+89	nitrogen source	L-isoleucine (N source)
+90	nitrogen source	adenosine (N source)
+91	nitrogen source	L-arginine (N source)
+96	carbon source	sodium propionate (C source)
+98	carbon source	propionate
+99	carbon source	leucine
+103	carbon source	isoleucine
+104	carbon source	gly-asp
+105	anaerobic	fumarate e acceptor/NAG e donor
+106	anaerobic	fumarate e acceptor/inosine e donor
+107	anaerobic	dmso e acceptor/NAG e donor
+108	anaerobic	dmso e acceptor/inosine e donor
+109	nitrogen source	glutamine
+110	nitrogen source	asparagine
+111	nitrogen source	NAG
+112	nitrogen source	ammonium chloride (N source)
+130	nitrogen source	L-alanine (nitrogen)
+131	nitrogen source	Threonine (nitrogen)
+132	nitrogen source	Glycine (nitrogen)
+133	nitrogen source	Leucine (nitrogen)
+134	nitrogen source	Histidine (nitrogen)
+136	nitrogen source	Aspartic Acid (nitrogen)
+137	nitrogen source	Methionine (nitrogen)
+139	carbon source	alpha ketoglutaric acid (carbon)
+140	anaerobic	Nitrate-inosine
+142	anaerobic	Nitrate-NAG
+143	anaerobic	MnOX-NAG
+146	sulfur source	hypotaurine
+147	sulfur source	thiourea
+148	sulfur source	thiosulfate
+149	sulfur source	cysteine
+150	sulfur source	sulfate
+151	sulfur source	sulfite
+152	sulfur source	glutathione
+153	sulfur source	thiophosphate
+154	phos source	Na2H2PO4
+155	phos source	cytidine 5' monophosphate
+156	phos source	tripolyphospate
+157	phos source	o-phosphyl-ethanolamine
+158	phos source	glycerol phosphate
+160	carbon source	gly-glu
+161	carbon source	propionate
+167	carbon source	glutamine
+168	carbon source	isoleucine
+171	carbon source	glutamic acid
+172	carbon source	gly-asp
+173	carbon source	leucine
+175	nitrogen source	L-glutamine
+176	nitrogen source	L-phenylalanine
+177	nitrogen source	putrescine
+178	nitrogen source	L-glutamic acid
+179	nitrogen source	L-glycine
+180	nitrogen source	L-serine
+181	nitrogen source	L-alanine
+182	nitrogen source	L-threonine
+184	nitrogen source	L-isoleucine
+185	nitrogen source	adenosine
+187	nitrogen source	ammonium chloride
+189	nitrogen source	L-asparagine
+191	carbon source	propionate
+215	carbon source	D-lactate
+217	carbon source	malic acid
+219	carbon source	serine
+220	carbon source	butyrate
+221	nitrogen source	methionine
+222	nitrogen source	proline
+223	nitrogen source	aspartic acid
+225	carbon and nitrogen source	cytidine
+226	carbon and nitrogen source	NAG
+227	carbon and nitrogen source	glutamine
+228	carbon and nitrogen source	threonine
+229	carbon and nitrogen source	isoleucine
+230	carbon and nitrogen source	glutamic acid
+232	carbon and nitrogen source	serine
+244	carbon source	DNA_as_CNP
+250	carbon source	n-acetylglucosamine
+252	carbon source	inosine
+254	anaerobic	fumarate_e_acceptor
+258	carbon source	DNA_as_CP
+260	carbon source	DNA_as_C
+262	nitrogen source	DNA_as_N
+264	nitrogen source	DNA_as_NP
+266	anaerobic	DMSO_e_acceptor_plusCAS
+268	anaerobic	fumarate_e_acceptor_plusCAS
+270	anaerobic	nitrate_e_acceptor_plusCAS
+272	anaerobic	TMAO_e_acceptor_plusCAS
+274	anaerobic	iron_citrate_e_acceptor_plusCAS

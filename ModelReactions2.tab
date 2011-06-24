@@ -1,0 +1,915 @@
+Reaction Names	Reaction ID	Reaction	GeneMapStr	Genes
+4-hydroxybenzoyl-CoA thioesterase	4HBTE	4HBCOA[C] + H2O[C]->4HBZ[C] + COA[C] + H[C]->	GENE_ASSOCIATION: ( SO1256 )	SO1256;
+5'-deoxyadenosine nuclosidase	5DOAN	DAD-5[C] + H2O[C]->5DRIB[C] + ADE[C]->	GENE_ASSOCIATION: ( SO3705 ) or ( SO1322 )	
+arabinose-5-phosphate isomerase	A5PISO	RU5P-D[C]->ARA5P[C]->	GENE_ASSOCIATION:	
+acyl-[acyl-carrier-protein] synthetase (n-C14:0)	AACPS10	ACP[C] + ATP[C] + FA1[C]->AMP[C] + FA1ACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C15:0)	AACPS11	ACP[C] + ATP[C] + FA3[C]->AMP[C] + FA3ACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C16:0)	AACPS12	ACP[C] + ATP[C] + FA6[C]->AMP[C] + FA6ACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C17:0)	AACPS13	ACP[C] + ATP[C] + FA11[C]->AMP[C] + FA11ACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C15:1)	AACPS14	ACP[C] + ATP[C] + PDE[C]->AMP[C] + PDEACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C17:1)	AACPS15	ACP[C] + ATP[C] + HPDE[C]->AMP[C] + HPDEACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+Unnamed1	AACPS16	ACP[C] + ATP[C] + DODCA[C]->AMP[C] + DDCAACP[C] + PPI[C]->	GENE_ASSOCIATION:	
+acyl-[acyl-carrier-protein] synthetase  (n-C16:0)	AACPS3	ACP[C] + ATP[C] + HDCA[C]->AMP[C] + PALMACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase  (n-C16:1)	AACPS4	ACP[C] + ATP[C] + HDCEA[C]->AMP[C] + HDEACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase  (n-C18:1)	AACPS5	ACP[C] + ATP[C] + OCDCEA[C]->AMP[C] + OCTEACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C15:0)	AACPS6	ACP[C] + ATP[C] + PTDCA[C]->AMP[C] + PDACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C17:0)	AACPS7	ACP[C] + ATP[C] + HPDCA[C]->AMP[C] + HPDACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C18:0)	AACPS8	ACP[C] + ATP[C] + OCDCA[C]->AMP[C] + OCDACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+acyl-[acyl-carrier-protein] synthetase (n-C13:0)	AACPS9	ACP[C] + ATP[C] + FA13[C]->AMP[C] + FA13ACP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0194 )	SO0194;
+4-aminobutyrate transaminase	ABTA	4ABUT[C] + AKG[C]->GLU-L[C] + SUCSAL[C]->	GENE_ASSOCIATION: ( SO1276 )	SO1276;
+Unnamed2	ACACCB	AACOA[C] + COA[C]->2 ACCOA[C]->	GENE_ASSOCIATION: ( SO1677 )	SO1677;
+acetyl-CoA:acetoacetyl-CoA transferase	ACACCT	ACAC[C] + ACCOA[C]->AACOA[C] + AC[C]->	GENE_ASSOCIATION: ( SO1891 and SO1892 )	SO1891;SO1892;
+Unnamed3	ACACT10R	2MAACOA[C] + COA[C]->ACCOA[C] + PPCOA[C]->	GENE_ASSOCIATION: ( SO0020 )	SO0020;
+acetaldehyde dehydrogenase (acetylating)	ACALDI	ACALD[C] + COA[C] + NAD[C]->ACCOA[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO2136 )	SO2136;
+Adenosyl cobainamide GTP transferase	ACBIPGT	ADCOBAP[C] + GTP[C] + H[C]->ADGCOBA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1037 )	SO1037;
+acetyl-CoA carboxylase	ACCOAC	ACCOA[C] + ATP[C] + HCO3[C]->ADP[C] + H[C] + MALCOA[C] + PI[C]->	GENE_ASSOCIATION: ( SO0511 and SO0840 )	SO0511;SO0840;
+acetate-CoA ligase (ADP-forming)	ACCOAL	ATP[C] + COA[C] + PPA[C]->ADP[C] + PI[C] + PPCOA[C]->	GENE_ASSOCIATION: ( SO1900 ) or ( SO2743 )	
+N-acetylglucosamine kinase	ACGAMK	ACGAM[C] + ATP[C]->ACGAM6P[C] + ADP[C] + H[C]->	GENE_ASSOCIATION: ( SO3507 )	SO3507;
+N-Acetyl-D-glucosamine transport via proton symport	ACGAT2	ACGAM[E] + H[E]->ACGAM[C] + H[C]->	GENE_ASSOCIATION: ( SO3503 )	SO3503;
+acetylglutamate kinase	ACGK	ACGLU[C] + ATP[C]->ACG5P[C] + ADP[C]->	GENE_ASSOCIATION: ( SO0276 )	SO0276;
+N-acetylglutamate synthase	ACGS	ACCOA[C] + GLU-L[C]->ACGLU[C] + COA[C] + H[C]->	GENE_ASSOCIATION: ( SO4245 )	SO4245;
+2-aceto-2-hydroxybutanoate synthase	ACHBS	2OBUT[C] + H[C] + PYR[C]->2AHBUT[C] + CO2[C]->	GENE_ASSOCIATION: ( SO2278 and SO2279 ) or ( SO4346 and SO4347 )	
+acetate kinase	ACKR	AC[C] + ATP[C]->ACTP[C] + ADP[C]->	GENE_ASSOCIATION: ( SO2915 ) or ( SO3613 )	
+acetolactate synthase (Also catalyzes ACHBS)	ACLS	H[C] + 2 PYR[C]->ALAC-S[C] + CO2[C]->	GENE_ASSOCIATION: ( SO4346 and SO4347 ) or ( SO2278 and SO2279 )	
+Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	ACMAT1	ACACP[C] + H[C] + MALACP[C]->ACP[C] + ACTACP[C] + CO2[C]->	GENE_ASSOCIATION: ( SO2774 ) or ( SO3072 )	
+Unnamed4	ACOAD10	2MBCOA[C] + NAD[C]->2MB2COA[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO0021 )	SO0021;
+acyl-CoA dehydrogenase (isovaleryl-CoA)	ACOAD8	IVCOA[C] + NAD[C]->3MB2COA[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO1897 )	SO1897;
+Unnamed5	ACOAD9	IBCOA[C] + NAD[C]->2MP2COA[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO0021 )	SO0021;
+Acetyl-CoA ACP transacylase	ACOATA	ACCOA[C] + ACP[C]->ACACP[C] + COA[C]->	GENE_ASSOCIATION: ( SO2778 ) or ( SO1742 ) or ( SO2901 ) or ( SO2853 )	
+acetylornithine deacetylase	ACODA	ACORN[C] + H2O[C]->AC[C] + ORN-L[C]->	GENE_ASSOCIATION:	
+aconitase	ACONT	CIT[C]->ICIT[C]->	GENE_ASSOCIATION: ( SO0432 ) or ( SO0343 )	
+acetylornithine transaminase	ACOTA	ACORN[C] + AKG[C]->ACG5SA[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO0617 )	SO0617;
+acyl-carrier protein synthase	ACPS1	APOACP[C] + COA[C]->ACP[C] + H[C] + PAP[C]->	GENE_ASSOCIATION: ( SO1352 )	SO1352;
+[acyl-carrier-protein] phosphodiesterase	ACPSC	ACP[C] + H2O[C]->APOACP[C] + H[C] + PAN4P[C]->	GENE_ASSOCIATION: ( SO3116 )	SO3116;
+acetyl-CoA synthetase	ACS	AC[C] + ATP[C] + COA[C]->ACCOA[C] + AMP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2743 )	SO2743;
+acetate transport in/out via proton symport	ACT6	AC[E] + H[E]->AC[C] + H[C]->	GENE_ASSOCIATION:	
+Adenosine deaminase	ADA	ADN[C] + H2O[C] + H[C]->INS[C] + NH4[C]->	GENE_ASSOCIATION: ( SO4731 )	SO4731;
+4-aminobenzoate synthase	ADCL	4ADCHO[C]->4ABZ[C] + H[C] + PYR[C]->	GENE_ASSOCIATION: ( SO2615 ) or ( SO2614 )	
+Adenosyl cobinamide kinase	ADCOBAK	ADCOBA[C] + ATP[C]->ADCOBAP[C] + ADP[C] + H[C]->	GENE_ASSOCIATION: ( SO1037 )	SO1037;
+adenosylcobinamide-phosphate synthase	ADCOBAS	1AP2OL[C] + ADCOBHEX[C]->ADCOBA[C] + H2O[C]->	GENE_ASSOCIATION: ( SO1321 )	SO1321;
+adenosylcobyric acid synthase	ADCOBHEXS	ADCOBDAM[C] + 4 ATP[C] + 4 GLN-L[C] + 4 H2O[C]->ADCOBHEX[C] + 4 ADP[C] + 4 GLU-L[C] + 4 H[C] + 4 PI[C]->	GENE_ASSOCIATION: ( SO1038 )	SO1038;
+4-amino-4-deoxychorismate synthase	ADCS	CHOR[C] + GLN-L[C]->4ADCHO[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO0613 and SO2221 )	SO0613;SO2221;
+adenylate kinase	ADK1	AMP[C] + ATP[C]->2 ADP[C]->	GENE_ASSOCIATION: ( SO2018 )	SO2018;
+guanylate kinase (aMP:gTP)	ADK3	AMP[C] + GTP[C]->ADP[C] + GDP[C]->	GENE_ASSOCIATION: ( SO2018 )	SO2018;
+adentylate kinase (ITP)	ADK4	AMP[C] + ITP[C]->ADP[C] + IDP[C]->	GENE_ASSOCIATION: ( SO2018 )	SO2018;
+Adenosylmethionine decarboxylase	ADMDC	AMET[C] + H[C]->AMETAM[C] + CO2[C]->	GENE_ASSOCIATION: ( SO1871 )	SO1871;
+adenylate cyclase	ADNCYC	ATP[C]->CAMP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO4312 ) or ( SO1329 ) or ( SO3778 )	
+adenosine kinase	ADNK1	ADN[C] + ATP[C]->ADP[C] + AMP[C] + H[C]->	GENE_ASSOCIATION: ( SO2018 )	SO2018;
+adenosine transport in via proton symport	ADNT2	ADN[E] + H[E]->ADN[C] + H[C]->	GENE_ASSOCIATION: ( SO1214 ) or ( SO4296 ) or ( SO3706 ) or ( SO0093 )	
+adenine phosphoribosyltransferase	ADPT	ADE[C] + PRPP[C]->AMP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2012 )	SO2012;
+adenylyl-sulfate kinase	ADSK	APS[C] + ATP[C]->ADP[C] + H[C] + PAPS[C]->	GENE_ASSOCIATION: ( SO3723 )	SO3723;
+adenylsuccinate lyase	ADSL1R	DCAMP[C]->AMP[C] + FUM[C]->	GENE_ASSOCIATION: ( SO2635 )	SO2635;
+adenylosuccinate lyase	ADSL2R	25AICS[C]->AICAR[C] + FUM[C]->	GENE_ASSOCIATION: ( SO2635 )	SO2635;
+adenylosuccinate synthetase	ADSS	ASP-L[C] + GTP[C] + IMP[C]->DCAMP[C] + GDP[C] + 2 H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1258 ) or ( SO3937 )	
+N-acetylglucosamine-6-phosphate deacetylase	AGDC	ACGAM6P[C] + H2O[C]->AC[C] + GAM6P[C]->	GENE_ASSOCIATION: ( SO3505 )	SO3505;
+N-acetyl-g-glutamyl-phosphate reductase	AGPR	ACG5SA[C] + NADP[C] + PI[C]->ACG5P[C] + H[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO0275 )	SO0275;
+acetohydroxy acid isomeroreductase	AHAI	ALAC-S[C] + H[C] + NADPH[C]->23DHMB[C] + NADP[C]->	GENE_ASSOCIATION: ( SO4349 )	SO4349;
+adenosylhomocysteine nucleosidase	AHCYSNS	AHCYS[C] + H2O[C]->ADE[C] + RHCYS[C]->	GENE_ASSOCIATION: ( SO1322 ) or ( SO3705 )	
+O-acetylhomoserine (thiol)-lyase	AHSERL	ACHMS[C] + CH4S[C]->AC[C] + H[C] + MET-L[C]->	GENE_ASSOCIATION: ( SO1095 )	SO1095;
+O-acetylhomoserine (thiol)-lyase	AHSERL2	ACHMS[C] + H2S[C]->AC[C] + HCYS-L[C]->	GENE_ASSOCIATION: ( SO1095 )	SO1095;
+phosphoribosylaminoimidazolecarboxamide formyltransferase	AICART	10FTHF[C] + AICAR[C]->FPRICA[C] + THF[C]->	GENE_ASSOCIATION: ( SO0442 )	SO0442;
+phosphoribosylaminoimidazole carboxylase	AIRC2	AIR[C] + ATP[C] + HCO3[C]->5CAIZ[C] + ADP[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO3555 )	SO3555;
+phosphoribosylaminoimidazole carboxylase (mutase rxn)	AIRC3	5AIZC[C]->5CAIZ[C]->	GENE_ASSOCIATION: ( SO3554 )	SO3554;
+2-oxoglutarate dehydrogenase	AKGD	AKG[C] + COA[C] + NAD[C]->CO2[C] + NADH[C] + SUCCOA[C]->	GENE_ASSOCIATION: ( SO0426 and SO1930 and SO1931 )	SO0426;SO1930;SO1931;
+2-oxoglutarate transport in/out via proton symport	AKGT6	AKG[E] + H[E]->AKG[C] + H[C]->	GENE_ASSOCIATION:	
+D-alanine-D-alanine ligase (reversible)	ALAALA	2 ALA-D[C] + ATP[C]->ADP[C] + ALAALA[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO2217 )	SO2217;
+L-alanine dehydrogenase	ALAD_L	ALA-L[C] + H2O[C] + NAD[C]->H[C] + NADH[C] + NH4[C] + PYR[C]->	GENE_ASSOCIATION: ( SO2304 )	SO2304;
+alanine racemase	ALAR	ALA-L[C]->ALA-D[C]->	GENE_ASSOCIATION: ( SO3916 )	SO3916;
+Alanine-Sodium symporter	ALAT4	ALA-L[E] + NA1[E]->ALA-L[C] + NA1[C]->	GENE_ASSOCIATION: ( SO3541 ) or ( SO0858 ) or ( SO3063 )	
+D-alanine transaminase	ALATA_D2	ALA-D[C] + PYDX5P[C]->PYAM5P[C] + PYR[C]->	GENE_ASSOCIATION: ( SO3471 )	SO3471;
+L-alanine transaminase	ALATA_L	AKG[C] + ALA-L[C]->GLU-L[C] + PYR[C]->	GENE_ASSOCIATION:	
+alanine transaminase	ALATA_L2	ALA-L[C] + PYDX5P[C]->PYAM5P[C] + PYR[C]->	GENE_ASSOCIATION: ( SO3471 )	SO3471;
+Alanyl-tRNA synthetase	ALATRS	ALA-L[C] + ATP[C] + TRNAALA[C]->ALATRNA[C] + AMP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3428 )	SO3428;
+D-Alanine-Sodium symporter	ALA_DT4	ALA-D[E] + NA1[E]->ALA-D[C] + NA1[C]->	GENE_ASSOCIATION: ( SO3541 ) or ( SO0858 ) or ( SO3063 )	
+alcohol dehydrogenase (ethanol: NAD)	ALCD2X	ETOH[C] + NAD[C]->ACALD[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO2136 )	SO2136;
+aldehyde dehydrogenase (acetaldehyde, NAD)	ALDD2X	ACALD[C] + H2O[C] + NAD[C]->AC[C] + 2 H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO4480 )	SO4480;
+N-acetylmuramoyl-L-alanine amidase	AMAA	ACMAMA[C] + H2O[C]->ACMAM[C] + ALA-L[C]->	GENE_ASSOCIATION: ( SO0600 )	SO0600;
+Amylomaltase (maltotriose)	AMALT1	MALT[C] + MALTTR[C]->GLC-D[C] + MALTTTR[C]->	GENE_ASSOCIATION: ( SO1493 )	SO1493;
+Amylomaltase (maltotetraose)	AMALT2	MALT[C] + MALTTTR[C]->GLC-D[C] + MALTPT[C]->	GENE_ASSOCIATION: ( SO1493 )	SO1493;
+Amylomaltase (maltopentaose)	AMALT3	MALT[C] + MALTPT[C]->GLC-D[C] + MALTHX[C]->	GENE_ASSOCIATION: ( SO1493 )	SO1493;
+Amylomaltase (maltohexaose)	AMALT4	MALT[C] + MALTHX[C]->GLC-D[C] + MALTHP[C]->	GENE_ASSOCIATION: ( SO1493 )	SO1493;
+adenosylmethionine-8-amino-7-oxononanoate transaminase	AMAOT	8AONN[C] + AMET[C]->AMOB[C] + DANN[C]->	GENE_ASSOCIATION: ( SO2741 )	SO2741;
+S-adenosylmethione:2-demthylmenaquinone methyltransferase (menaquinone 7)	AMMQT7_2	2DMMQ7[C] + AMET[C]->AHCYS[C] + H[C] + MQN7[C]->	GENE_ASSOCIATION: ( SO4199 )	SO4199;
+S-adenosylmethione:menaquinone methyltransferase (methylmenaquinone 7)	AMMQT7_3	AMET[C] + MQN7[C]->AHCYS[C] + H[C] + MMQN7[C]->	GENE_ASSOCIATION:	
+4-amino-2-methyl-5-phosphomethylpyrimidine synthetase	AMPMS	AIR[C] + H2O[C]->4AMPM[C] + 2 FOR[C] + 4 H[C]->	GENE_ASSOCIATION: ( SO2445 )	SO2445;
+anthranilate phosphoribosyltransferase	ANPRT	ANTH[C] + PRPP[C]->PPI[C] + PRAN[C]->	GENE_ASSOCIATION: ( SO3021 )	SO3021;
+anthranilate synthase	ANS1	CHOR[C] + GLN-L[C]->ANTH[C] + GLU-L[C] + H[C] + PYR[C]->	GENE_ASSOCIATION: ( SO3019 and SO3020 )	SO3019;SO3020;
+8-amino-7-oxononanoate synthase	AOXS	ALA-L[C] + H[C] + PMCOA[C]->8AONN[C] + CO2[C] + COA[C]->	GENE_ASSOCIATION: ( SO2739 )	SO2739;
+bis(5'-nucleosyl)-tetraphosphatase	AP4AH	AP4A[C] + H2O[C]->2 ADP[C] + 2 H[C]->	GENE_ASSOCIATION: ( SO3641 )	SO3641;
+Ap5A hydrolase	AP5AH	AP5A[C] + H2O[C]->ADP[C] + ATP[C] + 2 H[C]->	GENE_ASSOCIATION: ( SO3641 )	SO3641;
+5-amino-6-(5-phosphoribosylamino)uracil reductase	APRAUR	5APRU[C] + H[C] + NADPH[C]->5APRBU[C] + NADP[C]->	GENE_ASSOCIATION: ( SO3469 )	SO3469;
+L-arginine transport via ABC system	ARGABC	ARG-L[E] + ATP[C] + H2O[C]->ADP[C] + ARG-L[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1044 and SO1043 and SO1042 )	SO1042;SO1043;SO1044;
+arginine decarboxylase	ARGDC	ARG-L[C] + H[C]->AGM[C] + CO2[C]->	GENE_ASSOCIATION: ( SO1870 )	SO1870;
+argininosuccinate lyase	ARGSL	ARGSUC[C]->ARG-L[C] + FUM[C]->	GENE_ASSOCIATION: ( SO0279 )	SO0279;
+argininosuccinate synthase	ARGSS	ASP-L[C] + ATP[C] + CITR-L[C]->AMP[C] + ARGSUC[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0278 )	SO0278;
+Arginyl-tRNA synthetase	ARGTRS	ARG-L[C] + ATP[C] + TRNAARG[C]->AMP[C] + ARGTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO4123 )	SO4123;
+arsenate reductase (glutaredoxin)	ARSRD2	ARSNA[C] + 2 GTHRD[C] + 2 H[C]->ARSNI2[C] + GTHOX[C] + H2O[C]->	GENE_ASSOCIATION: ( SO2871 ) or ( SO0533 ) or ( SO2745 )	
+Arsenite transporter	ARST	ARSNA[E] + H[E]->ARSNA[C] + H[C]->	GENE_ASSOCIATION: ( SO1052 )	SO1052;
+arsenite transporter via uniport	ARST1	ARSNI2[C]->ARSNI2[E]->	GENE_ASSOCIATION: ( SO0534 )	SO0534;
+aspartate-semialdehyde dehydrogenase	ASAD	ASPSA[C] + NADP[C] + PI[C]->4PASP[C] + H[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO3070 )	SO3070;
+L-asparaginase	ASNN	ASN-L[C] + H2O[C]->ASP-L[C] + NH4[C]->	GENE_ASSOCIATION: ( SO2115 ) or ( SO2421 )	
+asparagine synthase (glutamine-hydrolysing)	ASNS1	ASP-L[C] + ATP[C] + GLN-L[C] + H2O[C]->AMP[C] + ASN-L[C] + GLU-L[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3175 ) or ( SO2767 )	
+Unnamed6	ASNT2R	ASN-L[E] + H[E]->ASN-L[C] + H[C]->	GENE_ASSOCIATION:	
+Asparaginyl-tRNA synthetase	ASNTRS	ASN-L[C] + ATP[C] + TRNAASN[C]->AMP[C] + ASNTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2218 )	SO2218;
+aspartate 1-decarboxylase	ASP1DC	ASP-L[C] + H[C]->ALA-B[C] + CO2[C]->	GENE_ASSOCIATION:	
+aspartate carbamoyltransferase	ASPCT	ASP-L[C] + CBP[C]->CBASP[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1301 )	SO1301;
+aspartate kinase	ASPK	ASP-L[C] + ATP[C]->4PASP[C] + ADP[C]->	GENE_ASSOCIATION: ( SO3415 ) or ( SO4055 ) or ( SO3986 ) or ( SO3427 )	
+L-aspartate oxidase	ASPO3	ASP-L[C] + UBQ8[C]->H[C] + IASP[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO1341 )	SO1341;
+L-aspartate oxidase	ASPO5	ASP-L[C] + FUM[C]->H[C] + IASP[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO1341 )	SO1341;
+L-aspartate oxidase	ASPO6	ASP-L[C] + O2[C]->H2O2[C] + H[C] + IASP[C]->	GENE_ASSOCIATION: ( SO1341 )	SO1341;
+L-aspartate oxidase	ASPO8	ASP-L[C] + MQN7[C]->H[C] + IASP[C] + MQL7[C]->	GENE_ASSOCIATION: ( SO1341 )	SO1341;
+L-aspartate oxidase	ASPO9	ASP-L[C] + MMQN7[C]->H[C] + IASP[C] + MMQL7[C]->	GENE_ASSOCIATION: ( SO1341 )	SO1341;
+L-asparate transport via proton symport (3 H)	ASPT2_3	ASP-L[E] + 3 H[E]->ASP-L[C] + 3 H[C]->	GENE_ASSOCIATION: ( SO4417 )	SO4417;
+aspartate transaminase	ASPTA1	AKG[C] + ASP-L[C]->GLU-L[C] + OAA[C]->	GENE_ASSOCIATION: ( SO2406 ) or ( SO2350 )	
+aspartate transaminase	ASPTA4	AKG[C] + CYS-L[C]->GLU-L[C] + MERCPPYR[C]->	GENE_ASSOCIATION: ( SO2350 ) or ( SO2406 )	
+Aspartyl-tRNA synthetase	ASPTRS	ASP-L[C] + ATP[C] + TRNAASP[C]->AMP[C] + ASPTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2433 )	SO2433;
+Arginine succinyltransferase	AST	ARG-L[C] + SUCCOA[C]->COA[C] + H[C] + SUCARG[C]->	GENE_ASSOCIATION: ( SO0618 )	SO0618;
+ATP maintenance requirment	ATPM	ATP[C] + H2O[C]->ADP[C] + H[C] + PI[C]->	GENE_ASSOCIATION:	
+ATP phosphoribosyltransferase	ATPPRT	ATP[C] + PRPP[C]->PPI[C] + PRBATP[C]->	GENE_ASSOCIATION: ( SO2074 )	SO2074;
+ATP synthase (four protons for one ATP)	ATPS4R	ADP[C] + 4 H[E] + PI[C]->ATP[C] + H2O[C] + 3 H[C]->	GENE_ASSOCIATION: ( SO4751 and SO4752 and SO4753 and SO4746 and SO4747 and SO4748 and SO4749 and SO4750 and SO4754 )	SO4746;SO4747;SO4748;SO4749;SO4750;SO4751;SO4752;SO4753;SO4754;
+3',5'-bisphosphate nucleotidase	BPNT	H2O[C] + PAP[C]->AMP[C] + PI[C]->	GENE_ASSOCIATION: ( SO0191 ) or ( SO1655 )	
+biotin synthase (ala-L producing)	BTS2	CYS-L[C] + DTBT[C]->ALA-L[C] + BTN[C] + 2 H[C]->	GENE_ASSOCIATION: ( SO2740 )	SO2740;
+Fatty acid biosynthesis (n-C12:0)	C120SN	ACTACP[C] + 14 H[C] + 4 MALACP[C] + 10 NADPH[C]->4 ACP[C] + 4 CO2[C] + DDCAACP[C] + 5 H2O[C] + 10 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 ) or ( SO1856 and SO3072 and SO2776 and SO1800 )	
+b-ketoacyl synthetase (Iso-C13:0)	C130ISN	FA7ACP[C] + 9 H[C] + 3 MALACP[C] + 6 NADPH[C]->3 ACP[C] + 3 CO2[C] + FA13ACP[C] + 3 H2O[C] + 6 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 )	
+b-ketoacyl synthetase (Iso-C14:0)	C140ISN	FA8ACP[C] + 12 H[C] + 4 MALACP[C] + 8 NADPH[C]->4 ACP[C] + 4 CO2[C] + FA1ACP[C] + 4 H2O[C] + 8 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 )	
+Fatty acid biosynthesis (n-C14:0)	C140SN	ACTACP[C] + 17 H[C] + 5 MALACP[C] + 12 NADPH[C]->5 ACP[C] + 5 CO2[C] + 6 H2O[C] + MYRSACP[C] + 12 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO2774 and SO2776 and SO1800 and SO1640 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO1856 and SO3072 and SO2776 and SO1800 )	
+b-ketoacyl synthetase (Iso-C15:0)	C150ISN	FA7ACP[C] + 12 H[C] + 4 MALACP[C] + 8 NADPH[C]->4 ACP[C] + 4 CO2[C] + FA3ACP[C] + 4 H2O[C] + 8 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 )	
+b-ketoacyl synthetase (C15:0)	C150SN	FA14ACP[C] + 15 H[C] + 5 MALACP[C] + 10 NADPH[C]->5 ACP[C] + 5 CO2[C] + 5 H2O[C] + 10 NADP[C] + PDACP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 )	
+Fatty acid biosynthesis (n-C15:1)	C151SN	17 H[C] + 6 MALACP[C] + 11 NADPH[C] + PPCOA[C]->5 ACP[C] + 6 CO2[C] + COA[C] + 6 H2O[C] + 11 NADP[C] + PDEACP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2774 and SO2776 and SO1800 and SO1640 )	SO1640;SO1800;SO1856;SO2774;SO2776;SO3072;
+b-ketoacyl synthetase (Iso-C16:0)	C160ISN	FA8ACP[C] + 15 H[C] + 5 MALACP[C] + 10 NADPH[C]->5 ACP[C] + 5 CO2[C] + FA6ACP[C] + 5 H2O[C] + 10 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 )	
+Fatty acid biosynthesis (n-C16:0)	C160SN	ACTACP[C] + 20 H[C] + 6 MALACP[C] + 14 NADPH[C]->6 ACP[C] + 6 CO2[C] + 7 H2O[C] + 14 NADP[C] + PALMACP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO2774 and SO2776 and SO1800 and SO1640 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 )	
+Fatty acid biosynthesis (n-C16:1)	C161SN	ACTACP[C] + 19 H[C] + 6 MALACP[C] + 13 NADPH[C]->6 ACP[C] + 6 CO2[C] + 7 H2O[C] + HDEACP[C] + 13 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 and SO1640 )	SO1640;SO1800;SO1856;SO2776;SO3072;
+b-ketoacyl synthetase (Iso-C17:0)	C170ISN	FA7ACP[C] + 15 H[C] + 5 MALACP[C] + 10 NADPH[C]->5 ACP[C] + 5 CO2[C] + FA11ACP[C] + 5 H2O[C] + 10 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 )	
+b-ketoacyl synthetase (C17:0)	C170SN	FA14ACP[C] + 18 H[C] + 6 MALACP[C] + 12 NADPH[C]->6 ACP[C] + 6 CO2[C] + 6 H2O[C] + HPDACP[C] + 12 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 )	
+b-ketoacyl synthetase (C17:1)	C171SN	20 H[C] + 7 MALACP[C] + 13 NADPH[C] + PPCOA[C]->6 ACP[C] + 7 CO2[C] + COA[C] + 7 H2O[C] + HPDEACP[C] + 13 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2774 and SO2776 and SO1800 and SO1640 )	SO1640;SO1800;SO1856;SO2774;SO2776;SO3072;
+Fatty acid biosynthesis (n-C18:0)	C180SN	ACTACP[C] + 23 H[C] + 7 MALACP[C] + 16 NADPH[C]->7 ACP[C] + 7 CO2[C] + 8 H2O[C] + 16 NADP[C] + OCDACP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2776 and SO1800 ) or ( SO1856 and SO2774 and SO2776 and SO1800 ) or ( SO3072 and SO2776 and SO1800 and SO1640 ) or ( SO2774 and SO2776 and SO1800 and SO1640 )	
+Fatty acid biosynthesis (n-C18:1)	C181SN	ACTACP[C] + 22 H[C] + 7 MALACP[C] + 15 NADPH[C]->7 ACP[C] + 7 CO2[C] + 8 H2O[C] + 15 NADP[C] + OCTEACP[C]->	GENE_ASSOCIATION: ( SO1856 and SO3072 and SO2774 and SO2776 and SO1800 and SO1640 )	SO1640;SO1800;SO1856;SO2774;SO2776;SO3072;
+Fatty acid biosynthesis (n-C5:0)	C50SN	3 H[C] + MALACP[C] + 2 NADPH[C] + PPCOA[C]->CO2[C] + COA[C] + FA14ACP[C] + H2O[C] + 2 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO2776 and SO2778 and SO1800 ) or ( SO1856 and SO2776 and SO2901 and SO1800 ) or ( SO1856 and SO2776 and SO1742 and SO1800 ) or ( SO1856 and SO2776 and SO2853 and SO1800 ) or ( SO2776 and SO2778 and SO1800 and SO1640 ) or ( SO2776 and SO2901 and SO1800 and SO1640 ) or ( SO2776 and SO1742 and SO1800 and SO1640 ) or ( SO2776 and SO2853 and SO1800 and SO1640 )	
+b-ketoacyl synthetase (Iso-C6:0)	C60ISN	3 H[C] + IBCOA[C] + MALACP[C] + 2 NADPH[C]->CO2[C] + COA[C] + FA8ACP[C] + H2O[C] + 2 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO2776 and SO2778 and SO1800 ) or ( SO1856 and SO2776 and SO2901 and SO1800 ) or ( SO1856 and SO2776 and SO1742 and SO1800 ) or ( SO1856 and SO2776 and SO2853 and SO1800 ) or ( SO2776 and SO2778 and SO1800 and SO1640 ) or ( SO2776 and SO2901 and SO1800 and SO1640 ) or ( SO2776 and SO1742 and SO1800 and SO1640 ) or ( SO2776 and SO2853 and SO1800 and SO1640 )	
+b-ketoacyl synthetase (Iso-C7:0)	C70ISN	3 H[C] + IVCOA[C] + MALACP[C] + 2 NADPH[C]->CO2[C] + COA[C] + FA7ACP[C] + H2O[C] + 2 NADP[C]->	GENE_ASSOCIATION: ( SO1856 and SO2776 and SO2778 and SO1800 ) or ( SO1856 and SO2776 and SO1742 and SO1800 ) or ( SO1856 and SO2776 and SO2901 and SO1800 ) or ( SO1856 and SO2776 and SO2853 and SO1800 ) or ( SO2776 and SO2778 and SO1800 and SO1640 ) or ( SO2776 and SO2901 and SO1800 and SO1640 ) or ( SO2776 and SO1742 and SO1800 and SO1640 ) or ( SO2776 and SO2853 and SO1800 and SO1640 )	
+catalase	CAT	2 H2O2[C]->2 H2O[C] + O2[C]->	GENE_ASSOCIATION: ( SO1070 ) or ( SO0725 ) or ( SO4405 )	
+calcium transport out via proton antiporter	CAT4I	CA2[C] + H[E]->CA2[E] + H[C]->	GENE_ASSOCIATION: ( SO1001 )	SO1001;
+Cobinamide adenyltransferase	CBIAT	ATP[C] + CBI[C] + H2O[C]->ADCOBA[C] + PI[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1039 )	SO1039;
+Cob(1)alamin transport via ABC system	CBL1ABC	ATP[C] + CBL1[E] + H2O[C]->ADP[C] + CBL1[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO0815 and SO1034 and SO1033 and SO3709 )	SO0815;SO1033;SO1034;SO3709;
+cob(I)alamin adenosyltransferase	CBLAT	ATP[C] + CBL1[C] + H2O[C]->COBAMCOA[C] + PI[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1039 )	SO1039;
+Co(III) Reductase: S. oneidensis	CBLTR3	2 COBALT3[E] + MQL7[C]->2 COBALT2[E] + 2 H[E] + MQN7[C]->	GENE_ASSOCIATION:	
+Co(III) Reductase: S. oneidensis	CBLTR4	2 COBALT3[E] + MMQL7[C]->2 COBALT2[E] + 2 H[E] + MMQN7[C]->	GENE_ASSOCIATION:	
+carbamoyl-phosphate synthase (glutamine-hydrolysing)	CBPS	2 ATP[C] + GLN-L[C] + H2O[C] + HCO3[C]->2 ADP[C] + CBP[C] + GLU-L[C] + 2 H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1141 and SO1142 )	SO1141;SO1142;
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	CDPMEK	4C2ME[C] + ATP[C]->2P4C2ME[C] + ADP[C] + H[C]->	GENE_ASSOCIATION: ( SO3836 )	SO3836;
+chorismate mutase	CHORM	CHOR[C]->PPHN[C]->	GENE_ASSOCIATION: ( SO1367 ) or ( SO1362 )	
+chorismate synthase	CHORS	3PSME[C]->CHOR[C] + PI[C]->	GENE_ASSOCIATION: ( SO3079 )	SO3079;
+chorismate pyruvate lyase	CHRPL	CHOR[C]->4HBZ[C] + PYR[C]->	GENE_ASSOCIATION: ( SO0131 )	SO0131;
+CMP-8-amino-3,8-dideoxy-D-manno-oct-2-ulosonic acid synthase	CKDOAS	CKDO[C] + GLU-L[C] + NAD[C]->AKG[C] + CKDO8N[C] + H[C] + NADH[C]->	GENE_ASSOCIATION:	
+chloramphenicol acetyltransferase	CLAT	ACCOA[C] + CM[C]->CMAC[C] + COA[C]->	GENE_ASSOCIATION: ( SO4299 )	SO4299;
+chlorideion transport out via diffusion	CLT	CL[E]->CL[C]->	GENE_ASSOCIATION: ( SO1302 )	SO1302;
+4-carboxymuconolactone decarboxylase	CMLDC	2C25DHO[C] + H[C]->5ODHF2A[C] + CO2[C]->	GENE_ASSOCIATION: ( SO0083 )	SO0083;
+CO2 transport out via diffusion	CO2T	CO2[E]->CO2[C]->	GENE_ASSOCIATION:	
+cobalt transport out via proton antiporter	COBALTT3	COBALT2[C] + H[E]->COBALT2[E] + H[C]->	GENE_ASSOCIATION: ( SO1178 )	SO1178;
+cobalt transport in/out via permease (no H+)	COBALTT5	COBALT2[C]->COBALT2[E]->	GENE_ASSOCIATION: ( SO1145 ) or ( SO3984 ) or ( SO1941 ) or ( SO3966 ) or ( SO1565 )	
+cobalamin-5'-phosphate synthase	COBPS	ADGCOBA[C] + RDMBZI[C]->COBAMCOA[C] + GMP[C] + H[C]->	GENE_ASSOCIATION: ( SO1036 )	SO1036;
+Coniferyl-aldehyde dehydrogenase	CONFALDD	CONFALD[C] + H2O[C] + NAD[C]->FRLT[C] + 2 H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO3683 )	SO3683;
+coproporphyrinogen oxidase	CPPPGO	CPPPG3[C] + 2 H[C] + O2[C]->2 CO2[C] + 2 H2O[C] + PPPG9[C]->	GENE_ASSOCIATION: ( SO0038 )	SO0038;
+Oxygen Independent coproporphyrinogen-III oxidase	CPPPGOAN	2 AMET[C] + CPPPG3[C] + 2 FDXO-4:2[C] + 2 NADPH[C]->2 CO2[C] + 2 DAD-5[C] + 2 FDXR-4:2[C] + 2 H[C] + 2 MET-L[C] + 2 NADP[C] + PPPG9[C]->	GENE_ASSOCIATION: ( SO4730 ) or ( SO4520 )	
+Chromium (VI) Reductase	CRMR	CRO4[E] + 2 H[E] + 1.500000e+00 MQL7[C]->CROH3[E] + H2O[E] + 1.500000e+00 MQN7[C]->	GENE_ASSOCIATION: ( SO4591 and SO3980 ) or ( SO1777 and SO1778 )	
+Chromium (VI) Reductase	CRMR2	CRO4[E] + 2 H[E] + 1.500000e+00 MMQL7[C]->CROH3[E] + H2O[E] + 1.500000e+00 MMQN7[C]->	GENE_ASSOCIATION: ( SO4591 and SO3980 ) or ( SO1777 and SO1778 )	
+Chromium (VI) Reductase	CRMR3	CRO4[E] + 3.500000e+00 H[E] + 1.500000e+00 NADH[C]->CROH3[E] + H2O[E] + 1.500000e+00 NAD[C]->	GENE_ASSOCIATION:	
+chromate transport in/out via proton symport	CRO4T6	CRO4[E] + H[E]->CRO4[C] + H[C]->	GENE_ASSOCIATION: ( SO0986 )	SO0986;
+citrate synthase	CS	ACCOA[C] + H2O[C] + OAA[C]->CIT[C] + COA[C] + H[C]->	GENE_ASSOCIATION: ( SO1926 )	SO1926;
+Cytosine deaminase	CSND	CSN[C] + H2O[C] + H[C]->NH4[C] + URA[C]->	GENE_ASSOCIATION: ( SO1397 )	SO1397;
+CTP synthase (glutamine)	CTPS2	ATP[C] + GLN-L[C] + H2O[C] + UTP[C]->ADP[C] + CTP[C] + GLU-L[C] + 2 H[C] + PI[C]->	GENE_ASSOCIATION: ( SO3441 )	SO3441;
+Copper export via ATPase	CUT1	ATP[C] + CU2[C] + H2O[C]->ADP[C] + CU2[E] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1689 )	SO1689;
+cytochrome-c peroxidase	CYCPOE	2 FOCYTCC[C] + H2O2[E] + 2 H[E]->2 FICYTCC[C] + 2 H2O[E]->	GENE_ASSOCIATION: ( SO2178 )	SO2178;
+cytochrome-c oxidase (2 protons translocated)	CYOO2	2 FOCYTCC[C] + 4 H[C] + 5.000000e-01 O2[C]->2 FICYTCC[C] + H2O[C] + 2 H[E]->	GENE_ASSOCIATION: ( SO2361 and SO2362 and SO2363 and SO2364 ) or ( SO4606 and SO4607 and SO4609 )	
+cytochrome-c reductase (ubiquinol8: 4 protons translocated)	CYOR7	2 FICYTCC[C] + 2 H[C] + UBQ8H2[C]->2 FOCYTCC[C] + 4 H[E] + UBQ8[C]->	GENE_ASSOCIATION: ( SO0608 and SO0609 and SO0610 )	SO0608;SO0609;SO0610;
+cysteine synthase	CYSS	ACSER[C] + H2S[C]->AC[C] + CYS-L[C]->	GENE_ASSOCIATION: ( SO2903 ) or ( SO3598 )	
+L-cysteine transport in via proton symport	CYST2	CYS-L[E] + H[E]->CYS-L[C] + H[C]->	GENE_ASSOCIATION:	
+cystathionine b-lyase	CYSTL	CYSTH-L[C] + H2O[C]->HCYS-L[C] + NH4[C] + PYR[C]->	GENE_ASSOCIATION: ( SO2191 )	SO2191;
+Cysteinyl-tRNA synthetase	CYSTRS	ATP[C] + CYS-L[C] + TRNACYS[C]->AMP[C] + CYSTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1791 )	SO1791;
+cytochrome oxidase bd (ubiquinol-8: 2 protons)	CYTBD	2 H[C] + 5.000000e-01 O2[C] + UBQ8H2[C]->H2O[C] + 2 H[E] + UBQ8[C]->	GENE_ASSOCIATION: ( SO3285 and SO3286 )	SO3285;SO3286;
+cytidine deaminase	CYTD	CYTD[C] + H2O[C] + H[C]->NH4[C] + URI[C]->	GENE_ASSOCIATION: ( SO2791 )	SO2791;
+cytidine kinase (ATP)	CYTDK1	ATP[C] + CYTD[C]->ADP[C] + CMP[C] + H[C]->	GENE_ASSOCIATION: ( SO2617 )	SO2617;
+cytidine kinase (GTP)	CYTDK2	CYTD[C] + GTP[C]->CMP[C] + GDP[C] + H[C]->	GENE_ASSOCIATION: ( SO2617 )	SO2617;
+cytidine kinase (ITP)	CYTDK3	CYTD[C] + ITP[C]->CMP[C] + H[C] + IDP[C]->	GENE_ASSOCIATION: ( SO2617 )	SO2617;
+cytidine transport in via proton symport	CYTDT2	CYTD[E] + H[E]->CYTD[C] + H[C]->	GENE_ASSOCIATION: ( SO1214 ) or ( SO4296 ) or ( SO3706 ) or ( SO0093 )	
+cytidylate kinase (CMP)	CYTK1	ATP[C] + CMP[C]->ADP[C] + CDP[C]->	GENE_ASSOCIATION: ( SO2403 )	SO2403;
+cytidylate kinase (dCMP)	CYTK2	ATP[C] + DCMP[C]->ADP[C] + DCDP[C]->	GENE_ASSOCIATION: ( SO2403 )	SO2403;
+D-lactate transport via proton symport	D-LACT2	H[E] + LAC-D[E]->H[C] + LAC-D[C]->	GENE_ASSOCIATION:	
+Deoxyadenosine deaminase	DADA	DAD-2[C] + H2O[C] + H[C]->DIN[C] + NH4[C]->	GENE_ASSOCIATION: ( SO4731 )	SO4731;
+deoxyadenylate kinase	DADK	ATP[C] + DAMP[C]->ADP[C] + DADP[C]->	GENE_ASSOCIATION: ( SO2018 )	SO2018;
+deoxyadenosine transport in via proton symport	DADNT2	DAD-2[E] + H[E]->DAD-2[C] + H[C]->	GENE_ASSOCIATION: ( SO1214 ) or ( SO4296 ) or ( SO3706 ) or ( SO0093 )	
+diacylglycerol kinase	DAGK	12DGR[C] + ATP[C]->12DAG3P[C] + ADP[C] + H[C]->	GENE_ASSOCIATION: ( SO2203 )	SO2203;
+3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	DAHPS	E4P[C] + H2O[C] + PEP[C]->2DDA7P[C] + PI[C]->	GENE_ASSOCIATION: ( SO1361 ) or ( SO0756 ) or ( SO2646 ) or ( SO1367 )	
+diaminopimelate decarboxylase	DAPDC	26DAP-M[C] + H[C]->CO2[C] + LYS-L[C]->	GENE_ASSOCIATION: ( SO4309 )	SO4309;
+diaminopimelate epimerase	DAPE	26DAP-LL[C]->26DAP-M[C]->	GENE_ASSOCIATION: ( SO4308 )	SO4308;
+phosphatidate cytidylyltransferase	DASYN	12DAG3P[C] + CTP[C] + H[C]->CDPDAG[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1634 )	SO1634;
+3,4-Dihydroxy-2-butanone-4-phosphate	DB4PS	RU5P-D[C]->DB4P[C] + FOR[C] + H[C]->	GENE_ASSOCIATION: ( SO3467 ) or ( SO0142 )	
+dethiobiotin synthase	DBTSR	ATP[C] + CO2[C] + DANN[C]->ADP[C] + DTBT[C] + 3 H[C] + PI[C]->	GENE_ASSOCIATION: ( SO2737 )	SO2737;
+dCTP deaminase	DCTPD	DCTP[C] + H2O[C] + H[C]->DUTP[C] + NH4[C]->	GENE_ASSOCIATION: ( SO2616 )	SO2616;
+deoxycytidine deaminase	DCYTD	DCYT[C] + H2O[C] + H[C]->DURI[C] + NH4[C]->	GENE_ASSOCIATION: ( SO2791 )	SO2791;
+deoxycytidine transport in via proton symport	DCYTT2	DCYT[E] + H[E]->DCYT[C] + H[C]->	GENE_ASSOCIATION: ( SO1214 ) or ( SO4296 ) or ( SO3706 ) or ( SO0093 )	
+deoxyguanylate kinase (dGMP:ATP)	DGK1	ATP[C] + DGMP[C]->ADP[C] + DGDP[C]->	GENE_ASSOCIATION: ( SO0361 )	SO0361;
+Unnamed7	DGSNT2	DGSN[E] + H[E]->DGSN[C] + H[C]->	GENE_ASSOCIATION:	
+dGTPase	DGTPH	DGTP[C] + H2O[C]->DGSN[C] + PPPI[C]->	GENE_ASSOCIATION: ( SO2485 )	SO2485;
+dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	DHAD1	23DHMB[C]->3MOB[C] + H2O[C]->	GENE_ASSOCIATION: ( SO4345 )	SO4345;
+Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)	DHAD2	23DHMP[C]->3MOP[C] + H2O[C]->	GENE_ASSOCIATION: ( SO4345 )	SO4345;
+dihydrodipicolinate reductase (NADPH)	DHDPRY	23DHDP[C] + H[C] + NADPH[C]->NADP[C] + THDP[C]->	GENE_ASSOCIATION: ( SO1140 )	SO1140;
+dihydrodipicolinate synthase	DHDPS	ASPSA[C] + PYR[C]->23DHDP[C] + 2 H2O[C] + H[C]->	GENE_ASSOCIATION: ( SO1879 )	SO1879;
+dihydrofolate reductase	DHFR	DHF[C] + H[C] + NADPH[C]->NADP[C] + THF[C]->	GENE_ASSOCIATION: ( SO3646 )	SO3646;
+dihydrofolate synthase	DHFS	ATP[C] + DHPT[C] + GLU-L[C]->ADP[C] + DHF[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO3067 )	SO3067;
+1,4-dihydroxy-2-naphthoate octaprenyltransferase	DHNAOT7	DHNA[C] + HEPDP[C] + NAD[C]->2DMMQ7[C] + CO2[C] + NADH[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1910 )	SO1910;
+dihydroneopterin aldolase	DHNPA	DHNPT[C]->2AHHMP[C] + GCALD[C]->	GENE_ASSOCIATION: ( SO1291 )	SO1291;
+dihydoorotic acid dehydrogenase (quinone8)	DHORD2	DHOR-S[C] + UBQ8[C]->OROT[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO2592 )	SO2592;
+dihydroorotate dehydrogenase	DHORD4I	DHOR-S[C] + MQN7[C]->MQL7[C] + OROT[C]->	GENE_ASSOCIATION: ( SO2592 )	SO2592;
+dihydroorotate dehydrogenase	DHORD8	DHOR-S[C] + MMQN7[C]->MMQL7[C] + OROT[C]->	GENE_ASSOCIATION: ( SO2592 )	SO2592;
+dihydroorotase	DHORTS	DHOR-S[C] + H2O[C]->CBASP[C] + H[C]->	GENE_ASSOCIATION: ( SO3695 )	SO3695;
+diaminohydroxyphosphoribosylaminopyrimidine deaminase	DHPPDA2	25DHPP[C] + H2O[C] + H[C]->5APRU[C] + NH4[C]->	GENE_ASSOCIATION: ( SO3469 )	SO3469;
+dihydropteridine reductase	DHPRX	DHBPT[C] + H[C] + NADH[C]->NAD[C] + THBPT[C]->	GENE_ASSOCIATION: ( SO3715 )	SO3715;
+dihydropteroate synthase	DHPS3	2AHHMD[C] + 4ABZ[C]->DHPT[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1198 )	SO1198;
+3-dehydroquinate dehydratase	DHQD1	3DHQ[C]->3DHSK[C] + H2O[C]->	GENE_ASSOCIATION: ( SO0512 )	SO0512;
+3-dehydroquinate synthase	DHQS	2DDA7P[C]->3DHQ[C] + PI[C]->	GENE_ASSOCIATION: ( SO0287 )	SO0287;
+Dipeptide transport via ABC system (gly-glu)	DIPEPABC10	ATP[C] + GLY-GLU-L[E] + H2O[C]->ADP[C] + GLY-GLU-L[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1805 and SO1804 and SO1803 and SO1802 and SO1801 )	SO1801;SO1802;SO1803;SO1804;SO1805;
+Dipeptide transport via ABC system (gly-asp)	DIPEPABC13	ATP[C] + GLY-ASP-L[E] + H2O[C]->ADP[C] + GLY-ASP-L[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1805 and SO1804 and SO1803 and SO1802 and SO1801 )	SO1801;SO1802;SO1803;SO1804;SO1805;
+Unnamed8	DIPEPABC15	ATP[C] + GLU-ASP-L[E] + H2O[C]->ADP[C] + GLU-ASP-L[C] + H[C] + PI[C]->	GENE_ASSOCIATION:	
+2,3-diketo-5-methylthio-1-phosphopentane degradation reaction	DKMPPD	DKMPP[C] + H2O[C] + O2[C]->2KMB[C] + FOR[C] + 2 H[C] + PI[C]->	GENE_ASSOCIATION:	
+2,3-diketo-5-methylthio-1-phosphopentane degradation reaction	DKMPPD2	DKMPP[C] + 3 H2O[C]->2KMB[C] + FOR[C] + 6 H[C] + PI[C]->	GENE_ASSOCIATION:	
+dimethylallyltranstransferase	DMATT	DMPP[C] + IPDP[C]->GRDP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1526 )	SO1526;
+3-deoxy-manno-octulosonate cytidylyltransferase	DMOCT	CTP[C] + KDO[C]->CKDO[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2478 )	SO2478;
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp)	DMPPS	H2MB4P[C] + H[C] + NADH[C]->DMPP[C] + H2O[C] + NAD[C]->	GENE_ASSOCIATION: ( SO3529 )	SO3529;
+3-Dimethylubiquinonol 3-methyltransferase	DMQMT	2OMHMBL[C] + AMET[C]->AHCYS[C] + H[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO2413 )	SO2413;
+Dimethyl sulfoxide reductase (Menaquinol 7)	DMSOR3E	DMSO[E] + MQL7[C]->DMS[E] + H2O[E] + MQN7[C]->	GENE_ASSOCIATION: ( SO4591 and SO1429 and SO1430 and SO1427 and SO1428 )	SO1427;SO1428;SO1429;SO1430;SO4591;
+Dimethyl sulfoxide reductase (methylmenaquinol 7)	DMSOR4E	DMSO[E] + MMQL7[C]->DMS[E] + H2O[E] + MMQN7[C]->	GENE_ASSOCIATION: ( SO4591 and SO1429 and SO1430 and SO1427 and SO1428 )	SO1427;SO1428;SO1429;SO1430;SO4591;
+DNA replication, Shewanella Oneidensis	DNASYN_SON	100 ATP[C] + 27 DATP[C] + 23 DCTP[C] + 23 DGTP[C] + 27 DTTP[C] + 100 H2O[C]->100 ADP[C] + DNA_SON[C] + 100 H[C] + 100 PI[C] + 100 PPI[C]->	GENE_ASSOCIATION:	
+Unnamed9	DNA_CUT	DNA[E] + 6 H2O[E]->2 DAMP[E] + 2 DCMP[E] + 2 DGMP[E] + 2 DTMP[E] + 6 H[E]->	GENE_ASSOCIATION:	
+Dihydroneopterin monophosphate dephosphorylase	DNMPPA	DHPMP[C] + H2O[C]->DHNPT[C] + PI[C]->	GENE_ASSOCIATION:	
+Dihydroneopterin triphosphate pyrophosphatase	DNTPPA	AHDT[C] + H2O[C]->DHPMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION:	
+Unnamed10	DODCAT2	DODCA[E] + H[E]->DODCA[C] + H[C]->	GENE_ASSOCIATION:	
+dephospho-CoA kinase	DPCOAK	ATP[C] + DPCOA[C]->ADP[C] + COA[C] + H[C]->	GENE_ASSOCIATION: ( SO0413 )	SO0413;
+2-dehydropantoate 2-reductase	DPR	2DHP[C] + H[C] + NADPH[C]->NADP[C] + PANT-R[C]->	GENE_ASSOCIATION: ( SO3817 ) or ( SO4349 )	
+Deoxyribokinase	DRBK	ATP[C] + DRIB[C]->2DR5P[C] + ADP[C] + H[C]->	GENE_ASSOCIATION: ( SO0810 )	SO0810;
+deoxyribose-phosphate aldolase	DRPA	2DR5P[C]->ACALD[C] + G3P[C]->	GENE_ASSOCIATION: ( SO1217 )	SO1217;
+dTMP kinase	DTMPK	ATP[C] + DTMP[C]->ADP[C] + DTDP[C]->	GENE_ASSOCIATION: ( SO2613 )	SO2613;
+Unnamed11	DUMP_ACETOACETATE	ACAC[C]->	GENE_ASSOCIATION:	
+deoxyuridine kinase (ATP:Deoxyuridine)	DURIK1	ATP[C] + DURI[C]->ADP[C] + DUMP[C] + H[C]->	GENE_ASSOCIATION: ( SO3140 )	SO3140;
+purine-nucleoside phosphatase (deoxyuridine)	DURIPP	DURI[C] + PI[C]->2DR1P[C] + URA[C]->	GENE_ASSOCIATION: ( SO1218 )	SO1218;
+deoxyuridine transport in via proton symport	DURIT2	DURI[E] + H[E]->DURI[C] + H[C]->	GENE_ASSOCIATION: ( SO1214 ) or ( SO4296 ) or ( SO3706 ) or ( SO0093 )	
+dUTP diphosphatase	DUTPDP	DUTP[C] + H2O[C]->DUMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO4250 )	SO4250;
+1-deoxy-D-xylulose-5-phosphate reductoisomerase	DXPRI	DXYL5P[C] + H[C] + NADPH[C]->2ME4P[C] + NADP[C]->	GENE_ASSOCIATION: ( SO1635 )	SO1635;
+1-deoxy-D-xylulose 5-phosphate synthase	DXPS	G3P[C] + H[C] + PYR[C]->CO2[C] + DXYL5P[C]->	GENE_ASSOCIATION: ( SO1525 )	SO1525;
+Erythrose 4-phosphate dehydrogenase	E4PD	E4P[C] + H2O[C] + NAD[C]->4PER[C] + 2 H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO0931 )	SO0931;
+Unnamed12	ECOAH2C	2MP2COA[C] + H2O[C] + H[C]->HIBCOA[C]->	GENE_ASSOCIATION: ( SO0021 ) or ( SO1681 )	
+Unnamed13	ECOAH9	2MB2COA[C] + H2O[C]->3HMBCOA[C]->	GENE_ASSOCIATION: ( SO0021 ) or ( SO1681 )	
+2-dehydro-3-deoxy-phosphogluconate aldolase	EDA	2DDG6P[C]->G3P[C] + PYR[C]->	GENE_ASSOCIATION: ( SO2486 )	SO2486;
+Endotoxin Synthesis (lauroyl transferase)	EDTXS5	DDCAACP[C] + KDO8NLIPID4[C]->ACP[C] + KDO8NLIPID4L[C]->	GENE_ASSOCIATION: ( SO3746 )	SO3746;
+Endotoxin Synthesis (myristoyl transferase)	EDTXS6	KDO8NLIPID4L[C] + MYRSACP[C]->ACP[C] + KDO8NLIPA[C]->	GENE_ASSOCIATION: ( SO2088 )	SO2088;
+enolase	ENO	2PG[C]->H2O[C] + PEP[C]->	GENE_ASSOCIATION: ( SO3440 )	SO3440;
+guanosine pentaphosphatase	EPPP2	GDPTP[C] + H2O[C]->GDPDP[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO0408 )	SO0408;
+ethanol transport in/out via diffusion	ETOHT1	ETOH[E]->ETOH[C]->	GENE_ASSOCIATION:	
+Unnamed14	EX_ACGAM_E	ACGAM[E]->	GENE_ASSOCIATION:	
+Unnamed15	EX_AC_E	AC[E]->	GENE_ASSOCIATION:	
+Unnamed16	EX_ADN_E	ADN[E]->	GENE_ASSOCIATION:	
+Unnamed17	EX_AKG_E	AKG[E]->	GENE_ASSOCIATION:	
+Unnamed18	EX_ALA-D_E	ALA-D[E]->	GENE_ASSOCIATION:	
+Unnamed19	EX_ALA-L_E	ALA-L[E]->	GENE_ASSOCIATION:	
+Unnamed20	EX_ARG-L_E	ARG-L[E]->	GENE_ASSOCIATION:	
+Unnamed21	EX_ARSNA_E	ARSNA[E]->	GENE_ASSOCIATION:	
+Unnamed22	EX_ARSNI2_E	ARSNI2[E]->	GENE_ASSOCIATION:	
+Unnamed23	EX_ASN-L_E	ASN-L[E]->	GENE_ASSOCIATION:	
+Unnamed24	EX_ASP-L_E	ASP-L[E]->	GENE_ASSOCIATION:	
+Unnamed25	EX_CA2_E	CA2[E]->	GENE_ASSOCIATION:	
+Unnamed26	EX_CAS_E	ALA-L[E] + ARG-L[E] + ASN-L[E] + ASP-L[E] + CYS-L[E] + GLN-L[E] + GLU-L[E] + GLY[E] + HIS-L[E] + ILE-L[E] + LEU-L[E] + LYS-L[E] + MET-L[E] + PHE-L[E] + PRO-L[E] + SER-L[E] + THR-L[E] + TYR-L[E] + VAL-L[E]->	GENE_ASSOCIATION:	
+Unnamed27	EX_CBL1_E	CBL1[E]->	GENE_ASSOCIATION:	
+Unnamed28	EX_CL_E	CL[E]->	GENE_ASSOCIATION:	
+Unnamed29	EX_CO2_E	CO2[E]->	GENE_ASSOCIATION:	
+Unnamed30	EX_COBALT2_E	COBALT2[E]->	GENE_ASSOCIATION:	
+Unnamed31	EX_COBALT3_E	COBALT3[E]->	GENE_ASSOCIATION:	
+Unnamed32	EX_CRO4_E	CRO4[E]->	GENE_ASSOCIATION:	
+Unnamed33	EX_CR_OH3_E	CROH3[E]->	GENE_ASSOCIATION:	
+Unnamed34	EX_CU2_E	CU2[E]->	GENE_ASSOCIATION:	
+Unnamed35	EX_CYS-L_E	CYS-L[E]->	GENE_ASSOCIATION:	
+Unnamed36	EX_CYTD_E	CYTD[E]->	GENE_ASSOCIATION:	
+Unnamed37	EX_DAD-2_E	DAD-2[E]->	GENE_ASSOCIATION:	
+Unnamed38	EX_DCYT_E	DCYT[E]->	GENE_ASSOCIATION:	
+Unnamed39	EX_DGSN_E	DGSN[E]->	GENE_ASSOCIATION:	
+Unnamed40	EX_DMSO_E	DMSO[E]->	GENE_ASSOCIATION:	
+Unnamed41	EX_DMS_E	DMS[E]->	GENE_ASSOCIATION:	
+Unnamed42	EX_DNA_E	DNA[E]->	GENE_ASSOCIATION:	
+Unnamed43	EX_DODCA_E	DODCA[E]->	GENE_ASSOCIATION:	
+Unnamed44	EX_DURI_E	DURI[E]->	GENE_ASSOCIATION:	
+Unnamed45	EX_ETOH_E	ETOH[E]->	GENE_ASSOCIATION:	
+Unnamed46	EX_FE2_E	FE2[E]->	GENE_ASSOCIATION:	
+Unnamed47	EX_FE3_E	FE3[E]->	GENE_ASSOCIATION:	
+Unnamed48	EX_FOR_E	FOR[E]->	GENE_ASSOCIATION:	
+Unnamed49	EX_FRMD_E	FRMD[E]->	GENE_ASSOCIATION:	
+Unnamed50	EX_FUM_E	FUM[E]->	GENE_ASSOCIATION:	
+Unnamed51	EX_GEL_E	ALA-L[E] + ARG-L[E] + ASN-L[E] + ASP-L[E] + CYS-L[E] + GLN-L[E] + GLU-L[E] + GLY[E] + HIS-L[E] + ILE-L[E] + LEU-L[E] + LYS-L[E] + MET-L[E] + PHE-L[E] + PRO-L[E] + SER-L[E] + THR-L[E] + TRP-L[E] + TYR-L[E] + VAL-L[E]->	GENE_ASSOCIATION:	
+Unnamed52	EX_GLN-L_E	GLN-L[E]->	GENE_ASSOCIATION:	
+Unnamed53	EX_GLU-ASP-L_E	GLU-ASP-L[E]->	GENE_ASSOCIATION:	
+Unnamed54	EX_GLU-L_E	GLU-L[E]->	GENE_ASSOCIATION:	
+Unnamed55	EX_GLY-ASP-L_E	GLY-ASP-L[E]->	GENE_ASSOCIATION:	
+Unnamed56	EX_GLY-GLU-L_E	GLY-GLU-L[E]->	GENE_ASSOCIATION:	
+Unnamed57	EX_GLYC-R_E	GLYC-R[E]->	GENE_ASSOCIATION:	
+Unnamed58	EX_GLYCLT_E	GLYCLT[E]->	GENE_ASSOCIATION:	
+Unnamed59	EX_GLY_E	GLY[E]->	GENE_ASSOCIATION:	
+Unnamed60	EX_GSN_E	GSN[E]->	GENE_ASSOCIATION:	
+Unnamed61	EX_GTHRD_E	GTHRD[E]->	GENE_ASSOCIATION:	
+Unnamed62	EX_GUA_E	GUA[E]->	GENE_ASSOCIATION:	
+Unnamed63	EX_H2O2_E	H2O2[E]->	GENE_ASSOCIATION:	
+Unnamed64	EX_H2O_E	H2O[E]->	GENE_ASSOCIATION:	
+Unnamed65	EX_H2S_E	H2S[E]->	GENE_ASSOCIATION:	
+Unnamed66	EX_H2_E	H2[E]->	GENE_ASSOCIATION:	
+Unnamed67	EX_HDCA_E	HDCA[E]->	GENE_ASSOCIATION:	
+Unnamed68	EX_HG2_E	HG2[E]->	GENE_ASSOCIATION:	
+Unnamed69	EX_HIS-L_E	HIS-L[E]->	GENE_ASSOCIATION:	
+Unnamed70	EX_HXAN_E	HXAN[E]->	GENE_ASSOCIATION:	
+Unnamed71	EX_H_E	H[E]->	GENE_ASSOCIATION:	
+Unnamed72	EX_ILE-L_E	ILE-L[E]->	GENE_ASSOCIATION:	
+Unnamed73	EX_INDOLE_E	INDOLE[E]->	GENE_ASSOCIATION:	
+Unnamed74	EX_INOSHP_E	INOSHP[E]->	GENE_ASSOCIATION:	
+Unnamed75	EX_INOSPP1_E	INOSPP1[E]->	GENE_ASSOCIATION:	
+Unnamed76	EX_INS_E	INS[E]->	GENE_ASSOCIATION:	
+Unnamed77	EX_K_E	K[E]->	GENE_ASSOCIATION:	
+Unnamed78	EX_LAC-D_E	LAC-D[E]->	GENE_ASSOCIATION:	
+Unnamed79	EX_LAC-L_E	LAC-L[E]->	GENE_ASSOCIATION:	
+Unnamed80	EX_LEU-L_E	LEU-L[E]->	GENE_ASSOCIATION:	
+Unnamed81	EX_LYS-L_E	LYS-L[E]->	GENE_ASSOCIATION:	
+Unnamed82	EX_MAL-L_E	MAL-L[E]->	GENE_ASSOCIATION:	
+Unnamed83	EX_MET-L_E	MET-L[E]->	GENE_ASSOCIATION:	
+Unnamed84	EX_MG2_E	MG2[E]->	GENE_ASSOCIATION:	
+Unnamed85	EX_MN2_E	MN2[E]->	GENE_ASSOCIATION:	
+Unnamed86	EX_MN4O_E	MN4O[E]->	GENE_ASSOCIATION:	
+Unnamed87	EX_MOBD_E	MOBD[E]->	GENE_ASSOCIATION:	
+Unnamed88	EX_NA1_E	NA1[E]->	GENE_ASSOCIATION:	
+Unnamed89	EX_NH4_E	NH4[E]->	GENE_ASSOCIATION:	
+Unnamed90	EX_NI2_E	NI2[E]->	GENE_ASSOCIATION:	
+Unnamed91	EX_NMN_E	NMN[E]->	GENE_ASSOCIATION:	
+Unnamed92	EX_NO2_E	NO2[E]->	GENE_ASSOCIATION:	
+Unnamed93	EX_NO3_E	NO3[E]->	GENE_ASSOCIATION:	
+Unnamed94	EX_O2_E	O2[E]->	GENE_ASSOCIATION:	
+Unnamed95	EX_OCDCA_E	OCDCA[E]->	GENE_ASSOCIATION:	
+Unnamed96	EX_ORN-L_E	ORN-L[E]->	GENE_ASSOCIATION:	
+Unnamed97	EX_PHE-L_E	PHE-L[E]->	GENE_ASSOCIATION:	
+Unnamed98	EX_PI_E	PI[E]->	GENE_ASSOCIATION:	
+Unnamed99	EX_PPA_E	PPA[E]->	GENE_ASSOCIATION:	
+Unnamed100	EX_PRO-L_E	PRO-L[E]->	GENE_ASSOCIATION:	
+Unnamed101	EX_PTRC_E	PTRC[E]->	GENE_ASSOCIATION:	
+Unnamed102	EX_PYR_E	PYR[E]->	GENE_ASSOCIATION:	
+Unnamed103	EX_SER-L_E	SER-L[E]->	GENE_ASSOCIATION:	
+Unnamed104	EX_SO3_E	SO3[E]->	GENE_ASSOCIATION:	
+Unnamed105	EX_SO4_E	SO4[E]->	GENE_ASSOCIATION:	
+Unnamed106	EX_SUCC_E	SUCC[E]->	GENE_ASSOCIATION:	
+Unnamed107	EX_THM_E	THM[E]->	GENE_ASSOCIATION:	
+Unnamed108	EX_THR-L_E	THR-L[E]->	GENE_ASSOCIATION:	
+Unnamed109	EX_THYMD_E	THYMD[E]->	GENE_ASSOCIATION:	
+Unnamed110	EX_THYM_E	THYM[E]->	GENE_ASSOCIATION:	
+Unnamed111	EX_TMAO_E	TMAO[E]->	GENE_ASSOCIATION:	
+Unnamed112	EX_TMA_E	TMA[E]->	GENE_ASSOCIATION:	
+Unnamed113	EX_TRP-L_E	TRP-L[E]->	GENE_ASSOCIATION:	
+Unnamed114	EX_TSUL_E	TSUL[E]->	GENE_ASSOCIATION:	
+Unnamed115	EX_TTDCA_E	TTDCA[E]->	GENE_ASSOCIATION:	
+Unnamed116	EX_TTTNT_E	TTTNT[E]->	GENE_ASSOCIATION:	
+Unnamed117	EX_TWEEN-20_E	DODCA[E] + HDCA[E] + TTDCA[E]->	GENE_ASSOCIATION:	
+Unnamed118	EX_TYR-L_E	TYR-L[E]->	GENE_ASSOCIATION:	
+Unnamed119	EX_URA_E	URA[E]->	GENE_ASSOCIATION:	
+Unnamed120	EX_URDIO_E	URDIO[E]->	GENE_ASSOCIATION:	
+Unnamed121	EX_URI_E	URI[E]->	GENE_ASSOCIATION:	
+Unnamed122	EX_URNYL_E	URNYL[E]->	GENE_ASSOCIATION:	
+Unnamed123	EX_VAL-L_E	VAL-L[E]->	GENE_ASSOCIATION:	
+Unnamed124	EX_WO4_E	WO4[E]->	GENE_ASSOCIATION:	
+Unnamed125	FAO4	ATP[C] + 6 COA[C] + DODCA[C] + 5 H2O[C] + 5 NAD[C] + 5 UBQ8[C]->6 ACCOA[C] + AMP[C] + 5 H[C] + 5 NADH[C] + PPI[C] + 5 UBQ8H2[C]->	GENE_ASSOCIATION:	
+Fatty acid oxidation (tetradecanoate:ubiquinone)	FAO5	ATP[C] + 7 COA[C] + 6 H2O[C] + 6 NAD[C] + TTDCA[C] + 6 UBQ8[C]->7 ACCOA[C] + AMP[C] + 6 H[C] + 6 NADH[C] + PPI[C] + 6 UBQ8H2[C]->	GENE_ASSOCIATION: ( SO0020 and SO0021 and SO2581 and SO2536 ) or ( SO0020 and SO0021 and SO3664 and SO2536 )	
+Fatty acid oxidation (hexadecanoate:ubiquinone)	FAO6	ATP[C] + 8 COA[C] + 7 H2O[C] + HDCA[C] + 7 NAD[C] + 7 UBQ8[C]->8 ACCOA[C] + AMP[C] + 7 H[C] + 7 NADH[C] + PPI[C] + 7 UBQ8H2[C]->	GENE_ASSOCIATION: ( SO0020 and SO0021 and SO2581 and SO2536 ) or ( SO0020 and SO0021 and SO3664 and SO2536 )	
+Fatty acid oxidation (octadecanoate:ubiquinone)	FAO7	ATP[C] + 9 COA[C] + 8 H2O[C] + 8 NAD[C] + OCDCA[C] + 8 UBQ8[C]->9 ACCOA[C] + AMP[C] + 8 H[C] + 8 NADH[C] + PPI[C] + 8 UBQ8H2[C]->	GENE_ASSOCIATION: ( SO0020 and SO0021 and SO2581 and SO2536 ) or ( SO0020 and SO0021 and SO3664 and SO2536 )	
+fructose-bisphosphate aldolase	FBA	FDP[C]->DHAP[C] + G3P[C]->	GENE_ASSOCIATION: ( SO0933 )	SO0933;
+fructose-bisphosphatase	FBP	FDP[C] + H2O[C]->F6P[C] + PI[C]->	GENE_ASSOCIATION: ( SO3991 )	SO3991;
+Heme B synthesis reaction	FCLT	FE2[C] + PPP9[C]->H[C] + PHEME[C]->	GENE_ASSOCIATION: ( SO3348 ) or ( SO2019 )	
+Formate Dehydrogenase (methylmenaquinone-7: 1 protons)	FDH10	FOR[E] + 2 H[C] + MMQN7[C]->CO2[E] + H[E] + MMQL7[C]->	GENE_ASSOCIATION: ( SO4509 and SO4510 and SO4511 ) or ( SO4513 and SO4514 and SO4515 ) or ( SO0101 and SO0102 and SO0103 )	
+Formate Dehydrogenase (menaquinone-7: 1 protons)	FDH9	FOR[E] + 2 H[C] + MQN7[C]->CO2[E] + H[E] + MQL7[C]->	GENE_ASSOCIATION: ( SO4509 and SO4510 and SO4511 ) or ( SO4513 and SO4514 and SO4515 ) or ( SO0101 and SO0102 and SO0103 )	
+iron (II) transport via ABC system	FE2ABC	ATP[C] + FE2[E] + H2O[C]->ADP[C] + FE2[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1784 )	SO1784;
+iron (III) transport via ABC system	FE3ABC	ATP[C] + FE3[E] + H2O[C]->ADP[C] + FE3[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO0742 and SO0743 and SO0744 )	SO0742;SO0743;SO0744;
+Fe (III) Reductase (menaquinone 7: 2H per 2 e-)	FER3	2 FE3[E] + MQL7[C]->2 FE2[E] + 2 H[E] + MQN7[C]->	GENE_ASSOCIATION: ( SO2727 and SO4591 and SO1777 and SO1778 )	SO1777;SO1778;SO2727;SO4591;
+Fe (III) Reductase (methylmenaquinone 7: 2H per 2 e-)	FER4	2 FE3[E] + MMQL7[C]->2 FE2[E] + 2 H[E] + MMQN7[C]->	GENE_ASSOCIATION: ( SO2727 and SO4591 and SO1777 and SO1778 )	SO1777;SO1778;SO2727;SO4591;
+formimidoylglutamase	FGLU	FORGLU[C] + H2O[C]->FRMD[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO4198 )	SO4198;
+Formate-hydrogen lyase	FHLE	FOR[E] + H[E]->CO2[E] + H2[E]->	GENE_ASSOCIATION: ( SO3922 and SO3920 and SO3921 )	SO3920;SO3921;SO3922;
+Methionyl-tRNA formyltransferase	FMETTRS	10FTHF[C] + METTRNA[C]->FMETTRNA[C] + THF[C]->	GENE_ASSOCIATION: ( SO0031 )	SO0031;
+FMN adenylyltransferase	FMNAT	ATP[C] + FMN[C] + H[C]->FAD[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3533 )	SO3533;
+FMN reductase (NADH dependent)	FMNRX	FMN[C] + H[C] + NADH[C]->FMNRD[C] + NAD[C]->	GENE_ASSOCIATION: ( SO0504 )	SO0504;
+ferredoxin-NADP reductase	FNOR	FDXR-4:2[C] + H[C] + NADP[C]->FDXO-4:2[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO0747 )	SO0747;
+formate transport via diffusion	FORT	FOR[E]->FOR[C]->	GENE_ASSOCIATION: ( SO2911 )	SO2911;
+succinate dehydrogenase (menaquinol 7:0 proton)	FRD8	FUM[E] + MQL7[C]->MQN7[C] + SUCC[E]->	GENE_ASSOCIATION: ( SO4591 and SO0970 )	SO0970;SO4591;
+succinate dehydrogenase (methylmenaquinol 7: 0proton)	FRD9	FUM[E] + MMQL7[C]->MMQN7[C] + SUCC[E]->	GENE_ASSOCIATION: ( SO4591 and SO0970 )	SO0970;SO4591;
+Formamide efflux	FRMDT	FRMD[C]->FRMD[E]->	GENE_ASSOCIATION:	
+farnesyltranstransferase	FRTT	FRDP[C] + IPDP[C]->GGDP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3653 )	SO3653;
+formyltetrahydrofolate deformylase	FTHFD	10FTHF[C] + H2O[C]->FOR[C] + H[C] + THF[C]->	GENE_ASSOCIATION: ( SO1624 )	SO1624;
+formate-tetrahydrofolate ligase	FTHFL	ATP[C] + FOR[C] + THF[C]->10FTHF[C] + ADP[C] + PI[C]->	GENE_ASSOCIATION: ( SO0560 )	SO0560;
+fumarase	FUM	FUM[C] + H2O[C]->MAL-L[C]->	GENE_ASSOCIATION: ( SO2222 )	SO2222;
+fumarylacetoacetase	FUMACA	4FUMACAC[C] + H2O[C]->ACAC[C] + FUM[C] + H[C]->	GENE_ASSOCIATION: ( SO1670 )	SO1670;
+Fumarate transport via proton symport (2 H)	FUMT2_2	FUM[E] + 2 H[E]->FUM[C] + 2 H[C]->	GENE_ASSOCIATION: ( SO3134 and SO3135 and SO3136 )	SO3134;SO3135;SO3136;
+fumarate transport in via proton symport (3 h+)	FUMT4	FUM[E] + 3 H[E]->FUM[C] + 3 H[C]->	GENE_ASSOCIATION: ( SO4417 )	SO4417;
+glucosamine-1-phosphate N-acetyltransferase	G1PACT	ACCOA[C] + GAM1P[C]->ACGAM1P[C] + COA[C] + H[C]->	GENE_ASSOCIATION: ( SO4745 )	SO4745;
+glucose-1-phosphate thymidylyltransferase	G1PTMT	DTTP[C] + G1P[C] + H[C]->DTDPGLC[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3186 )	SO3186;
+glutamate-1-semialdehyde aminotransferase	G1SATI	GLU1SA[C]->5AOP[C]->	GENE_ASSOCIATION: ( SO1300 )	SO1300;
+guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	G35DP	GDPDP[C] + H2O[C]->GDP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0359 )	SO0359;
+glycerol-3-phosphate dehydrogenase (NADP)	G3PD2	GLYC3P[C] + NADP[C]->DHAP[C] + H[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO0053 )	SO0053;
+glycerol-3-phosphate dehydrogenase (menaquinone 7)	G3PD4	GLYC3P[C] + MQN7[C]->DHAP[C] + MQL7[C]->	GENE_ASSOCIATION: ( SO0978 )	SO0978;
+glycerol-3-phosphate dehydrogenase (methylmenaquinone 7)	G3PD8	GLYC3P[C] + MMQN7[C]->DHAP[C] + MMQL7[C]->	GENE_ASSOCIATION: ( SO0978 )	SO0978;
+L-glutamate 5-semialdehyde dehydratase (spontaneous)	G5SADS	GLU5SA[C]->1PYR5C[C] + H2O[C] + H[C]->	GENE_ASSOCIATION:	
+glutamate-5-semialdehyde dehydrogenase	G5SD	GLU5P[C] + H[C] + NADPH[C]->GLU5SA[C] + NADP[C] + PI[C]->	GENE_ASSOCIATION: ( SO1122 )	SO1122;
+glucosamine-6-phosphate deaminase	G6PDA	GAM6P[C] + H2O[C]->F6P[C] + NH4[C]->	GENE_ASSOCIATION: ( SO3506 )	SO3506;
+glucose 6-phosphate dehydrogenase	G6PDHY	G6P[C] + NADP[C]->6PGL[C] + H[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO2489 )	SO2489;
+galactokinase	GALKR	ATP[C] + GAL[C]->ADP[C] + GAL1P[C] + H[C]->	GENE_ASSOCIATION: ( SO0694 )	SO0694;
+UTP-glucose-1-phosphate uridylyltransferase	GALU	G1P[C] + H[C] + UTP[C]->PPI[C] + UDPG[C]->	GENE_ASSOCIATION: ( SO1665 )	SO1665;
+glyceraldehyde-3-phosphate dehydrogenase (NAD)	GAPD	G3P[C] + NAD[C] + PI[C]->13DPG[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO0538 ) or ( SO2345 ) or ( SO2347 )	
+phosphoribosylglycinamide formyltransferase	GARFT	10FTHF[C] + GAR[C]->FGAM[C] + H[C] + THF[C]->	GENE_ASSOCIATION: ( SO2761 )	SO2761;
+Phosphoribosylglycinamide formyltransferase 2	GART	ATP[C] + FOR[C] + GAR[C]->ADP[C] + FGAM[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO3613 )	SO3613;
+1,4-alpha-glucan branching enzyme	GBEZ	ATP[C] + GLC-D[C]->ADP[C] + GLYCOGEN[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1494 )	SO1494;
+Glycolaldehyde dehydrogenase	GCALDD	GCALD[C] + H2O[C] + NAD[C]->GLYCLT[C] + 2 H[C] + NADH[C]->	GENE_ASSOCIATION:	
+glutamine-fructose-6-phosphate transaminase	GF6PTA	F6P[C] + GLN-L[C]->GAM6P[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO4741 )	SO4741;
+gammaglutamyl-gamma-aminobutyraldehyde dehydrogenase	GGLUGABDH	GGLUABA[C] + H2O[C] + NADP[C]->GGLUABT[C] + 2 H[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO1275 )	SO1275;
+gammaglutamyl-gamma-aminobutyrate hydrolase	GGLUGABH	GGLUABT[C] + H2O[C]->4ABUT[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO1267 )	SO1267;
+gammaglutamyl putrescine oxidase	GGLUPTO	GGLUPTRC[C] + H2O[C] + O2[C]->GGLUABA[C] + H2O2[C] + NH4[C]->	GENE_ASSOCIATION: ( SO1274 )	SO1274;
+gammaglutamyl putrescine synthetase	GGLUPTS	ATP[C] + GLU-L[C] + PTRC[C]->ADP[C] + GGLUPTRC[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1268 )	SO1268;
+geranylgeranyltranstransferase	GGTT	GGDP[C] + IPDP[C]->PENDP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3653 )	SO3653;
+glycine hydroxymethyltransferase	GHMT	SER-L[C] + THF[C]->GLY[C] + H2O[C] + MLTHF[C]->	GENE_ASSOCIATION: ( SO3471 )	SO3471;
+guanylate kinase (GMP:ATP)	GK1	ATP[C] + GMP[C]->ADP[C] + GDP[C]->	GENE_ASSOCIATION: ( SO0361 )	SO0361;
+glucan 1,4-alpha-glucosidase	GLCGSD	GLYCOGEN[C] + H2O[C]->GLC-D[C]->	GENE_ASSOCIATION: ( SO2459 ) or ( SO2213 )	
+glycogen phosphorylase	GLCP	GLYCOGEN[C] + PI[C]->G1P[C]->	GENE_ASSOCIATION: ( SO1496 and SO1495 )	SO1495;SO1496;
+glycogen synthase (ADPGlc)	GLCS1	ADPGLC[C]->ADP[C] + GLYCOGEN[C] + H[C]->	GENE_ASSOCIATION: ( SO1499 )	SO1499;
+UDP-glucuronate 4-epimerase	GLCURE	UDPGLCUR[C]->UDPGALUR[C]->	GENE_ASSOCIATION: ( SO4686 )	SO4686;
+glucose-1-phosphate adenylyltransferase	GLGC	ATP[C] + G1P[C] + H[C]->ADPGLC[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1498 )	SO1498;
+glutamine synthetase	GLNS	ATP[C] + GLU-L[C] + NH4[C]->ADP[C] + GLN-L[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO4410 )	SO4410;
+L-glutamine transport in via proton symport	GLNT2	GLN-L[E] + H[E]->GLN-L[C] + H[C]->	GENE_ASSOCIATION:	
+Glutaminyl-tRNA synthetase	GLNTRS	ATP[C] + GLN-L[C] + TRNAGLN[C]->AMP[C] + GLNTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1786 )	SO1786;
+glutamate 5-kinase	GLU5K	ATP[C] + GLU-L[C]->ADP[C] + GLU5P[C]->	GENE_ASSOCIATION: ( SO1121 )	SO1121;
+glutamate-cysteine ligase	GLUCYSL	ATP[C] + CYS-L[C] + GLU-L[C]->ADP[C] + GLUCYS[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO3559 )	SO3559;
+glutamate dehydrogenase (NAD)	GLUDX	GLU-L[C] + H2O[C] + NAD[C]->AKG[C] + H[C] + NADH[C] + NH4[C]->	GENE_ASSOCIATION: ( SO2593 )	SO2593;
+glutaminase	GLUN	GLN-L[C] + H2O[C]->GLU-L[C] + NH4[C]->	GENE_ASSOCIATION: ( SO3365 ) or ( SO0613 and SO2221 )	
+glutamine phosphoribosyldiphosphate amidotransferase	GLUPRT	GLN-L[C] + H2O[C] + PRPP[C]->GLU-L[C] + PPI[C] + PRAM[C]->	GENE_ASSOCIATION: ( SO3064 )	SO3064;
+glutamate racemase	GLUR	GLU-D[C]->GLU-L[C]->	GENE_ASSOCIATION: ( SO0207 )	SO0207;
+glutamate synthase (NADPH)	GLUSY	AKG[C] + GLN-L[C] + H[C] + NADPH[C]->2 GLU-L[C] + NADP[C]->	GENE_ASSOCIATION: ( SO0750 and SO1325 ) or ( SO1324 and SO1325 )	
+L-glutamate transport in via proton symport	GLUT2	GLU-L[E] + H[E]->GLU-L[C] + H[C]->	GENE_ASSOCIATION: ( SO1948 ) or ( SO0922 ) or ( SO3562 ) or ( SO4004 ) or ( SO0157 )	
+Na+/glutamate symport	GLUT4I	GLU-L[E] + NA1[E]->GLU-L[C] + NA1[C]->	GENE_ASSOCIATION: ( SO2923 )	SO2923;
+glutamyl-tRNA reductase	GLUTRR	GLUTRNA[C] + H[C] + NADPH[C]->GLU1SA[C] + NADP[C] + TRNAGLU[C]->	GENE_ASSOCIATION: ( SO3834 )	SO3834;
+Glutamyl-tRNA synthetase	GLUTRS	ATP[C] + GLU-L[C] + TRNAGLU[C]->AMP[C] + GLUTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3130 )	SO3130;
+glycine C-acetyltransferase	GLYAT	ACCOA[C] + GLY[C]->2AOBUT[C] + COA[C]->	GENE_ASSOCIATION: ( SO4674 )	SO4674;
+glycerate kinase	GLYCKB	ATP[C] + GLYC-R[C]->2PG[C] + ADP[C] + H[C]->	GENE_ASSOCIATION: ( SO1770 )	SO1770;
+Glycine Cleavage System	GLYCL	GLY[C] + NAD[C] + THF[C]->CO2[C] + MLTHF[C] + NADH[C] + NH4[C]->	GENE_ASSOCIATION: ( SO0780 and SO0781 and SO0779 and SO0426 )	SO0426;SO0779;SO0780;SO0781;
+Glycolate dehydrogenase (NAD)	GLYCLTDXR	GLYCLT[C] + NAD[C]->GLX[C] + H[C] + NADH[C]->	GENE_ASSOCIATION:	
+glycolate transport via proton symport, reversible	GLYCLTT2R	GLYCLT[E] + H[E]->GLYCLT[C] + H[C]->	GENE_ASSOCIATION: ( SO0827 ) or ( SO1522 )	
+D-glycerate transport (proton symport)	GLYCRT2	GLYC-R[E] + H[E]->GLYC-R[C] + H[C]->	GENE_ASSOCIATION: ( SO1771 )	SO1771;
+glycerate dehydrogenase	GLYD	H[C] + HPYR[C] + NADH[C]->GLYC-R[C] + NAD[C]->	GENE_ASSOCIATION: ( SO3631 )	SO3631;
+glycerol kinase	GLYK	ATP[C] + GLYC[C]->ADP[C] + GLYC3P[C] + H[C]->	GENE_ASSOCIATION: ( SO4230 )	SO4230;
+hydroxyacylglutathione hydrolase	GLYOX	H2O[C] + LGT-S[C]->GTHRD[C] + H[C] + LAC-D[C]->	GENE_ASSOCIATION: ( SO2563 )	SO2563;
+glycine reversible transport via sodium symport	GLYT4	GLY[E] + NA1[E]->GLY[C] + NA1[C]->	GENE_ASSOCIATION: ( SO3541 ) or ( SO0858 ) or ( SO3063 )	
+Glycyl-tRNA synthetase	GLYTRS	ATP[C] + GLY[C] + TRNAGLY[C]->AMP[C] + GLYTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0014 and SO0015 )	SO0014;SO0015;
+D-glycero-D-manno-hepose 1-phosphate adenyltransferase	GMHEPAT	ATP[C] + GMH1P[C] + H[C]->ADPHEP-D,D[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3745 )	SO3745;
+D-glycero-D-manno-heptose 7-phosphate kinase	GMHEPK	ATP[C] + GMH7P[C]->ADP[C] + GMH17BP[C] + H[C]->	GENE_ASSOCIATION: ( SO3745 )	SO3745;
+D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase	GMHEPPA	GMH17BP[C] + H2O[C]->GMH1P[C] + PI[C]->	GENE_ASSOCIATION: ( SO2851 )	SO2851;
+GMP synthase (glutamine-hydrolysing)	GMPS2	ATP[C] + GLN-L[C] + H2O[C] + XMP[C]->AMP[C] + GLU-L[C] + GMP[C] + 2 H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3292 )	SO3292;
+Gp4G hydrolase	GP4GH	GP4G[C] + H2O[C]->2 GDP[C] + 2 H[C]->	GENE_ASSOCIATION: ( SO3641 )	SO3641;
+Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)	GPDDA2	G3PE[C] + H2O[C]->ETHA[C] + GLYC3P[C] + H[C]->	GENE_ASSOCIATION: ( SO0587 )	SO0587;
+Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol)	GPDDA4	G3PG[C] + H2O[C]->GLYC3P[C] + GLYC[C] + H[C]->	GENE_ASSOCIATION: ( SO0587 )	SO0587;
+geranyltranstransferase	GRTT	GRDP[C] + IPDP[C]->FRDP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1526 )	SO1526;
+glutathione peroxidase	GSHPO	2 GTHRD[C] + H2O2[C]->GTHOX[C] + 2 H2O[C]->	GENE_ASSOCIATION: ( SO1563 ) or ( SO3349 )	
+guanosine kinase	GSNK	ATP[C] + GSN[C]->ADP[C] + GMP[C] + H[C]->	GENE_ASSOCIATION: ( SO2020 )	SO2020;
+Unnamed126	GSNT	GSN[E]->GSN[C]->	GENE_ASSOCIATION:	
+glutathione-disulfide reductase	GTHRD	2 GTHRD[C] + NADP[C]->GTHOX[C] + H[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO4702 )	SO4702;
+Glutathione export via ABC system	GTHRDABC	ATP[C] + GTHRD[C] + H2O[C]->ADP[C] + GTHRD[E] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO3779 and SO3780 )	SO3779;SO3780;
+glutathione synthase	GTHS	ATP[C] + GLUCYS[C] + GLY[C]->ADP[C] + GTHRD[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO0831 )	SO0831;
+GTP cyclohydrolase I	GTPCI	GTP[C] + H2O[C]->AHDT[C] + FOR[C] + H[C]->	GENE_ASSOCIATION: ( SO4254 )	SO4254;
+GTP cyclohydrolase II	GTPCII	GTP[C] + 3 H2O[C]->25DHPP[C] + FOR[C] + 2 H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3467 ) or ( SO2831 )	
+GTP diphosphokinase	GTPDPK	ATP[C] + GTP[C]->AMP[C] + GDPTP[C] + H[C]->	GENE_ASSOCIATION: ( SO3455 )	SO3455;
+guanine phosphoribosyltransferase	GUAPRT	GUA[C] + PRPP[C]->GMP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3803 ) or ( SO0807 )	
+Unnamed127	GUAT	GUA[E]->GUA[C]->	GENE_ASSOCIATION:	
+H2O transport via diffusion	H2OT5	H2O[E]->H2O[C]->	GENE_ASSOCIATION: ( SO1307 )	SO1307;
+Unnamed128	HACD8	3HMBCOA[C] + NAD[C]->2MAACOA[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO2536 )	SO2536;
+3-hydroxyacyl-CoA dehydrogenase	HACOADR	3HMP[C] + NAD[C]->H[C] + MMALSA[C] + NADH[C]->	GENE_ASSOCIATION: ( SO1682 )	SO1682;
+4-hydroxybutyrate CoA transferase	HBUTCT	4HDXBUTN[C] + BTCOA[C]->4HBUTCOA[C] + BUT[C]->	GENE_ASSOCIATION: ( SO1708 )	SO1708;
+4-hydroxybenzoate octaprenyltransferase	HBZOPT	4HBZ[C] + OCTDP[C]->3OPHB[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0468 )	SO0468;
+carbonate dehydratase (HCO3 equilibration reaction)	HCO3E	CO2[C] + H2O[C]->H[C] + HCO3[C]->	GENE_ASSOCIATION: ( SO2474 )	SO2474;
+Hexadecanoate transport via proton symport	HDCAT2	H[E] + HDCA[E]->H[C] + HDCA[C]->	GENE_ASSOCIATION: ( SO3099 ) or ( SO4232 )	
+Heme O synthase	HEMEOS	FRDP[C] + H2O[C] + PHEME[C]->H[C] + HEMEO[C] + PPI[C]->	GENE_ASSOCIATION: ( SO4614 )	SO4614;
+trans-heptaprenyltranstransferase	HEPTT	HEPDP[C] + IPDP[C]->OCTDP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3653 )	SO3653;
+trans-hexaprenyltranstransferase	HEXTT	HEXDP[C] + IPDP[C]->HEPDP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3653 )	SO3653;
+homogentisate 1,2-dioxygenase	HGENDO	HGENTIS[C] + O2[C]->4MLACAC[C] + H[C]->	GENE_ASSOCIATION: ( SO1963 )	SO1963;
+mercury transport	HGT	HG2[E]->HG2[C]->	GENE_ASSOCIATION: ( SO1406 and SO1407 )	SO1406;SO1407;
+Unnamed129	HIBHR	H2O[C] + HIBCOA[C]->3HMP[C] + COA[C] + 2 H[C]->	GENE_ASSOCIATION: ( SO0020 )	SO0020;
+histidase	HISD1	HIS-L[C]->NH4[C] + URCAN[C]->	GENE_ASSOCIATION: ( SO0098 )	SO0098;
+Unnamed130	HIST2R	H[E] + HIS-L[E]->H[C] + HIS-L[C]->	GENE_ASSOCIATION:	
+histidinol dehydrogenase	HISTD	H2O[C] + HISTD[C] + 2 NAD[C]->3 H[C] + HIS-L[C] + 2 NADH[C]->	GENE_ASSOCIATION: ( SO2073 )	SO2073;
+histidinol-phosphatase	HISTP	H2O[C] + HISP[C]->HISTD[C] + PI[C]->	GENE_ASSOCIATION: ( SO2071 )	SO2071;
+Histidyl-tRNA synthetase	HISTRS	ATP[C] + HIS-L[C] + TRNAHIS[C]->AMP[C] + HISTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3311 )	SO3311;
+hydroxymethylbilane synthase	HMBS	H2O[C] + 4 PPBNG[C]->HMBIL[C] + 4 NH4[C]->	GENE_ASSOCIATION: ( SO4313 )	SO4313;
+S-(hydroxymethyl)glutathione dehydrogenase	HMGDX	HMGLUT-S[C] + NAD[C]->FGLUT-S[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO2054 ) or ( SOA0161 )	
+hydroxymethylglutaryl-CoA lyase	HMGL	HMGCOA[C]->ACAC[C] + ACCOA[C]->	GENE_ASSOCIATION: ( SO1893 )	SO1893;
+S-(hydroxymethyl)glutathione synthase	HMGSS	FALD[C] + GTHRD[C]->HMGLUT-S[C]->	GENE_ASSOCIATION:	
+2-hydroxy-3-oxopropionate reductase (NAD)	HOXPRX	GLYC-R[C] + NAD[C]->2H3OPP[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO2771 )	SO2771;
+4-hydroxyphenylpyruvate dioxygenase	HPPDO1	34HPP[C] + O2[C]->CO2[C] + HGENTIS[C]->	GENE_ASSOCIATION: ( SO1962 )	SO1962;
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	HPPK	2AHHMP[C] + ATP[C]->2AHHMD[C] + AMP[C] + H[C]->	GENE_ASSOCIATION: ( SO0871 ) or ( SO1292 )	
+homoserine dehydrogenase (NADPH)	HSDY	HOM-L[C] + NADP[C]->ASPSA[C] + H[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO4055 ) or ( SO3415 )	
+homoserine kinase	HSK	ATP[C] + HOM-L[C]->ADP[C] + H[C] + PHOM[C]->	GENE_ASSOCIATION: ( SO3414 )	SO3414;
+homoserine O-succinyltransferase	HSST	HOM-L[C] + SUCCOA[C]->COA[C] + SUCHMS[C]->	GENE_ASSOCIATION: ( SO1676 )	SO1676;
+histidinol-phosphate transaminase	HSTPT	GLU-L[C] + IMACP[C]->AKG[C] + H[C] + HISP[C]->	GENE_ASSOCIATION: ( SO2072 )	SO2072;
+4a-hydroxytetrahydrobiopterin dehydratase	HTHBPD	5678THH[C]->78DHP[C] + H2O[C]->	GENE_ASSOCIATION: ( SO1667 )	SO1667;
+Hexosaminidase	HXAD	CHITOB[C] + H2O[C]->2 ACGAM[C]->	GENE_ASSOCIATION: ( SO2250 ) or ( SO3509 )	
+hypoxanthine phosphoribosyltransferase (Hypoxanthine)	HXPRT	HXAN[C] + PRPP[C]->IMP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3803 ) or ( SO0807 )	
+Hydrogenase (menaquinone-7)	HYD5	MQL7[C]->H2[E] + MQN7[C]->	GENE_ASSOCIATION:	
+Hydrogenase (methylmenaquinone-7)	HYD6	MMQL7[C]->H2[E] + MMQN7[C]->	GENE_ASSOCIATION:	
+Unnamed131	HYXNT	HXAN[E]->HXAN[C]->	GENE_ASSOCIATION:	
+isocitrate dehydrogenase (NAD)	ICDHXI	ICIT[C] + NAD[C]->AKG[C] + CO2[C] + NADH[C]->	GENE_ASSOCIATION: ( SO1538 )	SO1538;
+isocitrate dehydrogenase (NADP)	ICDHY	ICIT[C] + NADP[C]->AKG[C] + CO2[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO2629 )	SO2629;
+Isochorismate Synthase	ICHORSI	CHOR[C]->ICHOR[C]->	GENE_ASSOCIATION: ( SO4713 )	SO4713;
+Isocitrate lyase	ICL	ICIT[C]->GLX[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO1484 )	SO1484;
+Imidazole-glycerol-3-phosphate synthase	IG3PS	GLN-L[C] + PRLP[C]->AICAR[C] + EIG3P[C] + GLU-L[C] + 2 H[C]->	GENE_ASSOCIATION: ( SO2068 and SO2070 )	SO2068;SO2070;
+imidazoleglycerol-phosphate dehydratase	IGPDH	EIG3P[C] + H[C]->H2O[C] + IMACP[C]->	GENE_ASSOCIATION: ( SO2071 )	SO2071;
+indole-3-glycerol-phosphate synthase	IGPS	2CPR5P[C] + H[C]->3IG3P[C] + CO2[C] + H2O[C]->	GENE_ASSOCIATION: ( SO3022 )	SO3022;
+isoleucine dehydrogenase	ILEDH2	H2O[C] + ILE-L[C] + NAD[C]->3MOP[C] + H[C] + NADH[C] + NH4[C]->	GENE_ASSOCIATION: ( SO2638 )	SO2638;
+Na+/Isoleucine-L symporter	ILET4	ILE-L[E] + NA1[E]->ILE-L[C] + NA1[C]->	GENE_ASSOCIATION: ( SO0949 )	SO0949;
+isoleucine transaminase	ILETA	AKG[C] + ILE-L[C]->3MOP[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO0340 )	SO0340;
+Isoleucyl-tRNA synthetase	ILETRS	ATP[C] + ILE-L[C] + TRNAILE[C]->AMP[C] + ILETRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3532 )	SO3532;
+IMP cyclohydrolase	IMPC	H2O[C] + IMP[C]->FPRICA[C]->	GENE_ASSOCIATION: ( SO0442 )	SO0442;
+IMP dehydrogenase	IMPD	H2O[C] + IMP[C] + NAD[C]->H[C] + NADH[C] + XMP[C]->	GENE_ASSOCIATION: ( SO3293 )	SO3293;
+Indole transport via proton symport, reversible	INDOLET2	H[E] + INDOLE[E]->H[C] + INDOLE[C]->	GENE_ASSOCIATION: ( SO4601 )	SO4601;
+inosine kinase	INSK	ATP[C] + INS[C]->ADP[C] + H[C] + IMP[C]->	GENE_ASSOCIATION: ( SO2020 )	SO2020;
+inosine transport in via proton symport	INST2	H[E] + INS[E]->H[C] + INS[C]->	GENE_ASSOCIATION:	
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)	IPDPS	H2MB4P[C] + H[C] + NADH[C]->H2O[C] + IPDP[C] + NAD[C]->	GENE_ASSOCIATION: ( SO3529 )	SO3529;
+3-isopropylmalate dehydrogenase	IPMD	3C2HMP[C] + NAD[C]->3C4MOP[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO4235 )	SO4235;
+3-isopropylmalate dehydratase	IPPMIA	3C2HMP[C]->2IPPM[C] + H2O[C]->	GENE_ASSOCIATION: ( SO4233 and SO4234 )	SO4233;SO4234;
+2-isopropylmalate hydratase	IPPMIB	2IPPM[C] + H2O[C]->3C3HMP[C]->	GENE_ASSOCIATION: ( SO4233 and SO4234 )	SO4233;SO4234;
+2-isopropylmalate synthase	IPPS	3MOB[C] + ACCOA[C] + H2O[C]->3C3HMP[C] + COA[C] + H[C]->	GENE_ASSOCIATION: ( SO4236 )	SO4236;
+imidazolonepropionase	IZPN	4IZP[C] + H2O[C]->FORGLU[C]->	GENE_ASSOCIATION: ( SO0095 )	SO0095;
+ketol-acid reductoisomerase (2-Aceto-2-hydroxybutanoate)	KARA2I	2AHBUT[C] + H[C] + NADPH[C]->23DHMP[C] + NADP[C]->	GENE_ASSOCIATION: ( SO4349 )	SO4349;
+b-ketoacyl synthase	KAS15	ACCOA[C] + H[C] + MALACP[C]->ACTACP[C] + CO2[C] + COA[C]->	GENE_ASSOCIATION: ( SO2778 ) or ( SO2901 ) or ( SO1742 ) or ( SO2853 )	
+3-hydroxy-myristoyl-ACP synthesis	KAS16	DDCAACP[C] + 2 H[C] + MALACP[C] + NADPH[C]->3HTDACP[C] + ACP[C] + CO2[C] + NADP[C]->	GENE_ASSOCIATION: ( SO3072 and SO2776 ) or ( SO2774 and SO2776 )	
+3-deoxy-manno-octulosonate-8-phosphatase	KDOPP	H2O[C] + KDO8P[C]->KDO[C] + PI[C]->	GENE_ASSOCIATION: ( SO3957 )	SO3957;
+2-dehydro-3-deoxy-phosphooctonate aldolase	KDOPS	ARA5P[C] + H2O[C] + PEP[C]->KDO8P[C] + PI[C]->	GENE_ASSOCIATION: ( SO3827 )	SO3827;
+potassium irreversible transport via proton symporter	KT2I	H[E] + K[E]->H[C] + K[C]->	GENE_ASSOCIATION: ( SO0057 and SO0058 ) or ( SO0024 ) or ( SO0028 ) or ( SO4281 and SO4282 )	
+potassium transport out via proton antiport	KT3	H[E] + K[C]->H[C] + K[E]->	GENE_ASSOCIATION: ( SO1647 ) or ( SO1481 ) or ( SO0695 )	
+L-Lactate dehydrogenase (ubiquinone)	L-LACD2	LAC-L[C] + UBQ8[C]->PYR[C] + UBQ8H2[C]->	GENE_ASSOCIATION:	
+L-Lactate dehydrogenase (menaquinone-7)	L-LACD4	LAC-L[C] + MQN7[C]->MQL7[C] + PYR[C]->	GENE_ASSOCIATION:	
+L-Lactate dehydrogenase (methylmenaquinone-7)	L-LACD5	LAC-L[C] + MMQN7[C]->MMQL7[C] + PYR[C]->	GENE_ASSOCIATION:	
+L-lactate reversible transport via proton symport	L-LACT2	H[E] + LAC-L[E]->H[C] + LAC-L[C]->	GENE_ASSOCIATION:	
+D-lactate dehydrogenase	LDH_D2	LAC-D[C] + UBQ8[C]->PYR[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO1521 )	SO1521;
+D-lactate dehydrogenase	LDH_D4	LAC-D[C] + MQN7[C]->MQL7[C] + PYR[C]->	GENE_ASSOCIATION: ( SO1521 )	SO1521;
+D-lactate dehydrogenase	LDH_D5	LAC-D[C] + MMQN7[C]->MMQL7[C] + PYR[C]->	GENE_ASSOCIATION: ( SO1521 )	SO1521;
+D-lactate dehydrogenase	LDH_DIR	H[C] + NADH[C] + PYR[C]->LAC-D[C] + NAD[C]->	GENE_ASSOCIATION: ( SO0968 )	SO0968;
+Na+/Leucine-L symporter	LEUT4	LEU-L[E] + NA1[E]->LEU-L[C] + NA1[C]->	GENE_ASSOCIATION: ( SO0949 )	SO0949;
+leucine transaminase	LEUTA	AKG[C] + LEU-L[C]->4MOP[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO0340 )	SO0340;
+Leucyl-tRNA synthetase	LEUTRS	ATP[C] + LEU-L[C] + TRNALEU[C]->AMP[C] + LEUTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1174 )	SO1174;
+lactoylglutathione lyase	LGTHL	GTHRD[C] + MTHGXL[C]->LGT-S[C]->	GENE_ASSOCIATION: ( SO2044 )	SO2044;
+L-leucine dehydrogenase	LLEUDR	H2O[C] + LEU-L[C] + NAD[C]->4MOP[C] + H[C] + NADH[C] + NH4[C]->	GENE_ASSOCIATION: ( SO2638 )	SO2638;
+Lipid A disaccaride synthase	LPADSS	LIPIDX[C] + U23GA[C]->H[C] + LIPIDADS[C] + UDP[C]->	GENE_ASSOCIATION: ( SO1642 )	SO1642;
+LPS synthesis	LPSSYN_SO	ADPHEP-D,D[C] + ATP[C] + KDO8NLIPA[C] + UACGALA[C] + 3 UDPGAL[C]->2 ADP[C] + 6 H[C] + LPS_SO[C] + 3 UDP[C] + UMP[C]->	GENE_ASSOCIATION: ( SO4677 )	SO4677;
+L-lysine transport out via proton antiport	LYST3	H[E] + LYS-L[C]->H[C] + LYS-L[E]->	GENE_ASSOCIATION: ( SO2865 )	SO2865;
+Lysyl-tRNA synthetase	LYSTRS	ATP[C] + LYS-L[C] + TRNALYS[C]->AMP[C] + LYSTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0992 )	SO0992;
+Malonyl-ACP decarboxylase	MACPD	H[C] + MALACP[C]->ACACP[C] + CO2[C]->	GENE_ASSOCIATION: ( SO3072 )	SO3072;
+malate synthase	MALS	ACCOA[C] + GLX[C] + H2O[C]->COA[C] + H[C] + MAL-L[C]->	GENE_ASSOCIATION: ( SO1483 )	SO1483;
+Malate transport via proton symport (2 H)	MALT2_2	2 H[E] + MAL-L[E]->2 H[C] + MAL-L[C]->	GENE_ASSOCIATION: ( SO3134 and SO3135 and SO3136 )	SO3134;SO3135;SO3136;
+Malate transport via proton symport (3 H)	MALT2_3	3 H[E] + MAL-L[E]->3 H[C] + MAL-L[C]->	GENE_ASSOCIATION: ( SO4417 )	SO4417;
+maltose O-acetyltransferase	MALTAT	ACCOA[C] + MALT[C]->ACMALT[C] + COA[C]->	GENE_ASSOCIATION: ( SO1961 )	SO1961;
+malate thiokinase	MALTK	ATP[C] + COA[C] + MAL-L[C]->ADP[C] + MALYLCOA[C] + PI[C]->	GENE_ASSOCIATION:	
+Malyl-CoA lyase	MCAL	MALYLCOA[C]->ACCOA[C] + GLX[C]->	GENE_ASSOCIATION:	
+methylcrotonoyl-CoA carboxylase	MCCC	3MB2COA[C] + ATP[C] + HCO3[C]->3MGCOA[C] + ADP[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1894 and SO1896 )	SO1894;SO1896;
+2-methylcitrate dehydratase	MCITD	2MCIT[C]->2MCACN[C] + H2O[C]->	GENE_ASSOCIATION: ( SO0343 )	SO0343;
+2-methylcitrate synthase	MCITS	H2O[C] + OAA[C] + PPCOA[C]->2MCIT[C] + COA[C] + H[C]->	GENE_ASSOCIATION: ( SO0344 )	SO0344;
+Malonyl-CoA-ACP transacylase	MCOATA	ACP[C] + MALCOA[C]->COA[C] + MALACP[C]->	GENE_ASSOCIATION: ( SO2777 )	SO2777;
+3-mercaptopyruvate sulfurtransferase	MCPST	MERCPPYR[C] + SO3[C]->PYR[C] + TSUL[C]->	GENE_ASSOCIATION: ( SO1261 )	SO1261;
+malate dehydrogenase	MDH	MAL-L[C] + NAD[C]->H[C] + NADH[C] + OAA[C]->	GENE_ASSOCIATION: ( SO0770 )	SO0770;
+5-Methylthio-5-deoxy-D-ribulose 1-phosphate dehydratase	MDRPD	5MDRU1P[C]->DKMPP[C] + H2O[C]->	GENE_ASSOCIATION:	
+malic enzyme (NADP)	ME2	MAL-L[C] + NADP[C]->CO2[C] + NADPH[C] + PYR[C]->	GENE_ASSOCIATION: ( SO4118 ) or ( SO3855 )	
+Unnamed132	MEAMP1_GLU_ASP	GLU-ASP-L[C] + H2O[C]->ASP-L[C] + GLU-L[C]->	GENE_ASSOCIATION:	
+methionyl aminopeptidase	MEAMP1_GLY-ASP	GLY-ASP-L[C] + H2O[C]->ASP-L[C] + GLY[C]->	GENE_ASSOCIATION:	
+methionyl aminopeptidase	MEAMP1_GLY-GLU	GLY-GLU-L[C] + H2O[C]->GLU-L[C] + GLY[C]->	GENE_ASSOCIATION:	
+2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase	MECDPDH	2MECDP[C] + NADH[C]->H2MB4P[C] + H2O[C] + NAD[C]->	GENE_ASSOCIATION: ( SO3312 )	SO3312;
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	MECDPS	2P4C2ME[C]->2MECDP[C] + CMP[C]->	GENE_ASSOCIATION: ( SO3437 )	SO3437;
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	MEPCT	2ME4P[C] + CTP[C] + H[C]->4C2ME[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3438 )	SO3438;
+methionine adenosyltransferase	METAT	ATP[C] + H2O[C] + MET-L[C]->AMET[C] + PI[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0929 )	SO0929;
+methionine g-lyase	METGL	H2O[C] + MET-L[C]->2OBUT[C] + CH4S[C] + NH4[C]->	GENE_ASSOCIATION: ( SO1812 )	SO1812;
+methionine synthase	METS	5MTHF[C] + HCYS-L[C]->H[C] + MET-L[C] + THF[C]->	GENE_ASSOCIATION: ( SO0818 ) or ( SO1030 )	
+Methionyl-tRNA synthetase	METTRS	ATP[C] + MET-L[C] + TRNAMET[C]->AMP[C] + METTRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2619 )	SO2619;
+methylglutaconyl-CoA hydratase	MGCH	3MGCOA[C] + H2O[C]->HMGCOA[C]->	GENE_ASSOCIATION: ( SO1895 )	SO1895;
+magnesium transport out via proton antiporter	MGT3	H[E] + MG2[C]->H[C] + MG2[E]->	GENE_ASSOCIATION: ( SO1178 )	SO1178;
+magnesium transport in/out via permease (no H+)	MGT5	MG2[C]->MG2[E]->	GENE_ASSOCIATION: ( SO1145 ) or ( SO3984 ) or ( SO3966 ) or ( SO1941 ) or ( SO1565 )	
+myo-inositol 1-phosphatase	MI1PP	H2O[C] + MI1P-D[C]->INOST[C] + PI[C]->	GENE_ASSOCIATION: ( SO2260 )	SO2260;
+2-methylisocitrate hydratase	MICITH	2MCACN[C] + H2O[C]->MICIT[C]->	GENE_ASSOCIATION: ( SO0432 )	SO0432;
+methylisocitrate lyase	MICITL	MICIT[C]->PYR[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO0345 )	SO0345;
+maleylacetoacetate isomerase	MLACI	4MLACAC[C]->4FUMACAC[C]->	GENE_ASSOCIATION: ( SO1671 )	SO1671;
+methylmalonate-semialdehyde dehydrogenase (acylating)	MMSDHIR	COA[C] + MMALSA[C] + NAD[C]->CO2[C] + NADH[C] + PPCOA[C]->	GENE_ASSOCIATION: ( SO1678 )	SO1678;
+Manganese oxide reductase	MNOR	2 H[E] + MN4O[E] + MQL7[C]->2 H2O[E] + MN2[E] + MQN7[C]->	GENE_ASSOCIATION: ( SO4591 and SO1777 and SO1779 ) or ( SO4591 and SO1777 and SO1778 )	
+Manganese oxide reductase	MNOR2	2 H[E] + MMQL7[C] + MN4O[E]->2 H2O[E] + MMQN7[C] + MN2[E]->	GENE_ASSOCIATION: ( SO4591 and SO1777 and SO1778 ) or ( SO4591 and SO1777 and SO1779 )	
+8-amino 3,8-dideoxy-D-manno-octulosonic acid transferase	MOAT3	CKDO8N[C] + LIPIDA[C]->CMP[C] + H[C] + KDO8NLIPID4[C]->	GENE_ASSOCIATION: ( SO4676 )	SO4676;
+molybdate transport via ABC system	MOBDABC	ATP[C] + H2O[C] + MOBD[E]->ADP[C] + H[C] + MOBD[C] + PI[C]->	GENE_ASSOCIATION: ( SO3863 and SO3864 and SO3865 )	SO3863;SO3864;SO3865;
+3-methyl-2-oxobutanoate hydroxymethyltransferase	MOHMT	3MOB[C] + H2O[C] + MLTHF[C]->2DHP[C] + THF[C]->	GENE_ASSOCIATION: ( SO0870 )	SO0870;
+methylthioadenosine nucleosidase	MTAN	5MTA[C] + H2O[C]->5MTR[C] + ADE[C]->	GENE_ASSOCIATION: ( SO1322 ) or ( SO3705 )	
+methenyltetrahydrofolate cyclohydrolase	MTHFC	H2O[C] + METHF[C]->10FTHF[C] + H[C]->	GENE_ASSOCIATION: ( SO1792 )	SO1792;
+methylenetetrahydrofolate dehydrogenase (NADP)	MTHFD	MLTHF[C] + NADP[C]->METHF[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO1792 )	SO1792;
+5,10-methylenetetrahydrofolate reductase (NADH)	MTHFR2	2 H[C] + MLTHF[C] + NADH[C]->5MTHF[C] + NAD[C]->	GENE_ASSOCIATION: ( SO4054 )	SO4054;
+5-methylthioribose-1-phosphate isomerase	MTRI	5MDR1P[C]->5MDRU1P[C]->	GENE_ASSOCIATION:	
+5-methylthioribose kinase	MTRK	5MTR[C] + ATP[C]->5MDR1P[C] + ADP[C] + H[C]->	GENE_ASSOCIATION:	
+sodium transport out via ABC system	NAABCO	ATP[C] + H2O[C] + NA1[C]->ADP[C] + H[C] + NA1[E] + PI[C]->	GENE_ASSOCIATION: ( SO0069 and SO0070 )	SO0069;SO0070;
+NADH dehydrogenase (ubiquinone-8 and 4 protons)	NADH11	5 H[C] + NADH[C] + UBQ8[C]->4 H[E] + NAD[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO1009 and SO1010 and SO1011 and SO1012 and SO1013 and SO1014 and SO1015 and SO1016 and SO1017 and SO1018 and SO1019 and SO1020 and SO1021 )	SO1009;SO1010;SO1011;SO1012;SO1013;SO1014;SO1015;SO1016;SO1017;SO1018;SO1019;SO1020;SO1021;
+NADH dehydrogenase (ubiquinone-8 )	NADH12	H[C] + NADH[C] + UBQ8[C]->NAD[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO3517 )	SO3517;
+NADH dehydrogenase (menaquinone-7 and 4 protons)	NADH13	5 H[C] + MQN7[C] + NADH[C]->4 H[E] + MQL7[C] + NAD[C]->	GENE_ASSOCIATION: ( SO1009 and SO1010 and SO1011 and SO1012 and SO1013 and SO1014 and SO1015 and SO1016 and SO1017 and SO1018 and SO1019 and SO1020 and SO1021 )	SO1009;SO1010;SO1011;SO1012;SO1013;SO1014;SO1015;SO1016;SO1017;SO1018;SO1019;SO1020;SO1021;
+NADH dehydrogenase (methylmenaquinone7 and no proton)	NADH14	H[C] + MMQN7[C] + NADH[C]->MMQL7[C] + NAD[C]->	GENE_ASSOCIATION: ( SO3517 )	SO3517;
+NADH dehydrogenase (methylmenaquinone-7 and 4 protons)	NADH16	5 H[C] + MMQN7[C] + NADH[C]->4 H[E] + MMQL7[C] + NAD[C]->	GENE_ASSOCIATION: ( SO1009 and SO1010 and SO1011 and SO1012 and SO1013 and SO1014 and SO1015 and SO1016 and SO1017 and SO1018 and SO1019 and SO1020 and SO1021 )	SO1009;SO1010;SO1011;SO1012;SO1013;SO1014;SO1015;SO1016;SO1017;SO1018;SO1019;SO1020;SO1021;
+NADH dehydrogenase (Menaquinone 7 and no proton)	NADH4	H[C] + MQN7[C] + NADH[C]->MQL7[C] + NAD[C]->	GENE_ASSOCIATION: ( SO3517 )	SO3517;
+NAD kinase	NADK	ATP[C] + NAD[C]->ADP[C] + H[C] + NADP[C]->	GENE_ASSOCIATION: ( SO1523 ) or ( SO3077 )	
+NAD synthase (nh4)	NADS1	ATP[C] + DNAD[C] + NH4[C]->AMP[C] + H[C] + NAD[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2021 )	SO2021;
+sodium transport out via proton antiport	NAT3	H[E] + NA1[C]->H[C] + NA1[E]->	GENE_ASSOCIATION: ( SO2886 ) or ( SO3747 ) or ( SO0935 ) or ( SO2537 ) or ( SO1366 )	
+sodium proton antiporter (H:NA is 2)	NAT3_2	2 H[E] + NA1[C]->2 H[C] + NA1[E]->	GENE_ASSOCIATION: ( SO1336 )	SO1336;
+sodium transport in/out via calcium antiport	NAT9	CA2[C] + NA1[E]->CA2[E] + NA1[C]->	GENE_ASSOCIATION: ( SO0354 )	SO0354;
+nicotinate phosphoribosyltransferase	NCTPPRT	NICRNT[C] + PPI[C]->H[C] + NAC[C] + PRPP[C]->	GENE_ASSOCIATION: ( SO1981 )	SO1981;
+nucleoside-diphosphate kinase (ATP:GDP)	NDPK1	ATP[C] + GDP[C]->ADP[C] + GTP[C]->	GENE_ASSOCIATION: ( SO2274 )	SO2274;
+nucleoside-diphosphate kinase (ATP:UDP)	NDPK2	ATP[C] + UDP[C]->ADP[C] + UTP[C]->	GENE_ASSOCIATION: ( SO2274 )	SO2274;
+nucleoside-diphosphate kinase (ATP:CDP)	NDPK3	ATP[C] + CDP[C]->ADP[C] + CTP[C]->	GENE_ASSOCIATION: ( SO2274 )	SO2274;
+nucleoside-diphosphate kinase (ATP:dTDP)	NDPK4	ATP[C] + DTDP[C]->ADP[C] + DTTP[C]->	GENE_ASSOCIATION: ( SO2274 )	SO2274;
+nucleoside-diphosphate kinase (ATP:dGDP)	NDPK5	ATP[C] + DGDP[C]->ADP[C] + DGTP[C]->	GENE_ASSOCIATION: ( SO2274 )	SO2274;
+nucleoside-diphosphate kinase (ATP:dUDP)	NDPK6	ATP[C] + DUDP[C]->ADP[C] + DUTP[C]->	GENE_ASSOCIATION: ( SO2274 )	SO2274;
+nucleoside-diphosphate kinase (ATP:dCDP)	NDPK7	ATP[C] + DCDP[C]->ADP[C] + DCTP[C]->	GENE_ASSOCIATION: ( SO2274 )	SO2274;
+nucleoside-diphosphate kinase (ATP:dADP)	NDPK8	ATP[C] + DADP[C]->ADP[C] + DATP[C]->	GENE_ASSOCIATION: ( SO2274 )	SO2274;
+ammonium transport via diffusion	NH4T	NH4[E]->NH4[C]->	GENE_ASSOCIATION: ( SO0760 )	SO0760;
+nickel transport in/out via proton antiporter	NIT3	H[E] + NI2[C]->H[C] + NI2[E]->	GENE_ASSOCIATION: ( SO1178 )	SO1178;
+nicotinamide-nucleotide adenylyltransferase	NMNAT	ATP[C] + H[C] + NMN[C]->NAD[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1171 )	SO1171;
+NMN permease	NMNP	NMN[E]->NMN[C]->	GENE_ASSOCIATION: ( SO2713 )	SO2713;
+nicotinate-nucleotide adenylyltransferase	NNAT	ATP[C] + H[C] + NICRNT[C]->DNAD[C] + PPI[C]->	GENE_ASSOCIATION: ( SO1171 )	SO1171;
+nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase	NNDMBRT	DMBZID[C] + NICRNT[C]->5PRDMBZ[C] + H[C] + NAC[C]->	GENE_ASSOCIATION: ( SO1035 )	SO1035;
+nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase	NNDMBRT2	RIBFLV[C]->DMBZID[C] + UNKNOWN1[C]->	GENE_ASSOCIATION: ( SO1035 )	SO1035;
+nicotinate-nucleotide diphosphorylase (carboxylating)	NNDPR	2 H[C] + PRPP[C] + QULN[C]->CO2[C] + NICRNT[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0419 )	SO0419;
+naphthoate synthase	NPHS	SBZCOA[C]->COA[C] + DHNA[C]->	GENE_ASSOCIATION: ( SO4739 )	SO4739;
+5'-nucleotidase (dUMP)	NTD1	DUMP[C] + H2O[C]->DURI[C] + PI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (XMP)	NTD10	H2O[C] + XMP[C]->PI[C] + XTSN[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (IMP)	NTD11	H2O[C] + IMP[C]->INS[C] + PI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (UMP)	NTD2	H2O[C] + UMP[C]->PI[C] + URI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (dCMP)	NTD3	DCMP[C] + H2O[C]->DCYT[C] + PI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+Unnamed133	NTD3_E	DCMP[E] + H2O[E]->DCYT[E] + PI[E]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (CMP)	NTD4	CMP[C] + H2O[C]->CYTD[C] + PI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (dTMP)	NTD5	DTMP[C] + H2O[C]->PI[C] + THYMD[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+Unnamed134	NTD5_E	DTMP[E] + H2O[E]->PI[E] + THYMD[E]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (dAMP)	NTD6	DAMP[C] + H2O[C]->DAD-2[C] + PI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+Unnamed135	NTD6_E	DAMP[E] + H2O[E]->DAD-2[E] + PI[E]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (AMP)	NTD7	AMP[C] + H2O[C]->ADN[C] + PI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (dGMP)	NTD8	DGMP[C] + H2O[C]->DGSN[C] + PI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+Unnamed136	NTD8_E	DGMP[E] + H2O[E]->DGSN[E] + PI[E]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+5'-nucleotidase (GMP)	NTD9	GMP[C] + H2O[C]->GSN[C] + PI[C]->	GENE_ASSOCIATION: ( SO2001 )	SO2001;
+Nucleoside triphosphate pyrophosphorylase (dgtp)	NTPP1	DGTP[C] + H2O[C]->DGMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0410 ) or ( SO3442 )	
+Nucleoside triphosphate pyrophosphorylase (gtp)	NTPP2	GTP[C] + H2O[C]->GMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0410 ) or ( SO3442 )	
+dCTP diphosphatase	NTPP3	DCTP[C] + H2O[C]->DCMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3442 )	SO3442;
+Nucleoside triphosphate pyrophosphorylase (ctp)	NTPP4	CTP[C] + H2O[C]->CMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3442 )	SO3442;
+Nucleoside triphosphate pyrophosphorylase (datp)	NTPP5	DATP[C] + H2O[C]->DAMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3442 )	SO3442;
+Nucleoside triphosphate pyrophosphorylase (atp)	NTPP6	ATP[C] + H2O[C]->AMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3442 )	SO3442;
+Nucleoside triphosphate pyrophosphorylase (dttp)	NTPP7	DTTP[C] + H2O[C]->DTMP[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3442 )	SO3442;
+Nucleoside triphosphate pyrophosphorylase (utp)	NTPP8	H2O[C] + UTP[C]->H[C] + PPI[C] + UMP[C]->	GENE_ASSOCIATION: ( SO3442 )	SO3442;
+nitrate reductase	NTR4	MQL7[C] + NO3[E]->H2O[E] + MQN7[C] + NO2[E]->	GENE_ASSOCIATION: ( SO4591 and SO0845 and SO0846 and SO0847 and SO0848 )	SO0845;SO0846;SO0847;SO0848;SO4591;
+nitrate reductase (methylmenaquinone-7)	NTR5	MMQL7[C] + NO3[E]->H2O[E] + MMQN7[C] + NO2[E]->	GENE_ASSOCIATION: ( SO4591 and SO0845 and SO0846 and SO0847 and SO0848 )	SO0845;SO0846;SO0847;SO0848;SO4591;
+Nitrite Reductase	NTRIRMMQ2	2 H[E] + 3 MMQL7[C] + NO2[E]->2 H2O[E] + 3 MMQN7[C] + NH4[E]->	GENE_ASSOCIATION: ( SO4591 and SO3980 )	SO3980;SO4591;
+Nitrite Reductase	NTRIRMQ2	2 H[E] + 3 MQL7[C] + NO2[E]->2 H2O[E] + 3 MQN7[C] + NH4[E]->	GENE_ASSOCIATION: ( SO4591 and SO3980 )	SO3980;SO4591;
+O2 transport in via diffusion	O2T	O2[E]->O2[C]->	GENE_ASSOCIATION:	
+2-Oxobutanoate formate lyase	OBTFL	2OBUT[C] + COA[C]->FOR[C] + PPCOA[C]->	GENE_ASSOCIATION: ( SO2912 and SO2913 )	SO2912;SO2913;
+ornithine carbamoyltransferase	OCBT	CBP[C] + ORN-L[C]->CITR-L[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO0277 )	SO0277;
+Octadecanoate transport via proton symport	OCDCAT2	H[E] + OCDCA[E]->H[C] + OCDCA[C]->	GENE_ASSOCIATION: ( SO3099 ) or ( SO4232 )	
+O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase	OHPBAT	GLU-L[C] + OHPB[C]->AKG[C] + PHTHR[C]->	GENE_ASSOCIATION: ( SO2410 )	SO2410;
+R04988	OHPHM	2OHPH[C] + AMET[C]->2OMPH[C] + AHCYS[C] + H[C]->	GENE_ASSOCIATION: ( SO2413 )	SO2413;
+2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate)	OIVD1I	4MOP[C] + COA[C] + NAD[C]->CO2[C] + IVCOA[C] + NADH[C]->	GENE_ASSOCIATION: ( SO2339 and SO2340 and SO2341 and SO0426 )	SO0426;SO2339;SO2340;SO2341;
+2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxobutanoate)	OIVD2	3MOB[C] + COA[C] + NAD[C]->CO2[C] + IBCOA[C] + NADH[C]->	GENE_ASSOCIATION: ( SO2339 and SO2340 and SO2341 and SO0426 )	SO0426;SO2339;SO2340;SO2341;
+2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxopentanoate)	OIVD3	3MOP[C] + COA[C] + NAD[C]->2MBCOA[C] + CO2[C] + NADH[C]->	GENE_ASSOCIATION: ( SO2339 and SO2340 and SO2341 and SO0426 )	SO0426;SO2339;SO2340;SO2341;
+2-Octaprenyl-6-methoxy-benzoquinol methylase	OMBZLM	2OMBZL[C] + AMET[C]->2OMMBL[C] + AHCYS[C] + H[C]->	GENE_ASSOCIATION: ( SO4199 )	SO4199;
+2-Oxo-4-methyl-3-carboxypentanoate decarboxylation	OMCDC	3C4MOP[C] + H[C]->4MOP[C] + CO2[C]->	GENE_ASSOCIATION: ( SO4235 )	SO4235;
+2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase	OMMBLHX	2OMMBL[C] + 5.000000e-01 O2[C]->2OMHMBL[C]->	GENE_ASSOCIATION: ( SO1183 )	SO1183;
+orotidine-5'-phosphate decarboxylase	OMPDC	H[C] + OROT5P[C]->CO2[C] + UMP[C]->	GENE_ASSOCIATION: ( SO2398 )	SO2398;
+2-octaprenyl-6-methoxyphenol hydroxylase	OMPHHX	2OMPH[C] + 5.000000e-01 O2[C]->2OMBZL[C]->	GENE_ASSOCIATION: ( SO0777 )	SO0777;
+3-octaprenyl-4-hydroxybenzoate carboxy-lyase	OPHBDC	3OPHB[C] + H[C]->2OPH[C] + CO2[C]->	GENE_ASSOCIATION: ( SO3804 ) or ( SO0506 )	
+2-Octaprenylphenol hydroxylase	OPHHX	2OPH[C] + 5.000000e-01 O2[C]->2OHPH[C]->	GENE_ASSOCIATION: ( SO4201 )	SO4201;
+ornithine decarboxylase	ORNDC	H[C] + ORN-L[C]->CO2[C] + PTRC[C]->	GENE_ASSOCIATION: ( SO0314 ) or ( SO4136 )	
+orotate phosphoribosyltransferase	ORPT	OROT5P[C] + PPI[C]->OROT[C] + PRPP[C]->	GENE_ASSOCIATION: ( SO4255 )	SO4255;
+2-oxoglutarate decarboxylase	OXGDC2	AKG[C] + 2 H[C] + THMPP[C]->CO2[C] + SSALTPP[C]->	GENE_ASSOCIATION: ( SO4573 )	SO4573;
+1-pyrroline-5-carboxylate dehydrogenase	P5CD	1PYR5C[C] + 2 H2O[C] + NAD[C]->GLU-L[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO3774 )	SO3774;
+pyrroline-5-carboxylate reductase	P5CR	1PYR5C[C] + 2 H[C] + NADPH[C]->NADP[C] + PRO-L[C]->	GENE_ASSOCIATION: ( SO3354 )	SO3354;
+pantothenate synthase	PANTS	ALA-B[C] + ATP[C] + PANT-R[C]->AMP[C] + H[C] + PNTO-R[C] + PPI[C]->	GENE_ASSOCIATION: ( SO0869 )	SO0869;
+phosphatidic acid phosphatase	PAP	12DAG3P[C] + H2O[C]->12DGR[C] + PI[C]->	GENE_ASSOCIATION:	
+phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	PAPPT3	UDCPP[C] + UGMDA[C]->UAGMDA[C] + UMP[C]->	GENE_ASSOCIATION: ( SO4222 )	SO4222;
+phosphoadenylyl-sulfate reductase (thioredoxin)	PAPSR	PAPS[C] + TRDRD[C]->2 H[C] + PAP[C] + SO3[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO3736 )	SO3736;
+Phosphatidic acid synthase (S. oneidensis)	PASYN_SO_AEROBIC	1.300000e-01 FA11ACP[C] + 7.000000e-02 FA13ACP[C] + 1.200000e-01 FA1ACP[C] + 3.300000e-01 FA3ACP[C] + 1.500000e-01 FA6ACP[C] + GLYC3P[C] + 3.800000e-01 HDEACP[C] + 3.000000e-02 HPDACP[C] + 2.500000e-01 HPDEACP[C] + 2.000000e-02 OCDACP[C] + 2.500000e-01 OCTEACP[C] + 1.300000e-01 PALMACP[C] + 2.000000e-02 PDACP[C] + 1.200000e-01 PDEACP[C]->12DAG3P[C] + 2 ACP[C]->	GENE_ASSOCIATION: ( SO4602 and SO0567 )	SO0567;SO4602;
+pyruvate dehydrogenase	PDH	COA[C] + NAD[C] + PYR[C]->ACCOA[C] + CO2[C] + NADH[C]->	GENE_ASSOCIATION: ( SO0424 and SO0425 and SO0426 )	SO0424;SO0425;SO0426;
+pyridoxine 5'-phosphate oxidase	PDX5PO	O2[C] + PDX5P[C]->H2O2[C] + H[C] + PYDX5P[C]->	GENE_ASSOCIATION: ( SO2895 )	SO2895;
+Pyridoxine 5'-phosphate synthase	PDX5PS	DXYL5P[C] + NAD[C] + PHTHR[C]->CO2[C] + 2 H2O[C] + H[C] + NADH[C] + PDX5P[C] + PI[C]->	GENE_ASSOCIATION: ( SO1351 and SO3638 )	SO1351;SO3638;
+Peptidoglyan subunit crosslinking reaction	PEPTIDOXE	PEPTIDO_EC[E]->ALA-D[E] + PEPTX[E]->	GENE_ASSOCIATION:	
+Erythronate 4-phosphate (4per) dehydrogenase	PERD	4PER[C] + NAD[C]->H[C] + NADH[C] + OHPB[C]->	GENE_ASSOCIATION: ( SO3071 )	SO3071;
+Formate C-acetyltransferase	PFL	COA[C] + PYR[C]->ACCOA[C] + FOR[C]->	GENE_ASSOCIATION: ( SO2912 and SO2913 )	SO2912;SO2913;
+phosphoglucosamine mutase	PGAMT	GAM1P[C]->GAM6P[C]->	GENE_ASSOCIATION: ( SO1199 )	SO1199;
+phosphoglycerate dehydrogenase	PGCD	3PG[C] + NAD[C]->3PHP[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO0862 )	SO0862;
+phosphogluconate dehydrogenase	PGDH	6PGC[C] + NADP[C]->CO2[C] + NADPH[C] + RU5P-D[C]->	GENE_ASSOCIATION: ( SO1902 )	SO1902;
+phosphogluconate dehydratase	PGDHY	6PGC[C]->2DDG6P[C] + H2O[C]->	GENE_ASSOCIATION: ( SO2487 )	SO2487;
+glucose-6-phosphate isomerase	PGI	G6P[C]->F6P[C]->	GENE_ASSOCIATION: ( SO3547 )	SO3547;
+phosphoglycerate kinase	PGK	13DPG[C] + ADP[C]->3PG[C] + ATP[C]->	GENE_ASSOCIATION: ( SO0932 )	SO0932;
+6-phosphogluconolactonase	PGL	6PGL[C] + H2O[C]->6PGC[C] + H[C]->	GENE_ASSOCIATION: ( SO2488 )	SO2488;
+phosphoglycolate phosphatase	PGLYCP	2PGLYC[C] + H2O[C]->GLYCLT[C] + PI[C]->	GENE_ASSOCIATION: ( SO0293 )	SO0293;
+phosphoglycerate mutase	PGM	3PG[C]->2PG[C]->	GENE_ASSOCIATION: ( SO0049 )	SO0049;
+phosphoglucomutase	PGMT	G1P[C]->G6P[C]->	GENE_ASSOCIATION: ( SO2336 )	SO2336;
+Phosphatidylglycerophosphate phosphohydrolase	PGPPH	H2O[C] + PGLYP[C]->PGLY[C] + PI[C]->	GENE_ASSOCIATION: ( SO3463 ) or ( SO4335 )	
+CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase	PGSA	CDPDAG[C] + GLYC3P[C]->CMP[C] + H[C] + PGLYP[C]->	GENE_ASSOCIATION: ( SO1862 )	SO1862;
+phenylalanine 4-monooxygenase	PHE4MO	O2[C] + PHE-L[C] + THBPT[C]->DHBPT[C] + H2O[C] + TYR-L[C]->	GENE_ASSOCIATION: ( SO1666 )	SO1666;
+phenylalanine ammonia-lyase	PHEAL	PHE-L[C]->CINNM[C] + NH4[C]->	GENE_ASSOCIATION: ( SO4374 ) or ( SO3057 )	
+Unnamed137	PHET2R	H[E] + PHE-L[E]->H[C] + PHE-L[C]->	GENE_ASSOCIATION:	
+phenylalanine transaminase	PHETA1	AKG[C] + PHE-L[C]->GLU-L[C] + PHPYR[C]->	GENE_ASSOCIATION: ( SO2406 ) or ( SO2350 )	
+Phenylalanyl-tRNA synthetase	PHETRS	ATP[C] + PHE-L[C] + TRNAPHE[C]->AMP[C] + PHETRNA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2085 and SO2086 )	SO2085;SO2086;
+3-phytase, extracellular	PHYT3E	H2O[E] + INOSHP[E]->INOSPP1[E] + PI[E]->	GENE_ASSOCIATION: ( SO2524 )	SO2524;
+phosphate transport via ABC system	PIABC	ATP[C] + H2O[C] + PI[E]->ADP[C] + H[C] + 2 PI[C]->	GENE_ASSOCIATION: ( SO1560 and SO1723 and SO1724 and SO1725 ) or ( SO4289 and SO4290 and SO4291 and SO4292 )	
+phosphate transport in/out via proton symporter	PIT6	H[E] + PI[E]->H[C] + PI[C]->	GENE_ASSOCIATION: ( SO1052 ) or ( SO3771 )	
+Phospholipase PE (S. oneidensis)	PLIPPE_SO	H2O[C] + PE[C]->AGPE[C] + 6.500000e-02 FA11[C] + 3.500000e-02 FA13[C] + 6.000000e-02 FA1[C] + 1.650000e-01 FA3[C] + 7.500000e-02 FA6[C] + H[C] + 6.500000e-02 HDCA[C] + 1.900000e-01 HDCEA[C] + 1.500000e-02 HPDCA[C] + 1.250000e-01 HPDE[C] + 1.000000e-02 OCDCA[C] + 1.250000e-01 OCDCEA[C] + 6.000000e-02 PDE[C] + 1.000000e-02 PTDCA[C]->	GENE_ASSOCIATION: ( SO4525 ) or ( SO2836 )	
+Phospholipase PG (S. oneidensis)	PLIPPG_SO	H2O[C] + PGLY[C]->AGPG[C] + 6.500000e-02 FA11[C] + 3.500000e-02 FA13[C] + 6.000000e-02 FA1[C] + 1.650000e-01 FA3[C] + 7.500000e-02 FA6[C] + H[C] + 6.500000e-02 HDCA[C] + 1.900000e-01 HDCEA[C] + 1.500000e-02 HPDCA[C] + 1.250000e-01 HPDE[C] + 1.000000e-02 OCDCA[C] + 1.250000e-01 OCDCEA[C] + 6.000000e-02 PDE[C] + 1.000000e-02 PTDCA[C]->	GENE_ASSOCIATION: ( SO4525 ) or ( SO2836 )	
+phosphomannomutase	PMANM	MAN1P[C]->MAN6P[C]->	GENE_ASSOCIATION: ( SO1755 )	SO1755;
+pyrimidine phosphatase	PMDPHT	5APRBU[C] + H2O[C]->4R5AU[C] + PI[C]->	GENE_ASSOCIATION:	
+phosphomethylpyrimidine kinase	PMPK	4AMPM[C] + ATP[C]->2MAHMP[C] + ADP[C]->	GENE_ASSOCIATION: ( SO2444 )	SO2444;
+pantothenate kinase	PNTK	ATP[C] + PNTO-R[C]->4PPAN[C] + ADP[C] + H[C]->	GENE_ASSOCIATION: ( SO0215 )	SO0215;
+inorganic diphosphatase	PPA	H2O[C] + PPI[C]->H[C] + 2 PI[C]->	GENE_ASSOCIATION: ( SO4190 )	SO4190;
+propionate transport in via proton symport	PPAT2	H[E] + PPA[E]->H[C] + PPA[C]->	GENE_ASSOCIATION:	
+porphobilinogen synthase	PPBNGS	2 5AOP[C]->2 H2O[C] + H[C] + PPBNG[C]->	GENE_ASSOCIATION: ( SO4208 ) or ( SO2587 )	
+phosphoenolpyruvate carboxylase	PPC	CO2[C] + H2O[C] + PEP[C]->H[C] + OAA[C] + PI[C]->	GENE_ASSOCIATION: ( SO0274 )	SO0274;
+phosphopantothenoylcysteine decarboxylase	PPCDC	4PPCYS[C] + H[C]->CO2[C] + PAN4P[C]->	GENE_ASSOCIATION: ( SO4249 )	SO4249;
+phosphoenolpyruvate carboxykinase	PPCK	ATP[C] + OAA[C]->ADP[C] + CO2[C] + PEP[C]->	GENE_ASSOCIATION: ( SO0162 )	SO0162;
+phosphopentomutase	PPM	R1P[C]->R5P[C]->	GENE_ASSOCIATION: ( SO1219 )	SO1219;
+phosphopentomutase (deoxyribose)	PPM2	2DR1P[C]->2DR5P[C]->	GENE_ASSOCIATION: ( SO1219 )	SO1219;
+phosphopantothenate-cysteine ligase	PPNCL	4PPAN[C] + CTP[C] + CYS-L[C]->4PPCYS[C] + CDP[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO4249 )	SO4249;
+prephenate dehydrogenase	PPND	NAD[C] + PPHN[C]->34HPP[C] + CO2[C] + NADH[C]->	GENE_ASSOCIATION: ( SO1362 )	SO1362;
+prephenate dehydratase	PPNDH	H[C] + PPHN[C]->CO2[C] + H2O[C] + PHPYR[C]->	GENE_ASSOCIATION: ( SO1367 )	SO1367;
+protoporphyrinogen oxidase	PPPGO	1.500000e+00 O2[C] + PPPG9[C]->3 H2O[C] + PPP9[C]->	GENE_ASSOCIATION: ( SO0027 ) or ( SO4316 ) or ( SO0025 )	
+phosphoenolpyruvate synthase	PPS	ATP[C] + H2O[C] + PYR[C]->AMP[C] + 2 H[C] + PEP[C] + PI[C]->	GENE_ASSOCIATION: ( SO2644 )	SO2644;
+Peptidoglycan subunit synthesis	PPTGSE	UAAGMDA[C]->H[E] + PEPTIDO_EC[E] + UDCPDP[C]->	GENE_ASSOCIATION:	
+trans-pentaprenyltranstransferase	PPTT	IPDP[C] + PENDP[C]->HEXDP[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3653 )	SO3653;
+phosphoribosylglycinamide synthetase	PRAGS	ATP[C] + GLY[C] + PRAM[C]->ADP[C] + GAR[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO0441 )	SO0441;
+phosphoribosylanthranilate isomerase (irreversible)	PRAII	PRAN[C]->2CPR5P[C]->	GENE_ASSOCIATION: ( SO3022 )	SO3022;
+phosphoribosylaminoimidazole synthetase	PRAIS	ATP[C] + FPRAM[C]->ADP[C] + AIR[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO2760 )	SO2760;
+phosphoribosyl-AMP cyclohydrolase	PRAMPC	H2O[C] + H[C] + PRBAMP[C]->PRFP[C]->	GENE_ASSOCIATION: ( SO2067 )	SO2067;
+phosphoribosylaminoimidazolesuccinocarboxamide synthase	PRASCS	5AIZC[C] + ASP-L[C] + ATP[C]->25AICS[C] + ADP[C] + H[C] + PI[C]->	GENE_ASSOCIATION: ( SO4066 )	SO4066;
+phosphoribosyl-ATP pyrophosphatase	PRATPP	H2O[C] + PRBATP[C]->H[C] + PPI[C] + PRBAMP[C]->	GENE_ASSOCIATION: ( SO2067 )	SO2067;
+phosphoribosylformylglycinamidine synthase	PRFGS	ATP[C] + FGAM[C] + GLN-L[C] + H2O[C]->ADP[C] + FPRAM[C] + GLU-L[C] + 2 H[C] + PI[C]->	GENE_ASSOCIATION: ( SO3287 )	SO3287;
+Phosphoribulokinase	PRKIN	ATP[C] + RU5P-D[C]->ADP[C] + H[C] + RB15BP[C]->	GENE_ASSOCIATION: ( SO0878 )	SO0878;
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase (irreversible)	PRMICII	PRFP[C]->PRLP[C]->	GENE_ASSOCIATION: ( SO2069 )	SO2069;
+proline oxidase	PRO1Q	PRO-L[C] + UBQ8[C]->1PYR5C[C] + H[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO3774 )	SO3774;
+Prolyl-tRNA synthetase	PROTRS	ATP[C] + PRO-L[C] + TRNAPRO[C]->AMP[C] + PPI[C] + PROTRNA[C]->	GENE_ASSOCIATION: ( SO3154 )	SO3154;
+Protein Synthesis, S. oneidensis	PROTSYN_SON_AEROBIC	1083 ALATRNA[C] + 449 ARGTRNA[C] + 507 ASNTRNA[C] + 660 ASPTRNA[C] + 107 CYSTRNA[C] + 524 GLNTRNA[C] + 612 GLUTRNA[C] + 934 GLYTRNA[C] + 19944 GTP[C] + 19974 H2O[C] + 177 HISTRNA[C] + 506 ILETRNA[C] + 777 LEUTRNA[C] + 505 LYSTRNA[C] + 257 METTRNA[C] + 330 PHETRNA[C] + 436 PROTRNA[C] + 598 SERTRNA[C] + 566 THRTRNA[C] + 125 TRPTRNA[C] + 253 TYRTRNA[C] + 596 VALTRNA[C]->19944 GDP[C] + 29946 H[C] + 19944 PI[C] + PROTEIN_SON_AEROBIC[C] + 1083 TRNAALA[C] + 449 TRNAARG[C] + 507 TRNAASN[C] + 660 TRNAASP[C] + 107 TRNACYS[C] + 524 TRNAGLN[C] + 612 TRNAGLU[C] + 934 TRNAGLY[C] + 177 TRNAHIS[C] + 506 TRNAILE[C] + 777 TRNALEU[C] + 505 TRNALYS[C] + 257 TRNAMET[C] + 330 TRNAPHE[C] + 436 TRNAPRO[C] + 598 TRNASER[C] + 566 TRNATHR[C] + 125 TRNATRP[C] + 253 TRNATYR[C] + 596 TRNAVAL[C]->	GENE_ASSOCIATION: ( SO0228 and SO2328 and SO1630 and SO0231 and SO0236 and SO0238 and SO0243 and SO0252 and SO2112 and SO2302 and SO2780 and SO3652 and SO4120 and SO4246 and SO0230 and SO0235 and SO0245 and SO0248 and SO0255 and SO1357 and SO1632 )	SO0228;SO0230;SO0231;SO0235;SO0236;SO0238;SO0243;SO0245;SO0248;SO0252;SO0255;SO1357;SO1630;SO1632;SO2112;SO2302;SO2328;SO2780;SO3652;SO4120;SO4246;
+phosphoribosylpyrophosphate synthetase	PRPPS	ATP[C] + R5P[C]->AMP[C] + H[C] + PRPP[C]->	GENE_ASSOCIATION: ( SO3837 )	SO3837;
+3-phosphoshikimate 1-carboxyvinyltransferase	PSCVT	PEP[C] + SKM5P[C]->3PSME[C] + PI[C]->	GENE_ASSOCIATION: ( SO2404 )	SO2404;
+Phosphatidylserine decarboxylase	PSD	H[C] + PS[C]->CO2[C] + PE[C]->	GENE_ASSOCIATION: ( SO0590 )	SO0590;
+phosphoserine transaminase	PSERT	3PHP[C] + GLU-L[C]->AKG[C] + PSER-L[C]->	GENE_ASSOCIATION: ( SO2410 )	SO2410;
+phosphoserine phosphatase (L-serine)	PSP_L	H2O[C] + PSER-L[C]->PI[C] + SER-L[C]->	GENE_ASSOCIATION: ( SO1223 )	SO1223;
+CDPdiacylglycerol-serine O-phosphatidyltransferase	PSSA	CDPDAG[C] + SER-L[C]->CMP[C] + H[C] + PS[C]->	GENE_ASSOCIATION: ( SO2390 ) or ( SO3575 )	
+pseudouridylate synthase	PSUDS	R5P[C] + URA[C]->H2O[C] + PSD5P[C]->	GENE_ASSOCIATION: ( SO2784 and SO2937 and SO3068 and SO3579 )	SO2784;SO2937;SO3068;SO3579;
+phosphotransacetylase	PTAR	ACCOA[C] + PI[C]->ACTP[C] + COA[C]->	GENE_ASSOCIATION: ( SO2916 )	SO2916;
+pantetheine-phosphate adenylyltransferase	PTPATI	ATP[C] + H[C] + PAN4P[C]->DPCOA[C] + PPI[C]->	GENE_ASSOCIATION: ( SO4684 )	SO4684;
+putrescine transport via ABC system	PTRCABC	ATP[C] + H2O[C] + PTRC[E]->ADP[C] + H[C] + PI[C] + PTRC[C]->	GENE_ASSOCIATION: ( SO1270 and SO1271 and SO1272 and SO1273 )	SO1270;SO1271;SO1272;SO1273;
+putrescine/ornithine antiporter	PTRCORNT7	ORN-L[C] + PTRC[E]->ORN-L[E] + PTRC[C]->	GENE_ASSOCIATION: ( SO0313 )	SO0313;
+putrescine transport in via proton symport, reversible	PTRCT2	H[E] + PTRC[E]->H[C] + PTRC[C]->	GENE_ASSOCIATION: ( SO0313 )	SO0313;
+purine-nucleoside phosphorylase (Adenosine)	PUNP1	ADN[C] + PI[C]->ADE[C] + R1P[C]->	GENE_ASSOCIATION: ( SO1221 ) or ( SO0092 ) or ( SO2719 )	
+purine-nucleoside phosphorylase (Deoxyadenosine)	PUNP2	DAD-2[C] + PI[C]->2DR1P[C] + ADE[C]->	GENE_ASSOCIATION: ( SO1221 ) or ( SO0092 ) or ( SO2719 )	
+purine-nucleoside phosphorylase (Guanosine)	PUNP3	GSN[C] + PI[C]->GUA[C] + R1P[C]->	GENE_ASSOCIATION: ( SO1221 ) or ( SO0092 ) or ( SO2719 )	
+purine-nucleoside phosphorylase (Deoxyguanosine)	PUNP4	DGSN[C] + PI[C]->2DR1P[C] + GUA[C]->	GENE_ASSOCIATION: ( SO1221 ) or ( SO0092 ) or ( SO2719 )	
+purine-nucleoside phosphorylase (Inosine)	PUNP5	INS[C] + PI[C]->HXAN[C] + R1P[C]->	GENE_ASSOCIATION: ( SO1221 ) or ( SO2719 ) or ( SO0092 )	
+purine-nucleoside phosphorylase (Deoxyinosine)	PUNP6	DIN[C] + PI[C]->2DR1P[C] + HXAN[C]->	GENE_ASSOCIATION: ( SO1221 ) or ( SO2719 ) or ( SO0092 )	
+purine-nucleoside phosphorylase (Xanthosine)	PUNP7	PI[C] + XTSN[C]->R1P[C] + XAN[C]->	GENE_ASSOCIATION: ( SO1221 ) or ( SO2719 ) or ( SO0092 )	
+pyridoxamine-phosphate oxidase	PYAM5PO	H2O[C] + O2[C] + PYAM5P[C]->H2O2[C] + NH4[C] + PYDX5P[C]->	GENE_ASSOCIATION: ( SO2895 )	SO2895;
+pyruvate kinase	PYK	ADP[C] + H[C] + PEP[C]->ATP[C] + PYR[C]->	GENE_ASSOCIATION: ( SO2491 )	SO2491;
+pyrimidine-nucleoside phosphorylase (uracil)	PYNP2	PI[C] + URI[C]->R1P[C] + URA[C]->	GENE_ASSOCIATION: ( SO4133 ) or ( SO4297 )	
+pyruvate reversible transport via proton symport	PYRT2	H[E] + PYR[E]->H[C] + PYR[C]->	GENE_ASSOCIATION:	
+quinolinate synthase	QULNS	DHAP[C] + IASP[C]->2 H2O[C] + PI[C] + QULN[C]->	GENE_ASSOCIATION: ( SO2342 )	SO2342;
+riboflavin kinase	RBFK	ATP[C] + RIBFLV[C]->ADP[C] + FMN[C] + H[C]->	GENE_ASSOCIATION: ( SO3533 )	SO3533;
+riboflavin synthase	RBFSA	4R5AU[C] + DB4P[C]->DMLZ[C] + 2 H2O[C] + PI[C]->	GENE_ASSOCIATION: ( SO2296 and SO3466 )	SO2296;SO3466;
+riboflavin synthase	RBFSB	2 DMLZ[C]->4R5AU[C] + RIBFLV[C]->	GENE_ASSOCIATION: ( SO3468 )	SO3468;
+ribokinase	RBK	ATP[C] + RIB-D[C]->ADP[C] + H[C] + R5P[C]->	GENE_ASSOCIATION: ( SO0810 )	SO0810;
+alpha-ribazole-5-phosphatase	RBZP	5PRDMBZ[C] + H2O[C]->PI[C] + RDMBZI[C]->	GENE_ASSOCIATION: ( SO1031 )	SO1031;
+S-ribosylhomocysteine cleavage enzyme	RHCCE	RHCYS[C]->DHPTD[C] + HCYS-L[C]->	GENE_ASSOCIATION: ( SO1101 )	SO1101;
+RNA replication, Shewanella oneidensis	RNASYN_SON	127 ATP[C] + 23 CTP[C] + 23 GTP[C] + 100 H2O[C] + 27 UTP[C]->100 ADP[C] + 100 H[C] + 100 PI[C] + 100 PPI[C] + RNA_SON[C]->	GENE_ASSOCIATION:	
+ribonucleoside-diphosphate reductase (ADP)	RNDR1	ADP[C] + TRDRD[C]->DADP[C] + H2O[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO2415 and SO2416 )	SO2415;SO2416;
+ribonucleoside-diphosphate reductase (GDP)	RNDR2	GDP[C] + TRDRD[C]->DGDP[C] + H2O[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO2415 and SO2416 )	SO2415;SO2416;
+ribonucleoside-diphosphate reductase (CDP)	RNDR3	CDP[C] + TRDRD[C]->DCDP[C] + H2O[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO2415 and SO2416 )	SO2415;SO2416;
+ribonucleoside-diphosphate reductase (UDP)	RNDR4	TRDRD[C] + UDP[C]->DUDP[C] + H2O[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO2415 and SO2416 )	SO2415;SO2416;
+ribonucleoside-triphosphate reductase (ATP)	RNTR1	ATP[C] + TRDRD[C]->DATP[C] + H2O[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO2834 )	SO2834;
+ribonucleoside-triphosphate reductase (GTP)	RNTR2	GTP[C] + TRDRD[C]->DGTP[C] + H2O[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO2834 )	SO2834;
+ribonucleoside-triphosphate reductase (CTP)	RNTR3	CTP[C] + TRDRD[C]->DCTP[C] + H2O[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO2834 )	SO2834;
+ribonucleoside-triphosphate reductase (UTP)	RNTR4	TRDRD[C] + UTP[C]->DUTP[C] + H2O[C] + TRDOX[C]->	GENE_ASSOCIATION: ( SO2834 )	SO2834;
+ribulose 5-phosphate 3-epimerase	RPE	RU5P-D[C]->XU5P-D[C]->	GENE_ASSOCIATION: ( SO0292 )	SO0292;
+ribose-5-phosphate isomerase	RPI	R5P[C]->RU5P-D[C]->	GENE_ASSOCIATION: ( SO1150 )	SO1150;
+sedoheptulose 7-phosphate isomerase	S7PI	S7P[C]->GMH7P[C]->	GENE_ASSOCIATION: ( SO0298 )	SO0298;
+Succinylarginine dihydrolase	SADH	2 H2O[C] + 2 H[C] + SUCARG[C]->CO2[C] + 2 NH4[C] + SUCORN[C]->	GENE_ASSOCIATION: ( SO2706 )	SO2706;
+sulfate adenylyltransferase	SADT2	ATP[C] + GTP[C] + H2O[C] + SO4[C]->APS[C] + GDP[C] + PI[C] + PPI[C]->	GENE_ASSOCIATION: ( SO3726 and SO3727 )	SO3726;SO3727;
+succinyl-diaminopimelate desuccinylase	SDPDS	H2O[C] + SL26DA[C]->26DAP-LL[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO2471 )	SO2471;
+succinyldiaminopimelate transaminase	SDPTA	AKG[C] + SL26DA[C]->GLU-L[C] + SL2A6O[C]->	GENE_ASSOCIATION: ( SO0617 )	SO0617;
+Selenophosphate synthase	SELNPS	ATP[C] + H2O[C] + SELN[C]->AMP[C] + PI[C] + SELNP[C]->	GENE_ASSOCIATION: ( SO0196 )	SO0196;
+serine O-acetyltransferase	SERAT	ACCOA[C] + SER-L[C]->ACSER[C] + COA[C]->	GENE_ASSOCIATION: ( SO2262 )	SO2262;
+L-serine deaminase	SERD_L	SER-L[C]->NH4[C] + PYR[C]->	GENE_ASSOCIATION: ( SO2248 )	SO2248;
+L-serine transport in/out via proton symport	SERT6	H[E] + SER-L[E]->H[C] + SER-L[C]->	GENE_ASSOCIATION: ( SO0919 )	SO0919;
+Seryl-tRNA synthetase	SERTRS	ATP[C] + SER-L[C] + TRNASER[C]->AMP[C] + PPI[C] + SERTRNA[C]->	GENE_ASSOCIATION: ( SO2310 )	SO2310;
+S-Formylglutathione hydralase	SFGTH	FGLUT-S[C] + H2O[C]->FOR[C] + GTHRD[C] + H[C]->	GENE_ASSOCIATION: ( SO2055 )	SO2055;
+Succinylglutamate desuccinylase	SGDS	H2O[C] + SUCGLU[C]->GLU-L[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO2338 )	SO2338;
+Succinylglutamic semialdehyde dehydrogenase	SGSAD	H2O[C] + NAD[C] + SUCGSA[C]->2 H[C] + NADH[C] + SUCGLU[C]->	GENE_ASSOCIATION: ( SO0619 )	SO0619;
+2-succinyl-6-hydroxy-2,4-cyclohexadiene 1-carboxylate synthase	SHCHCS2	ICHOR[C] + SSALTPP[C]->2SHCHC[C] + H[C] + PYR[C] + THMPP[C]->	GENE_ASSOCIATION: ( SO4573 )	SO4573;
+sirohydrochlorin dehydrogenase (NAD)	SHCHD2	NAD[C] + SHCL[C]->H[C] + NADH[C] + SRCH[C]->	GENE_ASSOCIATION: ( SO3108 )	SO3108;
+sirohydrochlorin ferrochetalase	SHCHF	FE2[C] + SRCH[C]->2 H[C] + SHEME[C]->	GENE_ASSOCIATION: ( SO3108 )	SO3108;
+shikimate dehydrogenase	SHK3D	3DHSK[C] + H[C] + NADPH[C]->NADP[C] + SKM[C]->	GENE_ASSOCIATION: ( SO0040 )	SO0040;
+shikimate kinase	SHKK	ATP[C] + SKM[C]->ADP[C] + H[C] + SKM5P[C]->	GENE_ASSOCIATION: ( SO0286 )	SO0286;
+O-succinylhomoserine lyase (L-cysteine)	SHSL1	CYS-L[C] + SUCHMS[C]->CYSTH-L[C] + H[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO4056 )	SO4056;
+O-acetyl-L-serine sulfhydrylase	SLCYSS	ACSER[C] + TSUL[C]->AC[C] + SLCYS[C]->	GENE_ASSOCIATION: ( SO4056 ) or ( SO3598 )	
+Sulfite dehydrogenase	SO3DE	2 FICYTCC[C] + H2O[E] + SO3[E]->2 FOCYTCC[C] + 2 H[E] + SO4[E]->	GENE_ASSOCIATION: ( SO0714 and SO0715 and SO0716 and SO0717 )	SO0714;SO0715;SO0716;SO0717;
+Sulfite Reductase (menaquinone)	SO3R2	H[E] + 3 MQL7[C] + SO3[E]->3 H2O[E] + H2S[E] + 3 MQN7[C]->	GENE_ASSOCIATION:	
+Sulfite Reductase (methylmenaquinone)	SO3R3	H[E] + 3 MMQL7[C] + SO3[E]->3 H2O[E] + H2S[E] + 3 MMQN7[C]->	GENE_ASSOCIATION:	
+sulfate transport in via proton symport	SO4T2	H[E] + SO4[E]->H[C] + SO4[C]->	GENE_ASSOCIATION: ( SO2286 ) or ( SO3553 )	
+superoxide dismutase	SOD	2 H[C] + 2 O2-[C]->H2O2[C] + O2[C]->	GENE_ASSOCIATION: ( SO2881 )	SO2881;
+Succinylornithine transaminase	SOTA	AKG[C] + SUCORN[C]->GLU-L[C] + SUCGSA[C]->	GENE_ASSOCIATION: ( SO0617 )	SO0617;
+Unnamed138	SO_BIOMASSMACRO_DM_NOATP2	6.900000e-05 12DAG3P[C] + 1.230010e-01 12DGR[C] + 5.000000e-02 5MTHF[C] + 5.000000e-05 ACCOA[C] + 1.015200e-02 AGPE[C] + 4.210000e-04 AGPG[C] + 1.000000e-03 AMP[C] + 2.202200e+02 ATP[C] + 6.000000e-06 COA[C] + 1.608000e-03 DNA_SON[C] + 5.000000e-05 FAD[C] + 4.724310e-01 GLYCOGEN[C] + 2.202200e+02 H2O[C] + 1.114000e-02 LPS_SO[C] + 2.150000e-03 NAD[C] + 5.000000e-05 NADH[C] + 1.300000e-04 NADP[C] + 4.000000e-04 NADPH[C] + 6.939300e-02 PE[C] + 2.778100e-02 PEPTX[E] + 2.007600e-02 PGLY[C] + 4.870000e-04 PROTEIN_SON_AEROBIC[C] + 3.500000e-02 PTRC[C] + 2.818000e-03 RNA_SON[C] + 7.000000e-03 SPMD[C] + 3.000000e-06 SUCCOA[C] + 3.000000e-03 UDPG[C]->2.202200e+02 ADP[C] + 2.202200e+02 H[C] + 2.202200e+02 PI[C]->	GENE_ASSOCIATION:	
+serine-pyruvate aminotransferase,	SPA	PYR[C] + SER-L[C]->ALA-L[C] + HPYR[C]->	GENE_ASSOCIATION: ( SO4343 )	SO4343;
+spermidine synthase	SPMS	AMETAM[C] + PTRC[C]->5MTA[C] + H[C] + SPMD[C]->	GENE_ASSOCIATION: ( SO3763 )	SO3763;
+spermine synthase	SPRS	AMETAM[C] + SPMD[C]->5MTA[C] + H[C] + SPRM[C]->	GENE_ASSOCIATION: ( SO3763 )	SO3763;
+succinate-semialdehyde dehydrogenase (NAD)	SSALX	H2O[C] + NAD[C] + SUCSAL[C]->2 H[C] + NADH[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO3496 )	SO3496;
+o-succinylbenzoate-CoA ligase	SUCBZL	ATP[C] + COA[C] + SUCBZ[C]->AMP[C] + PPI[C] + SBZCOA[C]->	GENE_ASSOCIATION: ( SO4576 )	SO4576;
+O-succinylbenzoate-CoA synthase	SUCBZS	2SHCHC[C]->H2O[C] + SUCBZ[C]->	GENE_ASSOCIATION: ( SO4575 )	SO4575;
+succinate transport via proton symport (2 H)	SUCCT2_2	2 H[E] + SUCC[E]->2 H[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO3134 and SO3135 and SO3136 )	SO3134;SO3135;SO3136;
+Succintate transport via proton symport (3 H)	SUCCT2_3	3 H[E] + SUCC[E]->3 H[C] + SUCC[C]->	GENE_ASSOCIATION: ( SO4417 )	SO4417;
+Succinate Dehydrogenase	SUCD7	SUCC[C] + UBQ8[C]->FUM[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO1927 and SO19271 and SO1928 and SO1929 )	SO1927;SO19271;SO1928;SO1929;
+dicarboyxlic acid transporter (succinate:fumarate)	SUCFUMTDC	FUM[E] + SUCC[C]->FUM[C] + SUCC[E]->	GENE_ASSOCIATION: ( SO4417 )	SO4417;
+succinyl-CoA synthetase (ADP-forming)	SUCOAS	ATP[C] + COA[C] + SUCC[C]->ADP[C] + PI[C] + SUCCOA[C]->	GENE_ASSOCIATION: ( SO1932 and SO1933 )	SO1932;SO1933;
+sulfate transport via ABC system	SULABC	ATP[C] + H2O[C] + SO4[E]->ADP[C] + H[C] + PI[C] + SO4[C]->	GENE_ASSOCIATION: ( SO0486 and SO0487 and SO0488 ) or ( SO3602 and SO3600 and SO3601 and SO2899 and SO4652 ) or ( SO3602 and SO3599 and SO3600 and SO3601 and SO2899 ) or ( SO4655 and SO3599 and SO4653 and SO4654 and SO2899 ) or ( SO4655 and SO4653 and SO4654 and SO2899 and SO4652 )	
+sulfite reductase (NADPH2)	SULR	3 H2O[C] + H2S[C] + 3 NADP[C]->4 H[C] + 3 NADPH[C] + SO3[C]->	GENE_ASSOCIATION: ( SO3737 and SO3738 )	SO3737;SO3738;
+transaldolase	TAL	G3P[C] + S7P[C]->E4P[C] + F6P[C]->	GENE_ASSOCIATION: ( SO3546 )	SO3546;
+dTDP-4-dehydrorhamnose 3,5-epimerase	TDPDRE	DTDPDDG[C]->DTDPDDM[C]->	GENE_ASSOCIATION: ( SO3160 )	SO3160;
+dTDP-4-dehydrorhamnose reductase	TDPDRR	DTDP6DM[C] + NADP[C]->DTDPDDM[C] + H[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO1653 )	SO1653;
+dTDPglucose 4,6-dehydratase	TDPGDH	DTDPGLC[C]->DTDPDDG[C] + H2O[C]->	GENE_ASSOCIATION: ( SO3188 ) or ( SO3167 )	
+Tetraacyldisaccharide 4'kinase	TDSK	ATP[C] + LIPIDADS[C]->ADP[C] + H[C] + LIPIDA[C]->	GENE_ASSOCIATION: ( SO2801 )	SO2801;
+NAD(P) transhydrogenase	THD2	2 H[E] + NADH[C] + NADP[C]->2 H[C] + NAD[C] + NADPH[C]->	GENE_ASSOCIATION: ( SO3740 and SO3741 )	SO3740;SO3741;
+NAD transhydrogenase	THD5	NAD[C] + NADPH[C]->NADH[C] + NADP[C]->	GENE_ASSOCIATION: ( SO3740 and SO3741 )	SO3740;SO3741;
+tetrahydropicolinate succinylase	THDPS	H2O[C] + SUCCOA[C] + THDP[C]->COA[C] + SL2A6O[C]->	GENE_ASSOCIATION: ( SO1625 )	SO1625;
+thiamine transport via ABC system	THMABC	ATP[C] + H2O[C] + THM[E]->ADP[C] + H[C] + PI[C] + THM[C]->	GENE_ASSOCIATION: ( SO2713 )	SO2713;
+thymidine transport in via proton symport	THMDT2	H[E] + THYMD[E]->H[C] + THYMD[C]->	GENE_ASSOCIATION: ( SO1214 ) or ( SO4296 ) or ( SO3706 ) or ( SO0093 )	
+threonine aldolase	THRA	THR-L[C]->ACALD[C] + GLY[C]->	GENE_ASSOCIATION: ( SO3471 ) or ( SO3338 )	
+L-threonine dehydrogenase (w/ AOBUTDs)	THRD	NAD[C] + THR-L[C]->2AOBUT[C] + H[C] + NADH[C]->	GENE_ASSOCIATION: ( SO4673 )	SO4673;
+L-threonine deaminase	THRD_L	THR-L[C]->2OBUT[C] + NH4[C]->	GENE_ASSOCIATION: ( SO2248 ) or ( SO4344 )	
+Unnamed139	THRHT	H[E] + THR-L[E]->H[C] + THR-L[C]->	GENE_ASSOCIATION:	
+L-allo-threonine aldolase	THRLAD	THR-LA[C]->ACALD[C] + GLY[C]->	GENE_ASSOCIATION: ( SO3338 )	SO3338;
+threonine synthase	THRS	H2O[C] + PHOM[C]->PI[C] + THR-L[C]->	GENE_ASSOCIATION: ( SO3413 )	SO3413;
+L-threonine transport out via proton antiport	THRT3	H[E] + THR-L[C]->H[C] + THR-L[E]->	GENE_ASSOCIATION: ( SO0765 ) or ( SO0530 )	
+Threonyl-tRNA synthetase	THRTRS	ATP[C] + THR-L[C] + TRNATHR[C]->AMP[C] + PPI[C] + THRTRNA[C]->	GENE_ASSOCIATION: ( SO2299 )	SO2299;
+Unnamed140	THYMT6	H[E] + THYM[E]->H[C] + THYM[C]->	GENE_ASSOCIATION:	
+thiazole phosphate synthesis	THZPSN	ATP[C] + CYS-L[C] + DXYL5P[C] + TYR-L[C]->4HBA[C] + 4MPETZ[C] + ALA-L[C] + AMP[C] + CO2[C] + H2O[C] + H[C] + PPI[C]->	GENE_ASSOCIATION: ( SO2264 and SO2443 and SO2440 and SO2441 and SO1531 and SO2442 )	SO1531;SO2264;SO2440;SO2441;SO2442;SO2443;
+transketolase	TKT1	R5P[C] + XU5P-D[C]->G3P[C] + S7P[C]->	GENE_ASSOCIATION: ( SO0930 )	SO0930;
+transketolase	TKT2	E4P[C] + XU5P-D[C]->F6P[C] + G3P[C]->	GENE_ASSOCIATION: ( SO0930 )	SO0930;
+Trimethylamine N-oxide reductase (ubiquinol 8)	TMAOR3E	H[E] + TMAO[E] + UBQ8H2[C]->H2O[E] + TMA[E] + UBQ8[C]->	GENE_ASSOCIATION: ( SO1232 and SO1233 )	SO1232;SO1233;
+thymidine kinase (ATP:thymidine)	TMDK1	ATP[C] + THYMD[C]->ADP[C] + DTMP[C] + H[C]->	GENE_ASSOCIATION: ( SO3140 )	SO3140;
+thymidine phosphorylase	TMDPP	PI[C] + THYMD[C]->2DR1P[C] + THYM[C]->	GENE_ASSOCIATION: ( SO1218 )	SO1218;
+thymidylate synthase	TMDS	DUMP[C] + MLTHF[C]->DHF[C] + DTMP[C]->	GENE_ASSOCIATION: ( SO1335 )	SO1335;
+thiamine-phosphate kinase	TMPKR	ATP[C] + THMMP[C]->ADP[C] + THMPP[C]->	GENE_ASSOCIATION: ( SO3464 )	SO3464;
+thiamine-phosphate diphosphorylase	TMPPP	2MAHMP[C] + 4MPETZ[C] + H[C]->PPI[C] + THMMP[C]->	GENE_ASSOCIATION: ( SO2444 )	SO2444;
+triose-phosphate isomerase	TPI	DHAP[C]->G3P[C]->	GENE_ASSOCIATION: ( SO1200 )	SO1200;
+thioredoxin reductase (NADPH)	TRDR	H[C] + NADPH[C] + TRDOX[C]->NADP[C] + TRDRD[C]->	GENE_ASSOCIATION: ( SO2303 )	SO2303;
+tryptophan synthase (indole)	TRPS2	INDOLE[C] + SER-L[C]->H2O[C] + TRP-L[C]->	GENE_ASSOCIATION: ( SO3023 )	SO3023;
+tryptophan synthase (indoleglycerol phosphate)	TRPS3	3IG3P[C]->G3P[C] + INDOLE[C]->	GENE_ASSOCIATION: ( SO3024 )	SO3024;
+L-tryptophan transport in/out via proton symport	TRPT6	H[E] + TRP-L[E]->H[C] + TRP-L[C]->	GENE_ASSOCIATION: ( SO4601 )	SO4601;
+Tryptophanyl-tRNA synthetase	TRPTRS	ATP[C] + TRNATRP[C] + TRP-L[C]->AMP[C] + PPI[C] + TRPTRNA[C]->	GENE_ASSOCIATION: ( SO0294 )	SO0294;
+thiosulfate transport via ABC system	TSULABC	ATP[C] + H2O[C] + TSUL[E]->ADP[C] + H[C] + PI[C] + TSUL[C]->	GENE_ASSOCIATION: ( SO3602 and SO3599 and SO3600 and SO3601 ) or ( SO3602 and SO3600 and SO3601 and SO4652 ) or ( SO4655 and SO3599 and SO4653 and SO4654 ) or ( SO4655 and SO4653 and SO4654 and SO4652 )	
+Thiosulfate Reductase	TSULR3	MQL7[C] + TSUL[E]->H2S[E] + H[E] + MQN7[C] + SO3[E]->	GENE_ASSOCIATION: ( SO4060 and SO4061 and SO4062 )	SO4060;SO4061;SO4062;
+Thiosulfate Reductase	TSULR4	MMQL7[C] + TSUL[E]->H2S[E] + H[E] + MMQN7[C] + SO3[E]->	GENE_ASSOCIATION: ( SO4060 and SO4061 and SO4062 )	SO4060;SO4061;SO4062;
+thiosulfate sulfurtransferase	TSULST	CYAN[C] + TSUL[C]->H[C] + SO3[C] + TCYNT[C]->	GENE_ASSOCIATION: ( SO4672 )	SO4672;
+Tetradecanoate transport via proton symport	TTDCAT2	H[E] + TTDCA[E]->H[C] + TTDCA[C]->	GENE_ASSOCIATION: ( SO3099 ) or ( SO4232 )	
+Tetrathionate Reductase	TTTNTR3	MQL7[C] + TTTNT[E]->2 H[E] + MQN7[C] + 2 TSUL[E]->	GENE_ASSOCIATION: ( SO4144 )	SO4144;
+Tetrathionate Reductase	TTTNTR4	MMQL7[C] + TTTNT[E]->2 H[E] + MMQN7[C] + 2 TSUL[E]->	GENE_ASSOCIATION: ( SO4144 )	SO4144;
+L-tyrosine transport in/out via proton symport	TYRT6	H[E] + TYR-L[E]->H[C] + TYR-L[C]->	GENE_ASSOCIATION: ( SO1074 ) or ( SO2065 )	
+tyrosine transaminase	TYRTA	AKG[C] + TYR-L[C]->34HPP[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO2406 ) or ( SO2350 )	
+Tyrosyl-tRNA synthetase	TYRTRS	ATP[C] + TRNATYR[C] + TYR-L[C]->AMP[C] + PPI[C] + TYRTRNA[C]->	GENE_ASSOCIATION: ( SO1315 )	SO1315;
+UDP-3-O-(3-hydroxymyristoyl)glucosamine acyltransferase	U23GAAT	3HTDACP[C] + U3HGA[C]->ACP[C] + H[C] + U23GA[C]->	GENE_ASSOCIATION: ( SO1639 )	SO1639;
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	UAAGDS	26DAP-M[C] + ATP[C] + UAMAG[C]->ADP[C] + H[C] + PI[C] + UGMD[C]->	GENE_ASSOCIATION: ( SO4224 )	SO4224;
+UDP-N-acetylglucosamine 4-epimerase	UAG4E	UACGAM[C]->UACGALA[C]->	GENE_ASSOCIATION: ( SO3189 )	SO3189;
+UDP-N-acetylglucosamine acyltransferase	UAGAAT	3HTDACP[C] + UACGAM[C]->ACP[C] + U3AGA[C]->	GENE_ASSOCIATION: ( SO1641 )	SO1641;
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	UAGCVT	PEP[C] + UACGAM[C]->PI[C] + UACCG[C]->	GENE_ASSOCIATION: ( SO3948 )	SO3948;
+UDP-N-acetyl-D-galactosamine dehydrogenase	UAGDH	H2O[C] + 2 NAD[C] + UACGALA[C]->3 H[C] + 2 NADH[C] + UAGNR[C]->	GENE_ASSOCIATION: ( SO3190 )	SO3190;
+UDP-N-acetylglucosamine diphosphorylase	UAGDP	ACGAM1P[C] + H[C] + UTP[C]->PPI[C] + UACGAM[C]->	GENE_ASSOCIATION: ( SO4745 )	SO4745;
+UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	UAGPT3	UACGAM[C] + UAGMDA[C]->H[C] + UAAGMDA[C] + UDP[C]->	GENE_ASSOCIATION: ( SO4219 )	SO4219;
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	UAMAGS	ATP[C] + GLU-D[C] + UAMA[C]->ADP[C] + H[C] + PI[C] + UAMAG[C]->	GENE_ASSOCIATION: ( SO4221 )	SO4221;
+UDP-N-acetylmuramoyl-L-alanine synthetase	UAMAS	ALA-L[C] + ATP[C] + UAMR[C]->ADP[C] + H[C] + PI[C] + UAMA[C]->	GENE_ASSOCIATION: ( SO4218 )	SO4218;
+UDP-N-acetylenolpyruvoylglucosamine reductase	UAPGR	H[C] + NADPH[C] + UACCG[C]->NADP[C] + UAMR[C]->	GENE_ASSOCIATION: ( SO0213 )	SO0213;
+undecaprenyl-diphosphatase	UDCPDP	H2O[C] + UDCPDP[C]->H[C] + PI[C] + UDCPP[C]->	GENE_ASSOCIATION: ( SO1293 ) or ( SO4274 )	
+Undecaprenyl diphosphate synthase	UDCPDPS	FRDP[C] + 8 IPDP[C]->8 PPI[C] + UDCPDP[C]->	GENE_ASSOCIATION: ( SO1633 )	SO1633;
+UDPglucose 4-epimerase	UDPG4E	UDPG[C]->UDPGAL[C]->	GENE_ASSOCIATION: ( SO3173 ) or ( SO1664 )	
+UDPglucose 6-dehydrogenase	UDPGD	H2O[C] + 2 NAD[C] + UDPG[C]->3 H[C] + 2 NADH[C] + UDPGLCUR[C]->	GENE_ASSOCIATION: ( SO4687 )	SO4687;
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase	UGMDDS	ALAALA[C] + ATP[C] + UGMD[C]->ADP[C] + H[C] + PI[C] + UGMDA[C]->	GENE_ASSOCIATION: ( SO4223 )	SO4223;
+UDP-3-0-acyl N-acetylglucosamine deacetylase	UHGADA	H2O[C] + U3AGA[C]->AC[C] + U3HGA[C]->	GENE_ASSOCIATION: ( SO4214 )	SO4214;
+UMP kinase	UMPK	ATP[C] + UMP[C]->ADP[C] + UDP[C]->	GENE_ASSOCIATION: ( SO2403 ) or ( SO1631 )	
+2-keto-4-methylthiobutyrate transamination	UNK3	2KMB[C] + GLU-L[C]->AKG[C] + MET-L[C]->	GENE_ASSOCIATION:	
+uroporphyrinogen methyltransferase	UPP3MT	2 AMET[C] + UPPG3[C]->2 AHCYS[C] + 2 H[C] + SHCL[C]->	GENE_ASSOCIATION: ( SO4315 ) or ( SO3728 )	
+uroporphyrinogen-III synthase	UPP3S	HMBIL[C]->H2O[C] + UPPG3[C]->	GENE_ASSOCIATION: ( SO4314 )	SO4314;
+uroporphyrinogen decarboxylase (uroporphyrinogen III)	UPPDC1	4 H[C] + UPPG3[C]->4 CO2[C] + CPPPG3[C]->	GENE_ASSOCIATION: ( SO0435 )	SO0435;
+uracil phosphoribosyltransferase	UPPRT	PRPP[C] + URA[C]->PPI[C] + UMP[C]->	GENE_ASSOCIATION: ( SO2759 )	SO2759;
+NADH-Ubiquinone Oxidoreductase (Na+ translocating)	UQOR	H[C] + 2 NA1[C] + NADH[C] + UBQ8[C]->2 NA1[E] + NAD[C] + UBQ8H2[C]->	GENE_ASSOCIATION: ( SO1103 and SO1104 and SO1105 and SO1106 and SO1107 and SO1108 ) or ( SO0902 and SO0903 and SO0904 and SO0905 and SO0906 and SO0907 ) or ( SO2508 and SO2509 and SO2510 and SO2511 and SO2512 and SO2513 )	
+uracil transport in/out via proton symport	URAT6	H[E] + URA[E]->H[C] + URA[C]->	GENE_ASSOCIATION: ( SO2879 )	SO2879;
+urocanase	URCN	H2O[C] + URCAN[C]->4IZP[C]->	GENE_ASSOCIATION: ( SO0097 )	SO0097;
+uridylate kinase (dUMP)	URIDK2	ATP[C] + DUMP[C]->ADP[C] + DUDP[C]->	GENE_ASSOCIATION: ( SO2613 )	SO2613;
+uridylate kinase (dUMP)	URIDK3	ATP[C] + DUMP[C]->ADP[C] + DUDP[C]->	GENE_ASSOCIATION: ( SO1631 )	SO1631;
+uridine kinase (ATP:Uridine)	URIK1	ATP[C] + URI[C]->ADP[C] + H[C] + UMP[C]->	GENE_ASSOCIATION: ( SO2617 )	SO2617;
+uridine kinase (GTP:Uridine)	URIK2	GTP[C] + URI[C]->GDP[C] + H[C] + UMP[C]->	GENE_ASSOCIATION: ( SO2617 )	SO2617;
+uridine kinase (ITP:Uridine)	URIK3	ITP[C] + URI[C]->H[C] + IDP[C] + UMP[C]->	GENE_ASSOCIATION: ( SO2617 )	SO2617;
+uridine transport in via proton symport	URIT2	H[E] + URI[E]->H[C] + URI[C]->	GENE_ASSOCIATION: ( SO1214 ) or ( SO4296 ) or ( SO3706 ) or ( SO0093 )	
+Uranyl Reductase	URNR3	MQL7[C] + URNYL[E]->2 H[E] + MQN7[C] + URDIO[E]->	GENE_ASSOCIATION: ( SO4591 and SO1777 and SO1778 )	SO1777;SO1778;SO4591;
+Uranyl Reductase	URNR4	MMQL7[C] + URNYL[E]->2 H[E] + MMQN7[C] + URDIO[E]->	GENE_ASSOCIATION: ( SO4591 and SO1777 and SO1778 )	SO1777;SO1778;SO4591;
+UDP-sugar hydrolase	USHD	H2O[C] + U23GA[C]->2 H[C] + LIPIDX[C] + UMP[C]->	GENE_ASSOCIATION: ( SO1789 )	SO1789;
+valine dehydrogenase	VALDHR	H2O[C] + NAD[C] + VAL-L[C]->3MOB[C] + H[C] + NADH[C] + NH4[C]->	GENE_ASSOCIATION: ( SO2638 )	SO2638;
+Na+/Valine-L symporter	VALT4	NA1[E] + VAL-L[E]->NA1[C] + VAL-L[C]->	GENE_ASSOCIATION: ( SO0949 )	SO0949;
+valine transaminase	VALTA	AKG[C] + VAL-L[C]->3MOB[C] + GLU-L[C]->	GENE_ASSOCIATION: ( SO0340 )	SO0340;
+Valyl-tRNA synthetase	VALTRS	ATP[C] + TRNAVAL[C] + VAL-L[C]->AMP[C] + PPI[C] + VALTRNA[C]->	GENE_ASSOCIATION: ( SO3424 )	SO3424;
+tungstate transporter	WO4ABC	ATP[C] + H2O[C] + WO4[E]->ADP[C] + H[C] + PI[C] + WO4[C]->	GENE_ASSOCIATION: ( SO4719 and SO4720 and SO4721 )	SO4719;SO4720;SO4721;
+Xylulose-5-phosphate phosphoketolase	XPK	PI[C] + XU5P-D[C]->ACTP[C] + G3P[C] + H2O[C]->	GENE_ASSOCIATION: ( SO3542 )	SO3542;

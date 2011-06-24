@@ -1,0 +1,76 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww20040\viewh14100\viewkind0
+\deftab720
+\pard\pardeftab720\ql\qnatural
+
+\f0\fs26 \cf0 So far I've changed propionate uptake, corrected the gene association\
+of ASNS1 (one of the "isozymes" isn't), tried to correct fatty acid\
+synthesis so that fabF-1 and fabG-1 are redundant with fabF-2 and\
+fabG-2, and added the reactions for butyrate utilization.\
+\
+See\
+~mprice/data/mutagenesis/MR1/MR1_model_changes\
+\
+The format is clunky but I hope self-explanatory; the comment field\
+gives a brief explanation of each change. I seen now that doing this\
+is kinda a pain and probably error prone -- besides the clunkiness of\
+the format, I need to look up every reaction (I've been using KEGG)\
+and I've also had to add a few compounds.\
+\
+Maybe if you're going to be making changes too we should put it in\
+source control? Or you can just email me any deltas you need to make.\
+\
+I'm not sure how (or if) biomass changes should go in this format so\
+I'm keeping that separate. Here are some suggestions to try:\
+\
+Remove GLYCOGEN\
+Remove LPS_SO\
+\
+Remove branched- and/or odd-carbon- fatty acids. This turns out to be\
+complicated because these are in the PASYN_SO_AEROBIC reaction for\
+making fatty acid precursors. More precisely, the reaction converts a\
+mixture of ACP-fatty-acid precursors into 12DAG3P which is\
+1,2,-diacylglycerol,3-phosphate with generic fatty acids. So my\
+suggestion is to some components from the PASYN_SO_AEROBIC reaction\
+but you need to add others to compensate so it is still balanced in\
+ACPs.\
+\
+Remove the branched and odd from reaction describing the synthesis of 12DAG3P, but must rebalance stoichiometry.\
+\
+Branched components:\
+FA11ACP Iso-C17:0 ACP\
+FA13ACP Iso-C13:0 ACP\
+FA1ACP \'a0Iso-C14:0 ACP\
+FA3ACP \'a0iso-C15:0 ACP\
+FA6ACP \'a0Iso-C16:0 ACP\
+\
+Straight but odd #C:\
+HPDACP \'a0heptadecanoyl-ACP (n-C17:0ACP)\
+HPDEACP heptadecenoyl ACP (C17:1ACP)\
+PDACP \'a0 pentadecanoyl-ACP (n-C15:0ACP)\
+PDEACP \'a0pentadecenoyl-ACP (C15:1ACP)\
+\
+Straight and even #C:\
+HDEACP \'a0Hexadecenoyl-ACP\
+OCDACP \'a0Octadecanoyl-ACP (n-C18:0ACP)\
+OCTEACP Octadecenoyl-ACP (n-C18:1ACP)\
+PALMACP Palmitoyl-ACP (n-C16:0ACP)\
+\
+I looked a bit more at the model results. There are a bunch of\
+essential genes which grow because they are required to make essential\
+cofactors. So, these should be added to the biomass equation:\
+\
+hemeb (heme B)\
+sheme (siroheme)\
+ubq8 (ubiquinone-8)\
+btn (biotin)\
+pdx5p (pyridoxine 5'-phosphate)\
+thmpp (thiamin diphosphate)\
+\
+[For anaerobic experiments we would add menaquinone instead of ubq8]\
+\
+I'm also confused as to why the pentose phosphate pathway (e.g.,\
+SO3456, transaldolase) is not predicted to be essential in defined\
+conditions but I don't have a suggestion of what to change.}

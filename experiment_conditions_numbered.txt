@@ -1,0 +1,1496 @@
+----------Experimental details----------
+Experiment number: 1.000000 
+Experiment name: FE(III)                                    
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: FE(III)                                   
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 2.000000 
+Experiment name: Fumarate                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Fumarate                                  
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 3.000000 
+Experiment name: DMSO                                       
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: DMSO                                      
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 4.000000 
+Experiment name: Cobalt                                     
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Cobalt                                    
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 5.000000 
+Experiment name: MnOX                                       
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: MnOX                                      
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 6.000000 
+Experiment name: Nitrate                                    
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Nitrate                                   
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 9.000000 
+Experiment name: D,L lactate - stationary (high Calcium)    
+Carbon Source: D,L lactate - stationary (high Calcium)   
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 10.000000 
+Experiment name: pyruvate - stationary (high Calcium)       
+Carbon Source: pyruvate - stationary (high Calcium)      
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 11.000000 
+Experiment name: NAG  - exponential                         
+Carbon Source: NAG  - exponential                        
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 12.000000 
+Experiment name: NAG saturated                              
+Carbon Source: NAG saturated                             
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 13.000000 
+Experiment name: L-lactate saturated                        
+Carbon Source: L-lactate saturated                       
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 14.000000 
+Experiment name: pyruvate - exponential                     
+Carbon Source: pyruvate - exponential                    
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 15.000000 
+Experiment name: pyruvate - saturated                       
+Carbon Source: pyruvate - saturated                      
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 16.000000 
+Experiment name: D,L lactate - exp1                         
+Carbon Source: D,L lactate - exp1                        
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 17.000000 
+Experiment name: D,L lactate - stat1                        
+Carbon Source: D,L lactate - stat1                       
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 18.000000 
+Experiment name: D,L lactate - exp2                         
+Carbon Source: D,L lactate - exp2                        
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 19.000000 
+Experiment name: D,L lactate - stat2                        
+Carbon Source: D,L lactate - stat2                       
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 20.000000 
+Experiment name: adenosine - saturated                      
+Carbon Source: adenosine - saturated                     
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 21.000000 
+Experiment name: dna +C-N+P (lacate is carbon source)       
+Carbon Source: dna +C-N+P (lacate is carbon source)      
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 22.000000 
+Experiment name: D,L lacate + CAS + vitamins                
+Carbon Source: D,L lacate + CAS + vitamins               
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 23.000000 
+Experiment name: D,L lactate + CAS - vitamins               
+Carbon Source: D,L lactate + CAS - vitamins              
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 24.000000 
+Experiment name: tween-20 exponential                       
+Carbon Source: tween-20 exponential                      
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 25.000000 
+Experiment name: Inosine saturated                          
+Carbon Source: Inosine saturated                         
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 26.000000 
+Experiment name: D-Lactate saturated                        
+Carbon Source: D-Lactate saturated                       
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 27.000000 
+Experiment name: DMSO e acceptor                            
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: DMSO e acceptor                           
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 28.000000 
+Experiment name: DMSO e acceptor + .01% CAS amino acids     
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: DMSO e acceptor + .01% CAS amino acids    
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 29.000000 
+Experiment name: fumarate e acceptor                        
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: fumarate e acceptor                       
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 30.000000 
+Experiment name: fumarate e acceptor + .01% CAS amino acids 
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: fumarate e acceptor + .01% CAS amino acids
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 31.000000 
+Experiment name: MnOX e acceptor                            
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: MnOX e acceptor                           
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 32.000000 
+Experiment name: MnOX e acceptor + .01% CAS amino acids     
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: MnOX e acceptor + .01% CAS amino acids    
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 33.000000 
+Experiment name: Nitrate e acceptor                         
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Nitrate e acceptor                        
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 34.000000 
+Experiment name: Nitrate e acceptor + .01% CAS amino acids  
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Nitrate e acceptor + .01% CAS amino acids 
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 35.000000 
+Experiment name: CAS amino acids                            
+Carbon Source: CAS amino acids                           
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 36.000000 
+Experiment name: Inosine                                    
+Carbon Source: Inosine                                   
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 37.000000 
+Experiment name: Cytidine                                   
+Carbon Source: Cytidine                                  
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 38.000000 
+Experiment name: Uridine                                    
+Carbon Source: Uridine                                   
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 39.000000 
+Experiment name: Guanosine                                  
+Carbon Source: Guanosine                                 
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 40.000000 
+Experiment name: Gelatin                                    
+Carbon Source: Gelatin                                   
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 41.000000 
+Experiment name: Tween-20                                   
+Carbon Source: Tween-20                                  
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 42.000000 
+Experiment name: D,L lactate + .2% CAS + VIT                
+Carbon Source: D,L lactate + .2% CAS + VIT               
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 43.000000 
+Experiment name: D,L lactate + .2% CAS - VIT                
+Carbon Source: D,L lactate + .2% CAS - VIT               
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 44.000000 
+Experiment name: D,L lactate - .2% CAS - VIT                
+Carbon Source: D,L lactate - .2% CAS - VIT               
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 45.000000 
+Experiment name: D-Lactate                                  
+Carbon Source: D-Lactate                                 
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 46.000000 
+Experiment name: potassium acetate                          
+Carbon Source: potassium acetate                         
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 47.000000 
+Experiment name: L-glutamic acid                            
+Carbon Source: D,L-lactate
+Nitrogen Source: L-glutamic acid                           
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 48.000000 
+Experiment name: L-glutamine                                
+Carbon Source: D,L-lactate
+Nitrogen Source: L-glutamine                               
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 49.000000 
+Experiment name: L-phenylalanine (N source)                 
+Carbon Source: D,L-lactate
+Nitrogen Source: L-phenylalanine (N source)                
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 50.000000 
+Experiment name: ammonium chloride (N source)               
+Carbon Source: D,L-lactate
+Nitrogen Source: ammonium chloride (N source)              
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 51.000000 
+Experiment name: putrescine (N source)                      
+Carbon Source: D,L-lactate
+Nitrogen Source: putrescine (N source)                     
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 52.000000 
+Experiment name: L-isoleucine (N source)                    
+Carbon Source: D,L-lactate
+Nitrogen Source: L-isoleucine (N source)                   
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 53.000000 
+Experiment name: adenosine (N source)                       
+Carbon Source: D,L-lactate
+Nitrogen Source: adenosine (N source)                      
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 54.000000 
+Experiment name: L-arginine (N source)                      
+Carbon Source: D,L-lactate
+Nitrogen Source: L-arginine (N source)                     
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 55.000000 
+Experiment name: sodium propionate (C source)               
+Carbon Source: sodium propionate (C source)              
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 56.000000 
+Experiment name: propionate                                 
+Carbon Source: propionate                                
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 57.000000 
+Experiment name: leucine                                    
+Carbon Source: D,L-lactate
+Nitrogen Source: leucine                                   
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 58.000000 
+Experiment name: isoleucine                                 
+Carbon Source: D,L-lactate
+Nitrogen Source: isoleucine                                
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 59.000000 
+Experiment name: gly-asp                                    
+Carbon Source: gly-asp                                   
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 60.000000 
+Experiment name: fumarate e acceptor/NAG e donor            
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: fumarate e acceptor/NAG e donor           
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 61.000000 
+Experiment name: fumarate e acceptor/inosine e donor        
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: fumarate e acceptor/inosine e donor       
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 62.000000 
+Experiment name: dmso e acceptor/NAG e donor                
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: dmso e acceptor/NAG e donor               
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 63.000000 
+Experiment name: dmso e acceptor/inosine e donor            
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: dmso e acceptor/inosine e donor           
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 64.000000 
+Experiment name: glutamine                                  
+Carbon Source: D,L-lactate
+Nitrogen Source: glutamine                                 
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 65.000000 
+Experiment name: asparagine                                 
+Carbon Source: D,L-lactate
+Nitrogen Source: asparagine                                
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 66.000000 
+Experiment name: NAG                                        
+Carbon Source: D,L-lactate
+Nitrogen Source: NAG                                       
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 67.000000 
+Experiment name: ammonium chloride (N source).1             
+Carbon Source: D,L-lactate
+Nitrogen Source: ammonium chloride (N source).1            
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 68.000000 
+Experiment name: L-alanine (nitrogen)                       
+Carbon Source: D,L-lactate
+Nitrogen Source: L-alanine (nitrogen)                      
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 69.000000 
+Experiment name: Threonine (nitrogen)                       
+Carbon Source: D,L-lactate
+Nitrogen Source: Threonine (nitrogen)                      
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 70.000000 
+Experiment name: Glycine (nitrogen)                         
+Carbon Source: D,L-lactate
+Nitrogen Source: Glycine (nitrogen)                        
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 71.000000 
+Experiment name: Leucine (nitrogen)                         
+Carbon Source: D,L-lactate
+Nitrogen Source: Leucine (nitrogen)                        
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 72.000000 
+Experiment name: Histidine (nitrogen)                       
+Carbon Source: D,L-lactate
+Nitrogen Source: Histidine (nitrogen)                      
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 73.000000 
+Experiment name: Aspartic Acid (nitrogen)                   
+Carbon Source: D,L-lactate
+Nitrogen Source: Aspartic Acid (nitrogen)                  
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 74.000000 
+Experiment name: Methionine (nitrogen)                      
+Carbon Source: D,L-lactate
+Nitrogen Source: Methionine (nitrogen)                     
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 75.000000 
+Experiment name: alpha ketoglutaric acid (carbon)           
+Carbon Source: alpha ketoglutaric acid (carbon)          
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 76.000000 
+Experiment name: Nitrate-inosine                            
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Nitrate-inosine                           
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 77.000000 
+Experiment name: Nitrate-NAG                                
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Nitrate-NAG                               
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 78.000000 
+Experiment name: MnOX-NAG                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: MnOX-NAG                                  
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 79.000000 
+Experiment name: hypotaurine                                
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: hypotaurine                               
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 80.000000 
+Experiment name: thiourea                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: thiourea                                  
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 81.000000 
+Experiment name: thiosulfate                                
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: thiosulfate                               
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 82.000000 
+Experiment name: cysteine                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: cysteine                                  
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 83.000000 
+Experiment name: sulfate                                    
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: sulfate                                   
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 84.000000 
+Experiment name: sulfite                                    
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: sulfite                                   
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 85.000000 
+Experiment name: glutathione                                
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: glutathione                               
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 86.000000 
+Experiment name: thiophosphate                              
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: thiophosphate                             
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 87.000000 
+Experiment name: Na2H2PO4                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Na2H2PO4                                  
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 88.000000 
+Experiment name: cytidine 5' monophosphate                  
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: cytidine 5' monophosphate                 
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 89.000000 
+Experiment name: tripolyphospate                            
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: tripolyphospate                           
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 90.000000 
+Experiment name: o-phosphyl-ethanolamine                    
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: o-phosphyl-ethanolamine                   
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 91.000000 
+Experiment name: glycerol phosphate                         
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: glycerol phosphate                        
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 92.000000 
+Experiment name: gly-glu                                    
+Carbon Source: gly-glu                                   
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 93.000000 
+Experiment name: propionate.1                               
+Carbon Source: propionate.1                              
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 94.000000 
+Experiment name: glutamine.1                                
+Carbon Source: glutamine.1                               
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 95.000000 
+Experiment name: isoleucine.1                               
+Carbon Source: isoleucine.1                              
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 96.000000 
+Experiment name: glutamic acid                              
+Carbon Source: glutamic acid                             
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 97.000000 
+Experiment name: gly-asp.1                                  
+Carbon Source: gly-asp.1                                 
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 98.000000 
+Experiment name: leucine.1                                  
+Carbon Source: leucine.1                                 
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 99.000000 
+Experiment name: L-glutamine.1                              
+Carbon Source: L-glutamine.1                             
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 100.000000 
+Experiment name: L-phenylalanine                            
+Carbon Source: D,L-lactate
+Nitrogen Source: L-phenylalanine                           
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 101.000000 
+Experiment name: putrescine                                 
+Carbon Source: D,L-lactate
+Nitrogen Source: putrescine                                
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 102.000000 
+Experiment name: L-glutamic acid.1                          
+Carbon Source: D,L-lactate
+Nitrogen Source: L-glutamic acid.1                         
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 103.000000 
+Experiment name: L-glycine                                  
+Carbon Source: D,L-lactate
+Nitrogen Source: L-glycine                                 
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 104.000000 
+Experiment name: L-serine                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: L-serine                                  
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 105.000000 
+Experiment name: L-alanine                                  
+Carbon Source: D,L-lactate
+Nitrogen Source: L-alanine                                 
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 106.000000 
+Experiment name: L-threonine                                
+Carbon Source: D,L-lactate
+Nitrogen Source: L-threonine                               
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 107.000000 
+Experiment name: L-isoleucine                               
+Carbon Source: D,L-lactate
+Nitrogen Source: L-isoleucine                              
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 108.000000 
+Experiment name: adenosine                                  
+Carbon Source: D,L-lactate
+Nitrogen Source: adenosine                                 
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 109.000000 
+Experiment name: ammonium chloride                          
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: ammonium chloride                         
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 110.000000 
+Experiment name: L-asparagine                               
+Carbon Source: D,L-lactate
+Nitrogen Source: L-asparagine                              
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 111.000000 
+Experiment name: propionate.2                               
+Carbon Source: propionate.2                              
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 112.000000 
+Experiment name: D-lactate                                  
+Carbon Source: D-lactate                                 
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 113.000000 
+Experiment name: malic acid                                 
+Carbon Source: malic acid                                
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 114.000000 
+Experiment name: serine                                     
+Carbon Source: D,L-lactate
+Nitrogen Source: serine                                    
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 115.000000 
+Experiment name: butyrate                                   
+Carbon Source: butyrate                                  
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 116.000000 
+Experiment name: methionine                                 
+Carbon Source: D,L-lactate
+Nitrogen Source: methionine                                
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 117.000000 
+Experiment name: proline                                    
+Carbon Source: D,L-lactate
+Nitrogen Source: proline                                   
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 118.000000 
+Experiment name: aspartic acid                              
+Carbon Source: D,L-lactate
+Nitrogen Source: aspartic acid                             
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 119.000000 
+Experiment name: cytidine                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: cytidine                                  
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 120.000000 
+Experiment name: NAG.1                                      
+Carbon Source: D,L-lactate
+Nitrogen Source: NAG.1                                     
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 121.000000 
+Experiment name: glutamine.2                                
+Carbon Source: D,L-lactate
+Nitrogen Source: glutamine.2                               
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 122.000000 
+Experiment name: threonine                                  
+Carbon Source: D,L-lactate
+Nitrogen Source: threonine                                 
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 123.000000 
+Experiment name: isoleucine.2                               
+Carbon Source: D,L-lactate
+Nitrogen Source: isoleucine.2                              
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 124.000000 
+Experiment name: glutamic acid.1                            
+Carbon Source: D,L-lactate
+Nitrogen Source: glutamic acid.1                           
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 125.000000 
+Experiment name: serine.1                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: serine.1                                  
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 126.000000 
+Experiment name: DNA_as_CNP                                 
+Carbon Source: DNA_as_CNP
+Nitrogen Source: DNA_as_CNP
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus: DNA_as_CNP
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 127.000000 
+Experiment name: DNA_as_CP                                  
+Carbon Source: DNA_as_CP
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus: DNA_as_CP
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 128.000000 
+Experiment name: DNA_as_C                                   
+Carbon Source: DNA_as_C
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 129.000000 
+Experiment name: DNA_as_N                                   
+Carbon Source: D,L-lactate
+Nitrogen Source: DNA_as_N
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 130.000000 
+Experiment name: DNA_as_NP                                  
+Carbon Source: D,L-lactate
+Nitrogen Source: DNA_as_NP
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus: DNA_as_NP
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 131.000000 
+Experiment name: n-acetylglucosamine                        
+Carbon Source: n-acetylglucosamine                       
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 132.000000 
+Experiment name: inosine                                    
+Carbon Source: inosine                                   
+Nitrogen Source: Ammonia
+Electron Acceptor: Oxygen
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 133.000000 
+Experiment name: fumarate_e_acceptor                        
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: fumarate_e_acceptor                       
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 134.000000 
+Experiment name: DMSO_e_acceptor_plusCAS                    
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: DMSO_e_acceptor_plusCAS                   
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 135.000000 
+Experiment name: fumarate_e_acceptor_plusCAS                
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: fumarate_e_acceptor_plusCAS               
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 136.000000 
+Experiment name: nitrate_e_acceptor_plusCAS                 
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: nitrate_e_acceptor_plusCAS                
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 137.000000 
+Experiment name: TMAO_e_acceptor_plusCAS                    
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: TMAO_e_acceptor_plusCAS                   
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
+----------Experimental details----------
+Experiment number: 138.000000 
+Experiment name: iron_citrate_e_acceptor_plusCAS            
+Carbon Source: D,L-lactate
+Nitrogen Source: Ammonia
+Electron Acceptor: iron_citrate_e_acceptor_plusCAS           
+Sulfur Source: Sulfate
+Phosphorus Source: Phosphate
+----------------------------------------
+
+
